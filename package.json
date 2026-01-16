@@ -5,6 +5,6 @@
     "typescript": "^5.9.3"
   },
   "scripts": {
-    "generate-config": "ts-node url-cleanup.ts"
+    "generate-config": "ts-node index.ts"
   }
 }

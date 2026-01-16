@@ -71,7 +71,6 @@ const setupFiles = (): ProcessFiles => {
   }
 }
 
-// Returns a Map of (case-insensitive) channelCode => { channelCode, region, spid, referrers: Set } as taken from input file
 const groupInputByChannelCode = (inputFile: string): Map<string, LogData> => {
   const records = parse(fs.readFileSync(inputFile, 'utf8'), {
     skip_empty_lines: true
@@ -142,7 +141,7 @@ const generateConfig = ({ inputData, logFile }: { inputData: Map<string, LogData
   return configByRegion
 }
 
-const prepareLogProcessing = ({ inputData, summaryFile }: { inputData: Map<string, LogData>; summaryFile: string }): void => {
+const validate = ({ inputData, summaryFile }: { inputData: Map<string, LogData>; summaryFile: string }): void => {
   const log = (...args: any[]): void => {
     const message = args.join(' ') + '\n'
     fs.appendFileSync(summaryFile, message)
@@ -153,16 +152,28 @@ const prepareLogProcessing = ({ inputData, summaryFile }: { inputData: Map<strin
     console.warn(...args)
   }
 
-  const spidList = Array.from(inputData.values()).map(d => `"${d.spid}"`)
-  log(`Total number of channel codes found from the logs = ${inputData.size}`)
-  log(`Total number of SPIDs found from the logs = ${spidList.length}`)
+  const inputValues = Array.from(inputData.values())
+
+  const spidList = inputValues.map(d => `"${d.spid}"`)
   log(`List of SPIDs\n${spidList.join(',')}\n`)
 
-  if (inputData.size !== spidList.length) {
-    warn('Warning: Channel code count does not match SPID count. There may be duplicate SPIDs.')
+  const channelCodesBySpid: Map<string, string[]> = new Map()
+  inputValues.forEach(({ spid, channelCode }) => {
+    const existing = channelCodesBySpid.get(spid) || []
+    existing.push(channelCode)
+    channelCodesBySpid.set(spid, existing)
+  })
+
+  // Check for SPIDs associated with multiple channel codes
+  const spidsWithMultipleChannelCodes = Array.from(channelCodesBySpid.entries()).filter(([, channelCodes]) => channelCodes.length > 1)
+  if (spidsWithMultipleChannelCodes.length > 0) {
+    warn('Warning: Some SPIDs are associated with multiple channel codes. Please review.')
+    spidsWithMultipleChannelCodes.forEach(([spid, channelCodes]) => {
+      warn(`-- SPID: ${spid} | Channel codes: ${channelCodes.join(', ')}`)
+    })
   }
 
-  const inputValues = Array.from(inputData.values())
+  // Check for SPIDs missing from propertyWebsites
   const needsRefetch = inputValues.some(({ spid }) => !propertyWebsites.has(spid))
   if (needsRefetch) {
     warn(
@@ -173,6 +184,7 @@ const prepareLogProcessing = ({ inputData, summaryFile }: { inputData: Map<strin
     )
   }
 
+  // Check for channel codes with locale-specific case differences since we can only use toLowerCase in the CloudFront function
   const channelCodeNeedsLowerCaseConsideration = inputValues.filter(({ channelCode }) => channelCode.toLocaleLowerCase() !== channelCode.toLowerCase())
   if (channelCodeNeedsLowerCaseConsideration.length > 0) {
     warn('Warning: Some channel codes have different results for toLocaleLowerCase vs toLowerCase. Please review.')
@@ -201,7 +213,7 @@ const main = (): void => {
 
   const rawInputByChannelCode = groupInputByChannelCode(inputFile)
 
-  prepareLogProcessing({
+  validate({
     inputData: rawInputByChannelCode,
     summaryFile,
   })
