@@ -1,32 +1,34 @@
 import { parse } from 'csv-parse/sync'
 import * as fs from 'fs'
 import * as path from 'path'
+import { decorateConfigValue } from './config-value-decorator'
 import { domainsToFilterOut, internalDomains } from './domains'
 import propertyWebsites from './property-websites'
+import typeFormResponses from './typeform-responses'
 
 interface LogData {
-  channelCode: string;
-  region: string;
-  spid: string;
-  referrers: Set<string>;
+  channelCode: string
+  region: string
+  spid: string
+  referrers: Set<string>
 }
 
 interface ConfigEntry {
-  key: string;
-  value: string;
+  key: string
+  value: Set<string>
 }
 
 interface ConfigByRegion {
-  apac: ConfigEntry[];
-  emea: ConfigEntry[];
+  apac: ConfigEntry[]
+  emea: ConfigEntry[]
 }
 
 interface ProcessFiles {
-  inputFile: string;
-  logFile: string;
-  summaryFile: string;
-  apacConfigFile: string;
-  emeaConfigFile: string;
+  inputFile: string
+  logFile: string
+  summaryFile: string
+  apacConfigFile: string
+  emeaConfigFile: string
 }
 
 const isDomainToFilterOut = (domain: string): boolean => {
@@ -74,7 +76,7 @@ const setupFiles = (): ProcessFiles => {
 const groupInputByChannelCode = (inputFile: string): Map<string, LogData> => {
   const records = parse(fs.readFileSync(inputFile, 'utf8'), {
     skip_empty_lines: true
-  }) as string[][];
+  }) as string[][]
 
   const byChannelCode = new Map<string, LogData>()
 
@@ -93,7 +95,7 @@ const groupInputByChannelCode = (inputFile: string): Map<string, LogData> => {
   return byChannelCode
 }
 
-const generateConfig = ({ inputData, logFile }: { inputData: Map<string, LogData>; logFile: string }): ConfigByRegion => {
+const generateConfigFromLogs = ({ inputData, logFile }: { inputData: Map<string, LogData>, logFile: string }): ConfigByRegion => {
 
   const log = (...args: any[]): void => {
     const message = args.join(' ') + '\n'
@@ -107,7 +109,6 @@ const generateConfig = ({ inputData, logFile }: { inputData: Map<string, LogData
     const domains = extractDomainsFromUrls(referrers).filter(domain => domain && domain.trim().length > 0)
 
     const internalDomains = domains.filter(domain => isInternalDomain(domain))
-
     const filteredOutDomains = domains.filter(domain => isDomainToFilterOut(domain))
 
     const domainsForExclusion = [...internalDomains, ...filteredOutDomains]
@@ -134,14 +135,42 @@ const generateConfig = ({ inputData, logFile }: { inputData: Map<string, LogData
     const regionKey = region.toLowerCase() as 'apac' | 'emea'
     configByRegion[regionKey].push({
       key: channelCode,
-      value: [...finalDomains, '*'].join(','),
+      value: new Set(finalDomains)
     })
   })
 
   return configByRegion
 }
 
-const validate = ({ inputData, summaryFile }: { inputData: Map<string, LogData>; summaryFile: string }): void => {
+const updateConfigWithTypeformResponses = (config: ConfigByRegion): ConfigByRegion => {
+  typeFormResponses.forEach(response => {
+    const regionKey = response.region.toLowerCase() as 'apac' | 'emea'
+    const channelCode = response.key.toLowerCase()
+    const existingEntryIndex = config[regionKey].findIndex(entry => entry.key === channelCode)
+
+    if (response.__remove) {
+      // If not embedding, remove any existing entry
+      if (existingEntryIndex !== -1) {
+        config[regionKey].splice(existingEntryIndex, 1)
+      }
+    } else {
+      const newValue = new Set(response.value.split(',').map(item => item.trim()))
+      if (existingEntryIndex !== -1) {
+        // Update existing entry with value from Typeform response
+        config[regionKey][existingEntryIndex].value = newValue
+      } else {
+        // Add new entry
+        config[regionKey].push({
+          key: channelCode,
+          value: newValue,
+        })
+      }
+    }
+  })
+  return config
+}
+
+const validate = ({ inputData, summaryFile }: { inputData: Map<string, LogData>, summaryFile: string }): void => {
   const log = (...args: any[]): void => {
     const message = args.join(' ') + '\n'
     fs.appendFileSync(summaryFile, message)
@@ -192,6 +221,18 @@ const validate = ({ inputData, summaryFile }: { inputData: Map<string, LogData>;
       warn(`-- ${channelCode} | toLocaleLowerCase: ${channelCode.toLocaleLowerCase()} | toLowerCase: ${channelCode.toLowerCase()}`)
     })
   }
+
+  // Validate typeform responses for duplicate channel codes
+  const typeformChannelCodes = typeFormResponses.map(r => r.key.toLowerCase())
+  const duplicateChannelCodes = typeformChannelCodes.filter((code, index) => typeformChannelCodes.indexOf(code) !== index)
+  if (duplicateChannelCodes.length > 0) {
+    warn('Warning: Duplicate channel codes found in typeform responses. Please review and update the typeform-responses.ts data.')
+    duplicateChannelCodes.forEach(channelCode => {
+      typeFormResponses.filter(r => r.key.toLowerCase() === channelCode).forEach((typeFormResponse) => {
+        warn(`-- ${channelCode} | entry: ${JSON.stringify(typeFormResponse)}`)
+      })
+    })
+  }
 }
 
 const extractDomainsFromUrls = (urls: string[] | Set<string>): string[] => {
@@ -218,13 +259,24 @@ const main = (): void => {
     summaryFile,
   })
 
-  const config = generateConfig({
+  const config = generateConfigFromLogs({
     inputData: rawInputByChannelCode,
     logFile,
   })
 
-  fs.writeFileSync(apacConfigFile, JSON.stringify(config.apac, null, 2))
-  fs.writeFileSync(emeaConfigFile, JSON.stringify(config.emea, null, 2))
+  updateConfigWithTypeformResponses(config)
+
+  const apacConfig = config.apac.map(entry => ({
+    key: entry.key,
+    value: decorateConfigValue(entry.value),
+  }))
+  const emeaConfig = config.emea.map(entry => ({
+    key: entry.key,
+    value: decorateConfigValue(entry.value),
+  }))
+
+  fs.writeFileSync(apacConfigFile, JSON.stringify(apacConfig, null, 2))
+  fs.writeFileSync(emeaConfigFile, JSON.stringify(emeaConfig, null, 2))
 
 }
 

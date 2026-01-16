@@ -545,7 +545,7 @@
   },
   {
     "key": "thelomboklodgedirect",
-    "value": "tllhospitality.com,thelomboklodge.com,*"
+    "value": "thelomboklodge.com,tllhospitality.com,*"
   },
   {
     "key": "umivillapattayadirect",
@@ -1001,7 +1001,7 @@
   },
   {
     "key": "berntismountaindirect",
-    "value": "berntis.com.au,*"
+    "value": "berntis.com.au,deanv96.sg-host.com,*"
   },
   {
     "key": "sbcandidirect",
@@ -1089,7 +1089,7 @@
   },
   {
     "key": "mamkaibaebeachresort-kohchang",
-    "value": "mamkaibae.com,*"
+    "value": "mamkaibaehotel.com,mamkaibaehotel.com.th,*"
   },
   {
     "key": "archiesbunkerdirect",
@@ -1493,7 +1493,7 @@
   },
   {
     "key": "pelicanpointwaterfrontresortformerlyknownasca",
-    "value": "*"
+    "value": "carnarvonretreat.com.au,*"
   },
   {
     "key": "doombenridge",
@@ -1514,10 +1514,6 @@
   {
     "key": "clearwatermotelapartmentdirect",
     "value": "clearwatermotel.com.au,*"
-  },
-  {
-    "key": "serenityholidayhouseportlincolnholidayhouses",
-    "value": "*"
   },
   {
     "key": "lantaintanindirect",
@@ -1625,7 +1621,7 @@
   },
   {
     "key": "boxgrovedirect",
-    "value": "rest.boxgrove.com.au,*"
+    "value": "boxgrove.com.au,*"
   },
   {
     "key": "ellisapartmentsdirect",
@@ -1833,7 +1829,7 @@
   },
   {
     "key": "gladstonecbdmotel",
-    "value": "*"
+    "value": "gladstonecbdmotel.com.au,*"
   },
   {
     "key": "perthcityapartmenthoteldirect",
@@ -1897,7 +1893,7 @@
   },
   {
     "key": "barefootkuata",
-    "value": "barefootkuatafiji.com,www-barefootkuatafiji-com.filesusr.com,*"
+    "value": "barefootkuatafiji.com,*"
   },
   {
     "key": "lakeviewmotorinndirect",
@@ -1941,7 +1937,7 @@
   },
   {
     "key": "shanghaiifcresidence",
-    "value": "ifcresidence.com,*"
+    "value": "ifcresidence.com,ifcr.circle-soft.com,*"
   },
   {
     "key": "flemingtonhoteldirect",
@@ -1961,7 +1957,7 @@
   },
   {
     "key": "watsonsbaydirect",
-    "value": "watsonsbayhotel.com.au,*"
+    "value": "watsonsbayhotel.com.au,watsonsbay.staging.laundy.doghouse.cloud,*"
   },
   {
     "key": "theedgedirect",
@@ -1977,15 +1973,11 @@
   },
   {
     "key": "upstairsdownstairscolivingbukitbintang",
-    "value": "*"
+    "value": "upstairs-downstairs.co,*"
   },
   {
     "key": "momo'skualalumpurdirect",
     "value": "stayatmomos.com,*"
-  },
-  {
-    "key": "pavnthbrndirect",
-    "value": "pavilioncanberra.com.au,*"
   },
   {
     "key": "cormarsuitesdirect",
@@ -2001,7 +1993,7 @@
   },
   {
     "key": "indilaboracay",
-    "value": "*"
+    "value": "indilaboracay.com,*"
   },
   {
     "key": "treescapemountainviewresort",
@@ -2021,7 +2013,7 @@
   },
   {
     "key": "hotelbossdirect",
-    "value": "hotelboss.sg,*"
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
   },
   {
     "key": "casanovahouse",
@@ -2065,7 +2057,7 @@
   },
   {
     "key": "vlavenderdirect",
-    "value": "vhotel.sg,*"
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
   },
   {
     "key": "pesonaresortdirect",
@@ -2201,11 +2193,11 @@
   },
   {
     "key": "hotel81stardirect",
-    "value": "hotel81.com.sg,*"
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
   },
   {
     "key": "h81singaporedirect",
-    "value": "hotel81.com.sg,*"
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
   },
   {
     "key": "bellskillcaredirect",
@@ -2217,7 +2209,7 @@
   },
   {
     "key": "puriximendirect",
-    "value": "hotel-puri.com.tw,*"
+    "value": "hotel-puri.com,hotel-puri.com.tw,*"
   },
   {
     "key": "balconyseasidedirect",
@@ -2261,11 +2253,11 @@
   },
   {
     "key": "delatitehoteldirect",
-    "value": "thedelatitehotel.com.au,*"
+    "value": "thedelatitehotel.com.au,the-delatite-hotel.webflow.io,*"
   },
   {
     "key": "stayshoteldirect",
-    "value": "*"
+    "value": "stays.com.my,*"
   },
   {
     "key": "veladhiudonthanidirect",
@@ -2349,7 +2341,7 @@
   },
   {
     "key": "sohoaucklanddirect",
-    "value": "soholuxuryhotels.com,kale-badger-pz5p.squarespace.com,*"
+    "value": "soholuxuryhotels.com,*"
   },
   {
     "key": "haystreettravellersinndirect",
@@ -2361,7 +2353,7 @@
   },
   {
     "key": "atiuvillasdirect",
-    "value": "atiuvillas.com,*"
+    "value": "atiuvillas.com,canvas.siteminder.com,*"
   },
   {
     "key": "artebythomaschandirect",
@@ -2429,7 +2421,7 @@
   },
   {
     "key": "mouseshouse",
-    "value": "mouseshouse.com.au,*"
+    "value": "mouseshouse.com.au,mousesretreat.com.au,*"
   },
   {
     "key": "thecubanaballinadirect",
@@ -2489,7 +2481,7 @@
   },
   {
     "key": "coronetridgeresort",
-    "value": "coronetridge.co.nz,dahlia-quillfish-brpg.squarespace.com,*"
+    "value": "coronetridge.co.nz,*"
   },
   {
     "key": "chillinnhub",
@@ -2541,7 +2533,7 @@
   },
   {
     "key": "fourpointsbysheratonyilanjiaoxi",
-    "value": "nowebsite.com,*"
+    "value": "fourpointsbysheraton-jiaoxi.com,app.lihi.io,*"
   },
   {
     "key": "brachavillas",
@@ -2585,7 +2577,7 @@
   },
   {
     "key": "hotelmidirect",
-    "value": "hotelmi.com,*"
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
   },
   {
     "key": "phiphirelaxbeachresortdirect",
@@ -2781,7 +2773,7 @@
   },
   {
     "key": "portageresortdirect",
-    "value": "portageresort.co.nz,magnolia-grey-8pyx.squarespace.com,*"
+    "value": "portageresort.co.nz,*"
   },
   {
     "key": "clementshotel",
@@ -3074,5 +3066,225 @@
   {
     "key": "starushotelbukitbintang",
     "value": "starushotel.com,*"
+  },
+  {
+    "key": "anamandaravillasdirect",
+    "value": "anamandara-resort.com,*"
+  },
+  {
+    "key": "awaroadirect",
+    "value": "awaroalodge.co.nz,*"
+  },
+  {
+    "key": "trilogysurfersparadisedirect",
+    "value": "bryanf304.sg-host.com,trilogygoldcoast.com.au,*"
+  },
+  {
+    "key": "gladstonecapricornapartments",
+    "value": "capricornsuites.com.au,*"
+  },
+  {
+    "key": "dennarqueestate",
+    "value": "dennarqueestate.com,*"
+  },
+  {
+    "key": "foxhousescone",
+    "value": "foxhousescone.com.au,fox-house-scone.webflow.io,*"
+  },
+  {
+    "key": "kabanhotelandcasinoboracay",
+    "value": "kabanboracay.com,*"
+  },
+  {
+    "key": "molecreekcabinsdirect",
+    "value": "molecreekcabins.com.au,*"
+  },
+  {
+    "key": "parklandscalliope",
+    "value": "parklands-resort.com.au,*"
+  },
+  {
+    "key": "parksidehotelandapartmentsdirect",
+    "value": "parksidehotel.co.nz,*"
+  },
+  {
+    "key": "pericoeretreatbb",
+    "value": "pericoeretreat.com.au,*"
+  },
+  {
+    "key": "ratanuilodgedirect",
+    "value": "ratanuilodge.com,*"
+  },
+  {
+    "key": "senseasiaresortdirect",
+    "value": "sense-asia.com,senseasia20037.live-website.com,*"
+  },
+  {
+    "key": "stagewelldirect",
+    "value": "stagewellhotel.com,*"
+  },
+  {
+    "key": "scubahavefuvahmulahdiveguesthouse",
+    "value": "stayatscubahaven.com,aquaatoll.com,*"
+  },
+  {
+    "key": "kinnstudiosdirect",
+    "value": "staywithkinn.com,*"
+  },
+  {
+    "key": "sunrisedirect",
+    "value": "sunrisegiliair.com,*"
+  },
+  {
+    "key": "taipabeachresort",
+    "value": "taipabeachresort.co.nz,*"
+  },
+  {
+    "key": "themargaretrivertrufflefarm",
+    "value": "themargaretrivertrufflefarm.com.au,*"
+  },
+  {
+    "key": "upstairsdownstairscolivingkampungpandan",
+    "value": "upstairs-downstairs.co,*"
+  },
+  {
+    "key": "villaeiradirect",
+    "value": "villaeira.pt,*"
+  },
+  {
+    "key": "wildernesslodgearthurspassdirect",
+    "value": "wildernesslodge.co.nz,*"
+  },
+  {
+    "key": "wildernesslodgelakemoerakidirect",
+    "value": "wildernesslodge.co.nz,*"
+  },
+  {
+    "key": "wqhoteldirect",
+    "value": "wqhotel.co.nz,*"
+  },
+  {
+    "key": "81balestierdirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "81chinatowndirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "81heritagedirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "h81golddirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hot81elegancedirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81bugisdirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81changidirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81classicdirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81cosydirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81dicksondirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81fujidirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81geylangdirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81joydirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81kovandirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81lavenderdirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81luckydirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81orchiddirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81osakadirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81palacedirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81rochordirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotel81selegiedirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotelmirochordirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "hotelsakurabyvenuedirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "htl81princessdirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "htl81tristardirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "valuebalestierdirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "valuehotelnicedirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "valuehotelthomdirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "vbencoolendirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "venuehoteldirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
+  },
+  {
+    "key": "venuelilydirect",
+    "value": "wwhotels.com,local.wwhotels.com,wwhotels.emarketingeye.net,*"
   }
 ]
