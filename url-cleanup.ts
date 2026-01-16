@@ -1,16 +1,43 @@
-// @ts-nocheck
-const fs = require('fs')
-const path = require('path')
-const { config } = require('process')
-const { parse } = require('csv-parse/sync')
+import { parse } from 'csv-parse/sync'
+import * as fs from 'fs'
+import * as path from 'path'
+import { domainsToFilterOut, internalDomains } from './domains'
+import propertyWebsites from './property-websites'
 
-const { internalDomains, domainsToFilterOut } = require('./domains')
-const isDomainToFilterOut = (domain) => Boolean(domainsToFilterOut.find(d => domain === d || domain.endsWith('.' + d)))
-const isInternalDomain = (domain) => Boolean(internalDomains.find(d => domain === d || domain.endsWith('.' + d)))
+interface LogData {
+  channelCode: string;
+  region: string;
+  spid: string;
+  referrers: Set<string>;
+}
 
-const propertyWebsites = require('./property-websites')
+interface ConfigEntry {
+  key: string;
+  value: string;
+}
 
-const setupFiles = () => {
+interface ConfigByRegion {
+  apac: ConfigEntry[];
+  emea: ConfigEntry[];
+}
+
+interface ProcessFiles {
+  inputFile: string;
+  logFile: string;
+  summaryFile: string;
+  apacConfigFile: string;
+  emeaConfigFile: string;
+}
+
+const isDomainToFilterOut = (domain: string): boolean => {
+  return domainsToFilterOut.some(d => domain === d || domain.endsWith('.' + d))
+}
+
+const isInternalDomain = (domain: string): boolean => {
+  return internalDomains.some(d => domain === d || domain.endsWith('.' + d))
+}
+
+const setupFiles = (): ProcessFiles => {
   const inputFile = process.argv[2]
   if (!inputFile) {
     console.error('Usage: node url-cleanup.js <input-log_results>')
@@ -45,12 +72,12 @@ const setupFiles = () => {
 }
 
 // Returns a Map of (case-insensitive) channelCode => { channelCode, region, spid, referrers: Set } as taken from input file
-const groupInputByChannelCode = (inputFile) => {
+const groupInputByChannelCode = (inputFile: string): Map<string, LogData> => {
   const records = parse(fs.readFileSync(inputFile, 'utf8'), {
     skip_empty_lines: true
-  })
+  }) as string[][];
 
-  const byChannelCode = new Map()
+  const byChannelCode = new Map<string, LogData>()
 
   records.forEach(record => {
     const [region, spid, rawChannelCode, referrer] = record
@@ -67,13 +94,13 @@ const groupInputByChannelCode = (inputFile) => {
   return byChannelCode
 }
 
-const generateConfig = ({ inputData, logFile }) => {
+const generateConfig = ({ inputData, logFile }: { inputData: Map<string, LogData>; logFile: string }): ConfigByRegion => {
 
-  const log = (...args) => {
+  const log = (...args: any[]): void => {
     const message = args.join(' ') + '\n'
     fs.appendFileSync(logFile, message)
   }
-  const configByRegion = { apac: [], emea: [] }
+  const configByRegion: ConfigByRegion = { apac: [], emea: [] }
 
   inputData.forEach((data, channelCode) => {
     const { region, spid, referrers } = data
@@ -105,7 +132,8 @@ const generateConfig = ({ inputData, logFile }) => {
     log(`--Final domains to include: ${finalDomains.join(', ')}`)
     log('\n')
 
-    configByRegion[region.toLowerCase()].push({
+    const regionKey = region.toLowerCase() as 'apac' | 'emea'
+    configByRegion[regionKey].push({
       key: channelCode,
       value: [...finalDomains, '*'].join(','),
     })
@@ -114,34 +142,29 @@ const generateConfig = ({ inputData, logFile }) => {
   return configByRegion
 }
 
-const createSummary = ({ inputData, summaryFile }) => {
-  const log = (...args) => {
+const prepareLogProcessing = ({ inputData, summaryFile }: { inputData: Map<string, LogData>; summaryFile: string }): void => {
+  const log = (...args: any[]): void => {
     const message = args.join(' ') + '\n'
     fs.appendFileSync(summaryFile, message)
   }
 
-  const warn = (...args) => {
+  const warn = (...args: any[]): void => {
     log(...args)
     console.warn(...args)
   }
 
-  log('Summary Report')
-  log('==============\n')
-
   const spidList = Array.from(inputData.values()).map(d => `"${d.spid}"`)
-  log(`Channel code total = ${inputData.size}`)
-  log(`SPID total = ${spidList.length}`)
-  log(`SPIDs\n${spidList.join(',')}\n`)
+  log(`Total number of channel codes found from the logs = ${inputData.size}`)
+  log(`Total number of SPIDs found from the logs = ${spidList.length}`)
+  log(`List of SPIDs\n${spidList.join(',')}\n`)
 
   if (inputData.size !== spidList.length) {
-    log('==============')
     warn('Warning: Channel code count does not match SPID count. There may be duplicate SPIDs.')
   }
 
   const inputValues = Array.from(inputData.values())
   const needsRefetch = inputValues.some(({ spid }) => !propertyWebsites.has(spid))
   if (needsRefetch) {
-    log('==============')
     warn(
       'Warning: Some SPIDs are missing website data.',
       `Please copy SPIDs from ${summaryFile}`,
@@ -152,17 +175,16 @@ const createSummary = ({ inputData, summaryFile }) => {
 
   const channelCodeNeedsLowerCaseConsideration = inputValues.filter(({ channelCode }) => channelCode.toLocaleLowerCase() !== channelCode.toLowerCase())
   if (channelCodeNeedsLowerCaseConsideration.length > 0) {
-    log('==============')
-    warn('Warning: Some channel codes have different results for toLocaleLowerCase vs toLowerCase. Please review:')
+    warn('Warning: Some channel codes have different results for toLocaleLowerCase vs toLowerCase. Please review.')
     channelCodeNeedsLowerCaseConsideration.forEach(({ channelCode }) => {
       warn(`-- ${channelCode} | toLocaleLowerCase: ${channelCode.toLocaleLowerCase()} | toLowerCase: ${channelCode.toLowerCase()}`)
     })
   }
 }
 
-const extractDomainsFromUrls = (urls) => {
-  const domains = new Set()
-  urls.forEach(urlString => {
+const extractDomainsFromUrls = (urls: string[] | Set<string>): string[] => {
+  const domains = new Set<string>()
+  urls.forEach((urlString: string) => {
     try {
       const url = new URL(urlString)
       domains.add(url.hostname.replace(/^www\./, ''))
@@ -173,20 +195,20 @@ const extractDomainsFromUrls = (urls) => {
   return Array.from(domains)
 }
 
-const main = () => {
+const main = (): void => {
 
   const { inputFile, logFile, summaryFile, apacConfigFile, emeaConfigFile } = setupFiles()
 
   const rawInputByChannelCode = groupInputByChannelCode(inputFile)
 
+  prepareLogProcessing({
+    inputData: rawInputByChannelCode,
+    summaryFile,
+  })
+
   const config = generateConfig({
     inputData: rawInputByChannelCode,
     logFile,
-  })
-
-  createSummary({
-    inputData: rawInputByChannelCode,
-    summaryFile,
   })
 
   fs.writeFileSync(apacConfigFile, JSON.stringify(config.apac, null, 2))

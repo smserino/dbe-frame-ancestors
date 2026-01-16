@@ -1,5 +1,10 @@
 {
-  "dependencies": {
-    "csv-parse": "^6.1.0"
+  "devDependencies": {
+    "csv-parse": "^6.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "generate-config": "ts-node url-cleanup.ts"
   }
 }
