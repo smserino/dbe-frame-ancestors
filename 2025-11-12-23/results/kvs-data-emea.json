@@ -1,0 +1,6534 @@
+[
+  {
+    "key": "miclosdirect",
+    "value": "mi-clos.com,*"
+  },
+  {
+    "key": "themillsuitesdirect",
+    "value": "sys-rsrv.com,tasaccommodations.co.uk,*"
+  },
+  {
+    "key": "hotelnapoleondirect",
+    "value": "napoleon-menton.com,*"
+  },
+  {
+    "key": "hotelquintaspapagayo",
+    "value": "quintaspapagayo.com,www-quintaspapagayo-com.filesusr.com,7d3882de-1f17-413e-acd5-afdceb484c37.filesusr.com,*"
+  },
+  {
+    "key": "cavaliersouthbeachhotel",
+    "value": "cavaliersouthbeach.com,*"
+  },
+  {
+    "key": "hotelbiwatulumdirect",
+    "value": "biwatulum.com,*"
+  },
+  {
+    "key": "moselstayhoteltrierdirect",
+    "value": "coffee-fellows.com,coffee-fellows-website-git-feature-integration-hot-8a3d13-ddipo.vercel.app,*"
+  },
+  {
+    "key": "abbisuitesdirect",
+    "value": "abbisuites.com,*"
+  },
+  {
+    "key": "bestenheiderstubendirect",
+    "value": "bestenheider-stuben.de,editor.wix.com,*"
+  },
+  {
+    "key": "terradominicatadirect",
+    "value": "terradominicata.com,*"
+  },
+  {
+    "key": "atarazanasdirect",
+    "value": "atarazanasmalaga.com,hotel-atarazanas-malaga.com,trivago.nl,*"
+  },
+  {
+    "key": "hotelhoftuetsbergdirect",
+    "value": "tuetsberg.de,*"
+  },
+  {
+    "key": "caranabeachdirect",
+    "value": "caranabeach.com,*"
+  },
+  {
+    "key": "oliveinnberlindirect",
+    "value": "berlin.oliveinn.de,*"
+  },
+  {
+    "key": "cedarlodgedirect",
+    "value": "yosemiteresorts.com,*"
+  },
+  {
+    "key": "hotelmirayadirect",
+    "value": "hotelmiraya.com,trivago.es,*"
+  },
+  {
+    "key": "thesamuelpalmer",
+    "value": "thesamuelpalmer.com,*"
+  },
+  {
+    "key": "landgasthofaltebergmuehledirect",
+    "value": "alte-bergmuehle.de,*"
+  },
+  {
+    "key": "casafinadirect",
+    "value": "casafinaconil.com,*"
+  },
+  {
+    "key": "burgsatzvey",
+    "value": "burgsatzvey.de,*"
+  },
+  {
+    "key": "bizipozhoteldirect",
+    "value": "bizipoz.com,en.bizipoz.com,es.bizipoz.com,bizipoz.webflow.io,*"
+  },
+  {
+    "key": "thetannerytownhouse",
+    "value": "tannery.ie,*"
+  },
+  {
+    "key": "evialiferesort",
+    "value": "evialiferesort.com,raspberry-flugelhorn-em7c.squarespace.com,*"
+  },
+  {
+    "key": "arivoaptsdirect",
+    "value": "arivo.de,*"
+  },
+  {
+    "key": "olivenerevillaagriturismodirect",
+    "value": "olivenereagriturismo.it,*"
+  },
+  {
+    "key": "emiratesparkzoo",
+    "value": "live.emiratesparkzooandresort.com,emiratesparkzooandresort.com,dash.emiratesparkzooandresort.com,mail.emiratesparkzooandresort.com,*"
+  },
+  {
+    "key": "laserreriadirect",
+    "value": "laserreria-turismorural.es,*"
+  },
+  {
+    "key": "monarchhousedirect",
+    "value": "monarchhouse.co.uk,monarch-house.squarespace.com,*"
+  },
+  {
+    "key": "thespringsrsrtandspaatarnldirect",
+    "value": "thespringscostarica.com,*"
+  },
+  {
+    "key": "cowichanriverlodgedirect",
+    "value": "thecowichanriverlodge.com,*"
+  },
+  {
+    "key": "hotelarenaendirect",
+    "value": "hotelarena-cologne.com,*"
+  },
+  {
+    "key": "rehausdirect",
+    "value": "rehaus.mx,*"
+  },
+  {
+    "key": "cerritossurftownbeachhoteldirect",
+    "value": "cerritossurftown.com,cst.tharejafacts.com,*"
+  },
+  {
+    "key": "hotelboutiquebalandretdirect",
+    "value": "balandret.com,*"
+  },
+  {
+    "key": "oceanstarinndirect",
+    "value": "oceanstarinn.com,*"
+  },
+  {
+    "key": "onechicagodirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "kinohotelmeyerdirect",
+    "value": "kino-hotel.de,kino-hotel-harsefeld.de,*"
+  },
+  {
+    "key": "hpandreasdirect",
+    "value": "hpandreas.com,*"
+  },
+  {
+    "key": "hotelmilano_direct",
+    "value": "hotel-milano24.de,*"
+  },
+  {
+    "key": "wolfeggappartementdirect",
+    "value": "wolfegg.at,*"
+  },
+  {
+    "key": "wiseriverclubdirect",
+    "value": "wiseriverclub.com,*"
+  },
+  {
+    "key": "thefarmstead",
+    "value": "farmsteadlodges.co.uk,farmsteadlodgesold.co.uk,*"
+  },
+  {
+    "key": "coffeefellowshotelfrankfurtdirect",
+    "value": "coffee-fellows.com,*"
+  },
+  {
+    "key": "yosemiteviewlodge",
+    "value": "yosemiteresorts.com,*"
+  },
+  {
+    "key": "antigonishevergreeninndirect",
+    "value": "antigonishevergreeninn.ca,*"
+  },
+  {
+    "key": "lemontreedirect",
+    "value": "thelemontree.org.uk,*"
+  },
+  {
+    "key": "duomogmbhdirect",
+    "value": "derwinzerhof.at,*"
+  },
+  {
+    "key": "asbergerhof",
+    "value": "hotel-asbergerhof.de,*"
+  },
+  {
+    "key": "trevenquedirect",
+    "value": "apartahoteltrevenque.com,apartahoteltrevenque.es,sierranevada.es,*"
+  },
+  {
+    "key": "bischofshofbraustubendirect",
+    "value": "bischofshof-braustube.de,*"
+  },
+  {
+    "key": "peasoupandersensinndirect",
+    "value": "peasoupandersens.com,*"
+  },
+  {
+    "key": "celebrityhoteldirect",
+    "value": "celebrityhotel.com,*"
+  },
+  {
+    "key": "elfenn",
+    "value": "el-fenn.com,*"
+  },
+  {
+    "key": "hotelfavorimiongmbh",
+    "value": "hotel-favor.de,*"
+  },
+  {
+    "key": "hotelalpinnbedbreakfastdirect",
+    "value": "alpin-fischen.de,*"
+  },
+  {
+    "key": "aubergedupeupequignotdirect",
+    "value": "aubergedupeupe.ch,aubergedupeupe.squarespace.com,*"
+  },
+  {
+    "key": "mountainshoteldirect",
+    "value": "mountains.at,trivago.at,*"
+  },
+  {
+    "key": "alpenhotelkaiserfelsdirect",
+    "value": "kaiserfels.at,kaiserfels.com,kaiserfels-2025.com.futurecms.at,*"
+  },
+  {
+    "key": "hoteluvemarcenadodirect",
+    "value": "uvehoteles.com,*"
+  },
+  {
+    "key": "simbarun",
+    "value": "simbarun.com,*"
+  },
+  {
+    "key": "napoleondirect",
+    "value": "landhotel-napoleon.de,*"
+  },
+  {
+    "key": "surflodgeandpub-1",
+    "value": "surflodgegabriola.com,*"
+  },
+  {
+    "key": "villatheakurhoteldirect",
+    "value": "hotel-villathea.de,*"
+  },
+  {
+    "key": "tenutahotelvillacolleserenodirect",
+    "value": "villacollesereno.it,*"
+  },
+  {
+    "key": "cityroomswels",
+    "value": "cityroomswels.at,cityrooms-wels.at,*"
+  },
+  {
+    "key": "telecabinadirect",
+    "value": "hoteltelecabina.com,sierranevada.es,hoteltelecabina.es,*"
+  },
+  {
+    "key": "bandbvilladeadelinadirect",
+    "value": "lavilladeadelina.com,casaadelina.mx,*"
+  },
+  {
+    "key": "fullertoninndirect",
+    "value": "*"
+  },
+  {
+    "key": "casablancagolfvillasdirect",
+    "value": "casablancagolfvillas.com,*"
+  },
+  {
+    "key": "antarissuitegaleriasdirect",
+    "value": "hotelantaris.com,*"
+  },
+  {
+    "key": "fahanagaymenonlydirect",
+    "value": "fahanahotels.com,*"
+  },
+  {
+    "key": "pointeplaza",
+    "value": "pointeplazahotel.com,*"
+  },
+  {
+    "key": "lobatulumdirect",
+    "value": "lobatulum.com,*"
+  },
+  {
+    "key": "miracielosdirect",
+    "value": "hotelmiracielos.es,*"
+  },
+  {
+    "key": "labellerodriguaise",
+    "value": "labellerodriguaise.com,*"
+  },
+  {
+    "key": "starlightinndirect",
+    "value": "hotel29palms.com,*"
+  },
+  {
+    "key": "solarbrancoecoestatedirect",
+    "value": "solarbranco.com,*"
+  },
+  {
+    "key": "harmonyhousemotel",
+    "value": "harmonyhousemotel.com,cornet-beagle-8czd.squarespace.com,*"
+  },
+  {
+    "key": "peachtreeinndirect",
+    "value": "thepeachtreeinn.com,*"
+  },
+  {
+    "key": "complejorurallardevies",
+    "value": "lardevies.com,*"
+  },
+  {
+    "key": "rivieradelsolhotelspadirect",
+    "value": "rivieradelsol.co,*"
+  },
+  {
+    "key": "cypressinndirect",
+    "value": "cypressinn.com,*"
+  },
+  {
+    "key": "hotelrecdepalaudirect",
+    "value": "hotelrecdepalau.com,*"
+  },
+  {
+    "key": "zazilretreat-direct",
+    "value": "zazilretreat.com,*"
+  },
+  {
+    "key": "orsipalmadirect",
+    "value": "hostalorsi.de,*"
+  },
+  {
+    "key": "thebluepeterhotel",
+    "value": "bluepeter.co.za,*"
+  },
+  {
+    "key": "goodnighthosteldirect",
+    "value": "goodnighthostellisbon.com,*"
+  },
+  {
+    "key": "apartamentsdelfinspaindirect",
+    "value": "apartamentsdelfin.com,*"
+  },
+  {
+    "key": "theholthoteldirect",
+    "value": "holthotel.co.uk,*"
+  },
+  {
+    "key": "hotelauradirect",
+    "value": "aurahotelboutique.mx,*"
+  },
+  {
+    "key": "sunbreezesuitesdirect",
+    "value": "sunbreezesuites.com,*"
+  },
+  {
+    "key": "lagunashoresresortdirect",
+    "value": "lagunashoresresort.com,*"
+  },
+  {
+    "key": "peyresortdirect",
+    "value": "peyresort.com,peyresort.pper2.com,*"
+  },
+  {
+    "key": "onedutchhoteldirect",
+    "value": "onedutchhotel.com,*"
+  },
+  {
+    "key": "montauxsourcesdrakensbergresort",
+    "value": "montauxsources.co.za,*"
+  },
+  {
+    "key": "landhausettenbuehldirect",
+    "value": "landhaus-ettenbuehl.de,*"
+  },
+  {
+    "key": "chiemgauappartementsinzelldirect",
+    "value": "chiemgau-appartements.de,*"
+  },
+  {
+    "key": "labuenavibraretreatandspahotel",
+    "value": "hotelbuenavibra.com,*"
+  },
+  {
+    "key": "mamachuyhotelandvillasdirect",
+    "value": "mamachuy.com.mx,*"
+  },
+  {
+    "key": "surflandhoteldirect",
+    "value": "surflandhotel.com,*"
+  },
+  {
+    "key": "canterbury-lodge",
+    "value": "canterburycathedrallodge.org,*"
+  },
+  {
+    "key": "latrufanegradirect",
+    "value": "latrufanegra.com,*"
+  },
+  {
+    "key": "michelbergerfarmdirect",
+    "value": "michelberger.farm,*"
+  },
+  {
+    "key": "denisprivateislanddirect",
+    "value": "denisisland.com,*"
+  },
+  {
+    "key": "hotelposadaderogerdirect",
+    "value": "hotelposadaderoger.com,*"
+  },
+  {
+    "key": "albergcentredirect",
+    "value": "albergueesplaibarcelona.com,*"
+  },
+  {
+    "key": "themonsal",
+    "value": "themonsal.co.uk,*"
+  },
+  {
+    "key": "cortijochicodirect",
+    "value": "hotelcortijochico.com,*"
+  },
+  {
+    "key": "akelhousehoteldirect",
+    "value": "akelhouse.com,*"
+  },
+  {
+    "key": "bewosfremdverwaltunggmbh",
+    "value": "bewos-gaestehaus.de,bewos.de,*"
+  },
+  {
+    "key": "hotelregencedirect",
+    "value": "leregencehotel.com,*"
+  },
+  {
+    "key": "marielhotelcartagena",
+    "value": "hotelmarierealcartagena.com,*"
+  },
+  {
+    "key": "venturinibaldnitenutadironclodirect",
+    "value": "roncolo1888.it,*"
+  },
+  {
+    "key": "idyllsuitesdirect",
+    "value": "idyllsuites.com,*"
+  },
+  {
+    "key": "orteniaapartmajidirect",
+    "value": "ortenia.com,*"
+  },
+  {
+    "key": "jardindelapazdirect",
+    "value": "jardin-de-la-paz.de,jardin-de-la-paz.com,jardin-de-la-paz.es,*"
+  },
+  {
+    "key": "altezigarrendirect",
+    "value": "boutiquesuitesheidelberg.com,*"
+  },
+  {
+    "key": "pezregina",
+    "value": "pezregina.ch,*"
+  },
+  {
+    "key": "lpa4172",
+    "value": "magnoliasnatura.com,*"
+  },
+  {
+    "key": "applegarthdirect",
+    "value": "lakesapplegarth.co.uk,*"
+  },
+  {
+    "key": "alhattichristianresortretreatdirect",
+    "value": "alhattichristianresort.us,*"
+  },
+  {
+    "key": "posthoteldonaustaufdirect",
+    "value": "posthotel-walhalla.de,*"
+  },
+  {
+    "key": "duroubaixdirect",
+    "value": "hdroubaix.fr,hotel.conversate.be,*"
+  },
+  {
+    "key": "uvealcobendasdirect",
+    "value": "uvehoteles.com,*"
+  },
+  {
+    "key": "combegrovedirect",
+    "value": "combegrove.com,dev24.combegrove.com,*"
+  },
+  {
+    "key": "vereinmiamenschlichkeitimdirect",
+    "value": "casamia-flawil.ch,*"
+  },
+  {
+    "key": "strandhotelburgstallerdirect",
+    "value": "strandhotel-burgstaller.at,*"
+  },
+  {
+    "key": "thegodwinshoteldirect",
+    "value": "godwinshotel.co.uk,thegodwinshotel.co.uk,*"
+  },
+  {
+    "key": "lapetiteaubergedirect",
+    "value": "petiteauberge.ch,*"
+  },
+  {
+    "key": "cobblebeach",
+    "value": "cobblebeach.com,cobblebeachgl.clubhouseonline-e3.com,*"
+  },
+  {
+    "key": "myhoteldirect",
+    "value": "myhotel-kuenzelsau.de,*"
+  },
+  {
+    "key": "pensionrichterdirect",
+    "value": "pensionrichter.com,*"
+  },
+  {
+    "key": "sanctuarymandeladirect",
+    "value": "sanctuarymandela.com,*"
+  },
+  {
+    "key": "coffeefellowshotelmunchendirect",
+    "value": "coffee-fellows.com,coffee-fellows-website-git-staging-ddipo.vercel.app,*"
+  },
+  {
+    "key": "hotelmuschelgrunddirect",
+    "value": "muschelgrund.de,*"
+  },
+  {
+    "key": "hotelvirreycartagenadirect1",
+    "value": "hotelvirreycartagena.com,hotelvirreycartagena.co,*"
+  },
+  {
+    "key": "mansionsanmigueldirect",
+    "value": "mansionsanmiguel.com,*"
+  },
+  {
+    "key": "chobesafarilodgedirect",
+    "value": "underonebotswanasky.com,skywaysmagazine.co.za,*"
+  },
+  {
+    "key": "fahanalascanteras",
+    "value": "fahanahotels.com,*"
+  },
+  {
+    "key": "theleyarmsdirect",
+    "value": "theleyarmskenn.co.uk,theleyarms.devgakdesign.co.uk,*"
+  },
+  {
+    "key": "notsohosteldirect",
+    "value": "notsohostel.com,*"
+  },
+  {
+    "key": "yebshoteldirect",
+    "value": "yebshotel.de,*"
+  },
+  {
+    "key": "grazoralivingkgdirect",
+    "value": "grazora.at,*"
+  },
+  {
+    "key": "hotelcaribbeancartagenadirect",
+    "value": "hotelcaribbeancartagena.com,*"
+  },
+  {
+    "key": "llechweddglampingdirect",
+    "value": "plasweunydd.co.uk,*"
+  },
+  {
+    "key": "thelevanteparliamentdirect",
+    "value": "thelevante-parliament.com,*"
+  },
+  {
+    "key": "domainesaintestevedirect",
+    "value": "dsemillau.com,sejour-seminaire-aveyron.com,*"
+  },
+  {
+    "key": "doningtonparkfarmhousehotel",
+    "value": "parkfarmhouse.co.uk,dev.parkfarmhouse.co.uk,*"
+  },
+  {
+    "key": "ringofbellsdirect",
+    "value": "ringofbells.net,www-ringofbells-net.filesusr.com,*"
+  },
+  {
+    "key": "schlosskrugsdorfdirect",
+    "value": "schloss-krugsdorf.com,*"
+  },
+  {
+    "key": "thecuriousfox",
+    "value": "curiousfoxskipton.co.uk,*"
+  },
+  {
+    "key": "serendivillasdirect",
+    "value": "serendi-villas.com,serendi-villas-2.showitpreview.com,*"
+  },
+  {
+    "key": "cortijodelmarquesdirect",
+    "value": "cortijodelmarques.com,*"
+  },
+  {
+    "key": "canalbertidirect",
+    "value": "hotelcanalberti.com,*"
+  },
+  {
+    "key": "ritahostalboutiquedirect",
+    "value": "canarita.com,*"
+  },
+  {
+    "key": "bfs6371",
+    "value": "clenaghans.com,dory-herring-65kk.squarespace.com,*"
+  },
+  {
+    "key": "hotelplazarevoluciondirect",
+    "value": "hotelplazarevolucion.com,*"
+  },
+  {
+    "key": "gastehausjuhldirect",
+    "value": "gaestehaus-juhl.de,fastenwandern-juhl.de,*"
+  },
+  {
+    "key": "thebosundirect",
+    "value": "thebosun.ie,*"
+  },
+  {
+    "key": "bbsusanna",
+    "value": "bnbsusanna.it,*"
+  },
+  {
+    "key": "hotelbremertordirect",
+    "value": "dh-hotel.de,*"
+  },
+  {
+    "key": "thatchedcottagehotel",
+    "value": "thatchedcottagehotel.com,editor.wix.com,*"
+  },
+  {
+    "key": "landguthoteladlerbraeu",
+    "value": "hotel-adlerbraeu.de,editor.wix.com,*"
+  },
+  {
+    "key": "caseriadecomaresdirect",
+    "value": "caseriadecomares.com,*"
+  },
+  {
+    "key": "holzschuhhotelschwarzwalddirect",
+    "value": "schwarzwaldhotel.de,*"
+  },
+  {
+    "key": "fairwaterheaddirect",
+    "value": "fairwaterhead.co.uk,*"
+  },
+  {
+    "key": "hotelbonllocdirect",
+    "value": "hotelbonlloc.com,*"
+  },
+  {
+    "key": "hainbergebersbachdirect",
+    "value": "hainberg-ebersbach.de,*"
+  },
+  {
+    "key": "miramarllancadirect",
+    "value": "parsnip-flamingo-z76e.squarespace.com,restaurantmiramar.com,*"
+  },
+  {
+    "key": "schlosszuhopferaudirect",
+    "value": "schloss-hopferau.com,schloss.bindix.de,*"
+  },
+  {
+    "key": "hotelhoexteramjakobsweg",
+    "value": "hotelamjakobsweg.de,*"
+  },
+  {
+    "key": "bennocpetitdirect",
+    "value": "bennocpetithotel.com,*"
+  },
+  {
+    "key": "cedardirect",
+    "value": "cedarmanor.co.uk,cedarmanornew.wd9.uk,*"
+  },
+  {
+    "key": "grafbentinckdirect",
+    "value": "bentinck.de,*"
+  },
+  {
+    "key": "flanigansinndirect",
+    "value": "flanigans.com,*"
+  },
+  {
+    "key": "strandkojendirect",
+    "value": "strandkojen.de,*"
+  },
+  {
+    "key": "agrinhosuitesspadirect",
+    "value": "agrinho.com,*"
+  },
+  {
+    "key": "calalanuzasuitesdirect",
+    "value": "calalanuzasuites.com,*"
+  },
+  {
+    "key": "glensheeglamping",
+    "value": "glensheeglamping.co.uk,*"
+  },
+  {
+    "key": "hostamonrealdirect",
+    "value": "hostalmonreal.com,*"
+  },
+  {
+    "key": "canaidirect",
+    "value": "canai.com,canaibioretreat.com,*"
+  },
+  {
+    "key": "carriagehouseinndirect",
+    "value": "carriagehouseinncarmel.com,*"
+  },
+  {
+    "key": "kingfisherhoteldirect",
+    "value": "kingfisher-park.co.uk,lakehurstpark.co.uk,*"
+  },
+  {
+    "key": "darseffarinedirect",
+    "value": "darseffarine.com,*"
+  },
+  {
+    "key": "rosemayhotelsltddirect",
+    "value": "rosemayhotel.com,*"
+  },
+  {
+    "key": "portocovopraiahotelandspadirect",
+    "value": "portocovopraiahotelspa.pt,*"
+  },
+  {
+    "key": "tokipadirect",
+    "value": "tokipa.mx,editor.wix.com,*"
+  },
+  {
+    "key": "cienbalconesdirect",
+    "value": "cienbalcones.com,trivago.es,*"
+  },
+  {
+    "key": "14westboutiquehoteldirect",
+    "value": "lagunabeachhotel.org,*"
+  },
+  {
+    "key": "bayhousedirect",
+    "value": "bayhousegrenada.com,test.bayhousegrenada.com,*"
+  },
+  {
+    "key": "gasthofhotelbayernhofdirect",
+    "value": "hotel-bayernhof.de,*"
+  },
+  {
+    "key": "canboralodgesdirect",
+    "value": "canbora.com,*"
+  },
+  {
+    "key": "zurpostweilheimteck",
+    "value": "zurpost-weilheim.de,*"
+  },
+  {
+    "key": "limehouselibraryhoteldirect",
+    "value": "limehousehotel.com,limehousehotel.aortum.com,yedek1.limehousehotel.com,mail.limehousehotel.com,*"
+  },
+  {
+    "key": "crosskeysinndirect",
+    "value": "crosskeysinnettrickbridge.com,*"
+  },
+  {
+    "key": "lekkerurlaubhosteldirect",
+    "value": "hostel-lekkerurlaub.de,*"
+  },
+  {
+    "key": "barlwydshepherdshutsdirect",
+    "value": "plasweunydd.co.uk,grasshopper-sunfish-7kmd.squarespace.com,*"
+  },
+  {
+    "key": "waysideinndirect",
+    "value": "waysideinncarmel.com,*"
+  },
+  {
+    "key": "caballitodemardirect",
+    "value": "caballito-de-mar.com,*"
+  },
+  {
+    "key": "thedormyhousehotel",
+    "value": "dormyhousehotel.co.uk,*"
+  },
+  {
+    "key": "sorraiahoteldirect",
+    "value": "sorraiahotel.com,*"
+  },
+  {
+    "key": "thecockinndirect",
+    "value": "thecockinnsheering.co.uk,*"
+  },
+  {
+    "key": "hostalnauticoderazodirect",
+    "value": "nauticoderazo.com,*"
+  },
+  {
+    "key": "hotelapamplonadirect",
+    "value": "hotelapamplona.es,*"
+  },
+  {
+    "key": "lacasadeltioamericanodirect",
+    "value": "lacasadelitoamericano.com,lacasadeltioamericano.com,*"
+  },
+  {
+    "key": "centralcityapartmentsdirect",
+    "value": "centralcityapartments.no,*"
+  },
+  {
+    "key": "charmingbellagioapartments",
+    "value": "charmingbellagio.com,*"
+  },
+  {
+    "key": "clubalpenresidenzdirect",
+    "value": "club-alpenresidenz.at,clubalpenresidenz.at,*"
+  },
+  {
+    "key": "alberguelasindianas",
+    "value": "alberguescantabria.com,*"
+  },
+  {
+    "key": "antiguavillagebeach",
+    "value": "antiguavillage.com,*"
+  },
+  {
+    "key": "deinhardsdirect",
+    "value": "deinhards.com,*"
+  },
+  {
+    "key": "fuldaerresidenz",
+    "value": "www-fulda-residenz-com.filesusr.com,29visu1759.design.webflow.com,29visu5997.design.webflow.com,29visu5997.webflow.io,fulda-residenz.com,*"
+  },
+  {
+    "key": "perlacaciquedirect",
+    "value": "hotelmaryoro.com,*"
+  },
+  {
+    "key": "thefarthingsdirect",
+    "value": "farthingsyork.co.uk,*"
+  },
+  {
+    "key": "hotelesferadirect",
+    "value": "hotelesfera.com,*"
+  },
+  {
+    "key": "sirladyastorhoteldirect",
+    "value": "lady-astor.de,sir-astor.de,*"
+  },
+  {
+    "key": "rooseveltparkdirect",
+    "value": "rooseveltresortpark.com,*"
+  },
+  {
+    "key": "hotelvalconventiondirect",
+    "value": "hotelvalconvention.com,*"
+  },
+  {
+    "key": "indianoceandirect",
+    "value": "indianoceanlodge.com,*"
+  },
+  {
+    "key": "feringaparkhoteldirect",
+    "value": "feringapark-hotels.de,coffee-fellows.com,*"
+  },
+  {
+    "key": "coffeefellowshoteldortmunddirect",
+    "value": "coffee-fellows.com,coffee-fellows-website-git-staging-ddipo.vercel.app,*"
+  },
+  {
+    "key": "antariscintermexdirect",
+    "value": "hotelantaris.com,trivago.com.mx,*"
+  },
+  {
+    "key": "bewickslodgedirect",
+    "value": "bewickslodge.co.uk,wwt.org.uk,*"
+  },
+  {
+    "key": "warblersmeadow",
+    "value": "wwt.org.uk,l5.wwt.org.uk,test.wwt.org.uk,*"
+  },
+  {
+    "key": "pennstesdirect",
+    "value": "pennsylvaniasuites.com,*"
+  },
+  {
+    "key": "casonadoslagos",
+    "value": "hotelcasonadoslagos.com,*"
+  },
+  {
+    "key": "nap",
+    "value": "napvalencia.com,nap-tilda.vercel.app,nap-valencia-ir02vw55t-gleb-s-projects.vercel.app,nap-valencia-f453yvtax-gleb-s-projects.vercel.app,nap-valencia.vercel.app,nap-valencia-6ywlz0r3d-gleb-s-projects.vercel.app,nap-valencia-nnfp80nai-gleb-s-projects.vercel.app,*"
+  },
+  {
+    "key": "waldhotelraitelbergresortdirect",
+    "value": "raitelberg-resort.de,*"
+  },
+  {
+    "key": "lebeapartmentsbetriebsgmbhdirect",
+    "value": "lebe-schlitters.at,*"
+  },
+  {
+    "key": "vncasal",
+    "value": "vncasal.com,*"
+  },
+  {
+    "key": "apartmanyalmandinedirect",
+    "value": "almandine.cz,*"
+  },
+  {
+    "key": "posadaloscaballerosdirect",
+    "value": "posadaloscaballeros.com,*"
+  },
+  {
+    "key": "stablesinn",
+    "value": "stablesinnaintree.co.uk,*"
+  },
+  {
+    "key": "laerdalferiedirect",
+    "value": "laerdalferiepark.com,*"
+  },
+  {
+    "key": "rivegauchedirect",
+    "value": "hotelrivegauche87.com,*"
+  },
+  {
+    "key": "whitewaterhotelspadirect",
+    "value": "whitewater-hotel.co.uk,*"
+  },
+  {
+    "key": "thewindmillhoteldirect",
+    "value": "thewindmillalford.co.uk,*"
+  },
+  {
+    "key": "hotelflamischerdirect",
+    "value": "flaemischer-hof.de,www-flaemischer-hof-de.filesusr.com,en-flaemischer-hof-de.filesusr.com,*"
+  },
+  {
+    "key": "casavaleriadirect",
+    "value": "casavaleria.com,es.casavaleria.com,*"
+  },
+  {
+    "key": "lajoyadirect",
+    "value": "hotellajoya.mx,*"
+  },
+  {
+    "key": "canbatistedirect",
+    "value": "canbatiste.com,*"
+  },
+  {
+    "key": "46stpetersburghpllondon",
+    "value": "groveheights.co.uk,*"
+  },
+  {
+    "key": "posadayalojamientoselaprisco",
+    "value": "alberguesierranorte.es,*"
+  },
+  {
+    "key": "chubcayresortandmarinacaydirect",
+    "value": "events.chubcay.com,chubcay.com,*"
+  },
+  {
+    "key": "designchaletno685no686direct",
+    "value": "designchalets.at,*"
+  },
+  {
+    "key": "castellonsuitesdirect",
+    "value": "hotelsagunto.com,suitescastellon.com,*"
+  },
+  {
+    "key": "barefootbeachhotel",
+    "value": "barefootbeachclub.com,*"
+  },
+  {
+    "key": "grafstadiondirect",
+    "value": "hotelgrafstadion.at,*"
+  },
+  {
+    "key": "harbourguesthousedirect",
+    "value": "harbourguesthouse-tobermory.com,westernisleshotel.com,*"
+  },
+  {
+    "key": "hoteltreboldirect",
+    "value": "hoteltrebol.mx,*"
+  },
+  {
+    "key": "arthotelpalmadirect",
+    "value": "artpalmahotel.com,*"
+  },
+  {
+    "key": "kraemmervikahavndirect",
+    "value": "kremmervikahavn.no,*"
+  },
+  {
+    "key": "unionwestdirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "papillonlagoondirect",
+    "value": "papillonlagoonreef.com,*"
+  },
+  {
+    "key": "palmasurbandirect",
+    "value": "laspalmasurbancenter.com,*"
+  },
+  {
+    "key": "moinhotelcuxhavendirect",
+    "value": "moin.info,*"
+  },
+  {
+    "key": "wildhousetarifa",
+    "value": "wildhousetarifa.com,wildhouse.es,*"
+  },
+  {
+    "key": "thekingsarmsdirect",
+    "value": "kingsarmstemplesowerby.co.uk,*"
+  },
+  {
+    "key": "hotelruralcampanioladirect",
+    "value": "hotelruralcampaniola.com,*"
+  },
+  {
+    "key": "seasidehideaway",
+    "value": "seasidehideaway.co.uk,*"
+  },
+  {
+    "key": "dasneuecapitoldirect",
+    "value": "capitol-blb.de,*"
+  },
+  {
+    "key": "boutiquehotelvillakatharinadirect",
+    "value": "villa-katharina-bamberg.de,*"
+  },
+  {
+    "key": "galtreslodgedirect",
+    "value": "galtreslodge.uk,*"
+  },
+  {
+    "key": "apostrophedirect",
+    "value": "apostrophe-hotel.com,*"
+  },
+  {
+    "key": "cockleburyfarmdirect",
+    "value": "cocklebury.farm,*"
+  },
+  {
+    "key": "conacultorzburgdirect",
+    "value": "torzburg.ro,en.torzburg.ro,*"
+  },
+  {
+    "key": "apartamentoszhr2",
+    "value": "apartamentoszhr.com,*"
+  },
+  {
+    "key": "alpengluhensmarthoteldirect",
+    "value": "hotel-alpengluehen.de,coffee-fellows.com,*"
+  },
+  {
+    "key": "koepferssteinbuckdirect",
+    "value": "koepfers-steinbuck.de,*"
+  },
+  {
+    "key": "hotelvillaluigidirect",
+    "value": "hotelvillaluigi.it,*"
+  },
+  {
+    "key": "lepalaisriadberbre",
+    "value": "www-lepalaisriadberbere-com.filesusr.com,*"
+  },
+  {
+    "key": "marcaureldirect",
+    "value": "hotel-marcaurel.com,*"
+  },
+  {
+    "key": "lincolnshireglampingltddirect",
+    "value": "lincolnshireglamping.co.uk,*"
+  },
+  {
+    "key": "knockrobinglamping",
+    "value": "knockrobinglamping.com,camping-wicklow-7wlt.squarespace.com,*"
+  },
+  {
+    "key": "thepalmbraydirect",
+    "value": "thepalmbray.ie,*"
+  },
+  {
+    "key": "studioinndeangelidirect",
+    "value": "studioinnmilano.it,*"
+  },
+  {
+    "key": "horseandfarrierinndirect",
+    "value": "horseandfarrier.com,thesalutation.co.uk,horseandfarrier.argwebdesign.com,*"
+  },
+  {
+    "key": "wimbishhallcabinsdirect",
+    "value": "wimbishhallcabins.com,*"
+  },
+  {
+    "key": "lanzonescabana",
+    "value": "lanzonescabana.com,*"
+  },
+  {
+    "key": "finlandiaparkhotelhelsinkidirect",
+    "value": "parkhotel.fi,park.fi,*"
+  },
+  {
+    "key": "diwotelfrankfurtairportdreieich",
+    "value": "diwotel.com,*"
+  },
+  {
+    "key": "grandpolancoresidencialdirect",
+    "value": "lamartine619.com.mx,grandpolanco.com,grandpolanco.mx,lamartine619.mx,*"
+  },
+  {
+    "key": "iamhotelimlivingcampusdirect",
+    "value": "livingcampus.at,i-am-hotel.at,website.edelweissdigital.at,*"
+  },
+  {
+    "key": "thewindmillinnlittleworthdirect",
+    "value": "windmilllittleworth.com,*"
+  },
+  {
+    "key": "kulturguthasselburgdirect",
+    "value": "hasselburg.de,*"
+  },
+  {
+    "key": "whiteorchidhoteldirect",
+    "value": "ebonylifeplace.com,whiteorchidhotellagos.com,ebonylifeplacepromotions.com,*"
+  },
+  {
+    "key": "lpa2739",
+    "value": "villasblancas.com,*"
+  },
+  {
+    "key": "styvesdirect",
+    "value": "maison-st-yves.com,*"
+  },
+  {
+    "key": "hoteltaybobeachdirect",
+    "value": "hoteltaybo.com,*"
+  },
+  {
+    "key": "hotelavenidaplayadirect",
+    "value": "hotelavenidaplaya.com,*"
+  },
+  {
+    "key": "longhouseaparthoteldirect",
+    "value": "longhouse-aparthotel.mydirectstay.com,*"
+  },
+  {
+    "key": "hotelboutiquecorazonmexicanodirect2",
+    "value": "corazonmexicanogto.com,hotelboutiqueguanajuato.com,*"
+  },
+  {
+    "key": "villamercedessancristobaldirect",
+    "value": "hotelvmsancristobaldelascasas.com,*"
+  },
+  {
+    "key": "aeronautdirect",
+    "value": "pearl1.de,*"
+  },
+  {
+    "key": "thevestrydirect",
+    "value": "the-vestry.co.uk,editor.wix.com,*"
+  },
+  {
+    "key": "albergruralelnegredirect",
+    "value": "elnegre.cat,hyperboloid-icosahedron-728w.squarespace.com,*"
+  },
+  {
+    "key": "hotelbenidormpanamadirect",
+    "value": "hotelbenidorm.com.pa,*"
+  },
+  {
+    "key": "thecottagedirect",
+    "value": "cottageinthewood.co.uk,*"
+  },
+  {
+    "key": "marqueeatblock37direct",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "bucklerslodgedirect",
+    "value": "tingana.co.za,bucklersafrica.com,*"
+  },
+  {
+    "key": "saintsmeadowdirect",
+    "value": "saintsmeadow.com,*"
+  },
+  {
+    "key": "hostaletdebegurdirect",
+    "value": "hostaletdebegur.com,*"
+  },
+  {
+    "key": "hydeparkradnordirect",
+    "value": "hydeparkradnor.co.uk,*"
+  },
+  {
+    "key": "dominikmoteldirect",
+    "value": "dominik-hotel.de,dominik-eventsaal.de,*"
+  },
+  {
+    "key": "cmapartamentoslatrufanegradirect",
+    "value": "latrufanegra.com,trivago.es,*"
+  },
+  {
+    "key": "thelevanterathausdirect",
+    "value": "thelevante-rathaus.com,*"
+  },
+  {
+    "key": "hotelberlinerhofdirect",
+    "value": "berlinerhof-kiel.de,coffee-fellows.com,*"
+  },
+  {
+    "key": "apartamentoslospicosllanesdirect",
+    "value": "apartamentosllaneslospicos.com,*"
+  },
+  {
+    "key": "hoteltahatadirect",
+    "value": "hoteltahatai.cl,*"
+  },
+  {
+    "key": "hotelohanadirect",
+    "value": "hotelohana.cl,*"
+  },
+  {
+    "key": "hvammsviknatureresorthotdirect",
+    "value": "hvammsvik.com,*"
+  },
+  {
+    "key": "laperlagranadasuitesdirect",
+    "value": "hotellaperla.es,granada.hotellaperla.es,*"
+  },
+  {
+    "key": "belverhoteldoprinciperealdirect",
+    "value": "hotelprincipereal.com,*"
+  },
+  {
+    "key": "fincahotelsonventdirect",
+    "value": "son-vent.es,son-vent.com,*"
+  },
+  {
+    "key": "hotelschlickerzumgoldenenlowdirect",
+    "value": "hotel-schlicker.de,*"
+  },
+  {
+    "key": "funkdirect",
+    "value": "hotel-pensionfunk.de,*"
+  },
+  {
+    "key": "canadadirect",
+    "value": "canadalodgeandlake.co.uk,canadalodgeandlake.com,*"
+  },
+  {
+    "key": "gastehausschlossbothmerdirect",
+    "value": "schlossbothmer.de,*"
+  },
+  {
+    "key": "villagelimitsmoteldirect",
+    "value": "villagelimits.co.uk,*"
+  },
+  {
+    "key": "motelpunt14direct",
+    "value": "hotelpunt14.com,*"
+  },
+  {
+    "key": "northriseretreatdirect",
+    "value": "northriseretreat.co.uk,*"
+  },
+  {
+    "key": "rustappartementsdirect",
+    "value": "monteur-bnb.de,messe-appartements.com,*"
+  },
+  {
+    "key": "southpointhoteldirect",
+    "value": "southpointbarbados.com,*"
+  },
+  {
+    "key": "austriaclassichotelheiligkreuz",
+    "value": "heiligkreuz.at,trivago.it,*"
+  },
+  {
+    "key": "regencyboutiquehoteldirect",
+    "value": "regencyboutiquehotel.com,*"
+  },
+  {
+    "key": "hisuitesdirect",
+    "value": "hisuites.es,*"
+  },
+  {
+    "key": "bridgendhoteldirect",
+    "value": "bridgend-hotel.com,*"
+  },
+  {
+    "key": "newhotelcollectioncordovainndirect",
+    "value": "newhotelcollection.com,cordovainnstpete.com,*"
+  },
+  {
+    "key": "greencartsfarm",
+    "value": "greencarts.co.uk,*"
+  },
+  {
+    "key": "casapedrolozadirect",
+    "value": "casapedroloza.com,*"
+  },
+  {
+    "key": "laresidenceduchateaudedirect",
+    "value": "la-residence-du-chateau-de-jouarres.com,*"
+  },
+  {
+    "key": "vmhsdirect",
+    "value": "villamagalean.com,*"
+  },
+  {
+    "key": "hotelsonne",
+    "value": "sonne-hotel.com,*"
+  },
+  {
+    "key": "waldhotelboizenburg",
+    "value": "waldhotel-boizenburg.de,1994273-fix4this.strato-editor-widget.com,*"
+  },
+  {
+    "key": "thecruisingassociationdirect",
+    "value": "theca.org.uk,d10.myca.org.uk,*"
+  },
+  {
+    "key": "13suites",
+    "value": "13suites.com,*"
+  },
+  {
+    "key": "strangfordarmshoteldirect",
+    "value": "strangfordhotel.com,*"
+  },
+  {
+    "key": "villapalatina",
+    "value": "villapalatina.es,*"
+  },
+  {
+    "key": "hostalperlablancadirect",
+    "value": "alteaperlablanca.com,alteaperlablanca.pro,*"
+  },
+  {
+    "key": "redhousecotonoudirect",
+    "value": "hotel-benin-maison-rouge-cotonou.com,*"
+  },
+  {
+    "key": "apartamentodonquijotedirect",
+    "value": "apartamentosdonquijote.com,*"
+  },
+  {
+    "key": "heathcottage",
+    "value": "heathcottagehotel.co.uk,*"
+  },
+  {
+    "key": "inspirationlodgedirect",
+    "value": "inspirationlodge.com,*"
+  },
+  {
+    "key": "hotelrossleberneckdirect",
+    "value": "roessle-berneck.de,*"
+  },
+  {
+    "key": "olasverdeshoteldirect",
+    "value": "olasverdeshotel.com,*"
+  },
+  {
+    "key": "domainedeouezydirect",
+    "value": "chateaudeouezy.fr,slowtourism.fr,*"
+  },
+  {
+    "key": "casalilijaveadirect",
+    "value": "javea.casalili.es,*"
+  },
+  {
+    "key": "casaruralaavoamariadirect",
+    "value": "avoamaria.com,*"
+  },
+  {
+    "key": "lordranchresortdirect",
+    "value": "lordranchresort.com,lordranchresort.squarespace.com,*"
+  },
+  {
+    "key": "rainbowtowersdirect",
+    "value": "rtgafrica.com,*"
+  },
+  {
+    "key": "elreductodirect",
+    "value": "elreducto.com,*"
+  },
+  {
+    "key": "lacasonadebelmontedirect",
+    "value": "lacasonadebelmonte.com,*"
+  },
+  {
+    "key": "theprinceofwaterloodirect",
+    "value": "p-o-w.co.uk,*"
+  },
+  {
+    "key": "lomondhillshotel",
+    "value": "thelomondhillshotel.com,editor.wix.com,*"
+  },
+  {
+    "key": "apartamentoszhr",
+    "value": "apartamentoszhr.com,*"
+  },
+  {
+    "key": "christscollegedirect",
+    "value": "christscollegehospitality.co.uk,optimized.christscollegehospitality.co.uk,*"
+  },
+  {
+    "key": "hotelapartmentsalpenrosedirect",
+    "value": "alpenrose-au.at,*"
+  },
+  {
+    "key": "londondirect",
+    "value": "londontownhotel.co.uk,*"
+  },
+  {
+    "key": "neueschaenkedirect",
+    "value": "neue-schaenke.de,minigolfamkoenigstein.de,annis-romantikhaeuschen.de,*"
+  },
+  {
+    "key": "hoteljamsessiondirect",
+    "value": "*"
+  },
+  {
+    "key": "madingleydirect",
+    "value": "madingleyhall.co.uk,madingleyhall.cam.ac.uk,pumsbzxy.elementor.cloud,*"
+  },
+  {
+    "key": "kantawahotelspadirect",
+    "value": "hotelkantawa.com,*"
+  },
+  {
+    "key": "innatmystic",
+    "value": "innatmystic.com,*"
+  },
+  {
+    "key": "sernindirect",
+    "value": "hotelstsernin.com,*"
+  },
+  {
+    "key": "escortevelldirect",
+    "value": "escortevell.com,escortevell-new.rwdesarrollos.es,*"
+  },
+  {
+    "key": "shangri-labedandbreakfastdirect",
+    "value": "shangrilabandb.com,*"
+  },
+  {
+    "key": "altesfarmhausdirect",
+    "value": "altes-farmhaus.de,*"
+  },
+  {
+    "key": "fairwayhoteldirect",
+    "value": "fairwaylondon.com,*"
+  },
+  {
+    "key": "gwestycarregbrandirect",
+    "value": "carregbran.co.uk,*"
+  },
+  {
+    "key": "victoriafallsdirect",
+    "value": "rtgafrica.com,*"
+  },
+  {
+    "key": "parkhotelschweinfurtdirect",
+    "value": "parkhotel-schweinfurt.com,parkhotel-schweinfurt.de,*"
+  },
+  {
+    "key": "posadavillamariadirect",
+    "value": "xn--turismolacabaa-2nb.com,*"
+  },
+  {
+    "key": "mapouladirect",
+    "value": "mapoula.com,*"
+  },
+  {
+    "key": "casabrennadirect",
+    "value": "casabrennatosatto.com,*"
+  },
+  {
+    "key": "hotelstadtgernsbachdirect",
+    "value": "hotelstadtgernsbach.de,*"
+  },
+  {
+    "key": "draperroomsdirect",
+    "value": "draperrooms.com,*"
+  },
+  {
+    "key": "foxglovefield",
+    "value": "www-foxglovefield-co-uk.filesusr.com,a31c3e4f-89e7-4650-96b0-5daa8e1d5941.filesusr.com,*"
+  },
+  {
+    "key": "hoteleinklangdirect",
+    "value": "einklang-hotel.de,*"
+  },
+  {
+    "key": "tuuptulumdirect",
+    "value": "tuptulum.com,tuuptulum.com,lilac-parsnip-8cnr.squarespace.com,*"
+  },
+  {
+    "key": "hoteldzingeldirect",
+    "value": "dzingel.ee,*"
+  },
+  {
+    "key": "hotelangerlanddirect",
+    "value": "hotel-angerland.de,*"
+  },
+  {
+    "key": "blacksummitresortlaaxdirect",
+    "value": "blacksummit.ch,demos.mukuko.com,laax.blacksummit.ch,*"
+  },
+  {
+    "key": "ambrosiahueslidirect",
+    "value": "xn--ambrosiahsli-llb.ch,ambrosiahuesli.ch,*"
+  },
+  {
+    "key": "hotelcortijotorredelareina",
+    "value": "torredelareina.com,*"
+  },
+  {
+    "key": "consdagardadirect",
+    "value": "hotelconsdagarda.com,*"
+  },
+  {
+    "key": "hoteljaimidirect",
+    "value": "hoteljaime.com,*"
+  },
+  {
+    "key": "brighthamhousedirect",
+    "value": "brighthamhouse.co.uk,*"
+  },
+  {
+    "key": "gardenhotelkrefelddirect",
+    "value": "test.lawall.org,gardenhotel.de,test2.lawall.org,krefeld-ukraine.de,beta.gardenhotel.de,*"
+  },
+  {
+    "key": "hotelgarnizumreinhardswalddirect",
+    "value": "gasthaus-reinhardswald.de,www-gasthaus-reinhardswald-de.filesusr.com,*"
+  },
+  {
+    "key": "orlandoresortrentalsdirect",
+    "value": "orlandoresortsrental.com,*"
+  },
+  {
+    "key": "hotelwaldschlösschendirect",
+    "value": "booking.waldschloesschen-lienen.de,waldschloesschen-lienen.de,*"
+  },
+  {
+    "key": "hotelcasairene",
+    "value": "casairene.com.mx,*"
+  },
+  {
+    "key": "sleepingbeardirect",
+    "value": "jtsleepingbearretreat.com,www-jtsleepingbearretreat-com.filesusr.com,*"
+  },
+  {
+    "key": "taburetegroupdirect",
+    "value": "hostelaguilas.com,*"
+  },
+  {
+    "key": "hotelcaribeplazabarranquilladirect",
+    "value": "hotelcaribeplaza.com,hotelcaribeplazabarranquilla.com,*"
+  },
+  {
+    "key": "feriendorfebermannsmuhledirect",
+    "value": "ebermannsmuehle.de,*"
+  },
+  {
+    "key": "surfsideonthelakedirect",
+    "value": "surfsideonthelake.com,*"
+  },
+  {
+    "key": "boardinghousepaderborndirect",
+    "value": "boarding-paderborn.com,*"
+  },
+  {
+    "key": "yeoldehotel",
+    "value": "yeoldehotel.co.uk,editor.wix.com,*"
+  },
+  {
+    "key": "herzstuckwaldkirchendirect",
+    "value": "herzstueck-waldkirchen.de,*"
+  },
+  {
+    "key": "castellodellapievedirect",
+    "value": "castellodellapieve.it,*"
+  },
+  {
+    "key": "hotelpasteralriuterdirect",
+    "value": "hotelpasteral.com,*"
+  },
+  {
+    "key": "baztowerdirect",
+    "value": "baztower.com,*"
+  },
+  {
+    "key": "jagdschlossmonchbruch",
+    "value": "jagdschloss-moenchbruch.de,*"
+  },
+  {
+    "key": "pousadarealdirect",
+    "value": "hotelpousadareal.com,*"
+  },
+  {
+    "key": "waldhotelpeterdirect",
+    "value": "peter-aufm-berge.de,*"
+  },
+  {
+    "key": "candlelightinndirect",
+    "value": "candlelightinncarmel.com,*"
+  },
+  {
+    "key": "hotelstafflerdirect",
+    "value": "nick2943.wixsite.com,hotelstaffler.com,editor.wix.com,*"
+  },
+  {
+    "key": "thegaydonb&bdirect",
+    "value": "thegaydonuk.com,*"
+  },
+  {
+    "key": "aurtizkoostatuadirect",
+    "value": "hostalmendaurpe.com,*"
+  },
+  {
+    "key": "berghangdirect",
+    "value": "hotel-am-berghang.de,*"
+  },
+  {
+    "key": "studioinncentraledirect",
+    "value": "studioinncentrale.it,*"
+  },
+  {
+    "key": "emanyadirect",
+    "value": "emanya.com,iv.damarana.com,*"
+  },
+  {
+    "key": "pfeffermuehlebalingendirect",
+    "value": "hotel-pfeffermuehlebalingen.de,en.hotel-pfeffermuehlebalingen.de,*"
+  },
+  {
+    "key": "rothschildhousebedbreakfastdirect",
+    "value": "thepoundhouseinn.com,*"
+  },
+  {
+    "key": "karavostasibeachhoteldirect",
+    "value": "hotel-karavostasi.gr,*"
+  },
+  {
+    "key": "wentworthdirect",
+    "value": "wentworthhouse.co.uk,*"
+  },
+  {
+    "key": "azambezidirect",
+    "value": "rtgafrica.com,*"
+  },
+  {
+    "key": "pommernlanddirect",
+    "value": "hotel-pommernland.de,*"
+  },
+  {
+    "key": "letranslondirect",
+    "value": "sites.google.com,*"
+  },
+  {
+    "key": "vcityaparthotels",
+    "value": "vcityaparthotels.com,vcityaparthotels.com.masshospitality.co.uk,*"
+  },
+  {
+    "key": "linndhuhousedirect",
+    "value": "linndhuhouse.com,*"
+  },
+  {
+    "key": "riadzeitounpalace",
+    "value": "riadzeitoun.com,*"
+  },
+  {
+    "key": "chaletaparthoteldirect",
+    "value": "chaletsaunton.com,*"
+  },
+  {
+    "key": "directkadoma",
+    "value": "rtgafrica.com,*"
+  },
+  {
+    "key": "lemandalamorisdirect",
+    "value": "lemandalamoris.com,*"
+  },
+  {
+    "key": "oasismarsaalamdirect",
+    "value": "oasis-marsaalam.com,wernerlau.com,*"
+  },
+  {
+    "key": "cavallinobianco",
+    "value": "lumanovara.com,b-bnovara-luma.com,*"
+  },
+  {
+    "key": "finca360direct",
+    "value": "finca360cr.com,*"
+  },
+  {
+    "key": "hoteloheiddirect",
+    "value": "hotelo-heidelberg.de,*"
+  },
+  {
+    "key": "hotelamsiebersturm",
+    "value": "siebersturm.de,*"
+  },
+  {
+    "key": "jardincarrejodirect",
+    "value": "eljardindecarrejo.es,*"
+  },
+  {
+    "key": "theelmarboutiquehoteldirect",
+    "value": "theelmarhotel.com,*"
+  },
+  {
+    "key": "hotelsoussanatunissoussedirect",
+    "value": "soussanahotel.com,*"
+  },
+  {
+    "key": "aparthotelammuenzplatzdirect",
+    "value": "kosa-apartments.de,*"
+  },
+  {
+    "key": "lintonhoteldirect",
+    "value": "lintonhotel.com,*"
+  },
+  {
+    "key": "thebroughtontownhouse",
+    "value": "thebroughtontownhouse.com,*"
+  },
+  {
+    "key": "hotelrestaurantlerelaispaulons",
+    "value": "hotel-lerelais-pau.com,*"
+  },
+  {
+    "key": "pleinhoteldirect",
+    "value": "plein-hotel.de,plein-hotel.com,editor.wix.com,*"
+  },
+  {
+    "key": "directnordicinn",
+    "value": "nordicinncb.com,*"
+  },
+  {
+    "key": "blisshouse",
+    "value": "blisshousecrete.com,*"
+  },
+  {
+    "key": "thebeetleandwedgedirect",
+    "value": "beetleandwedge.co.uk,*"
+  },
+  {
+    "key": "pilotboatinndirect",
+    "value": "pilotboat.co.uk,*"
+  },
+  {
+    "key": "lowgreenlandsholidaypark",
+    "value": "lowgreenlands.co.uk,www-lowgreenlands-co-uk.filesusr.com,*"
+  },
+  {
+    "key": "cocoreefbm",
+    "value": "cocoreefbermuda.com,cocoreeftobago.com,dev.cocoreefbermuda.com,dev.cocoreeftobago.com,*"
+  },
+  {
+    "key": "veronicacentrodirect",
+    "value": "hostalveronicacentro.com,*"
+  },
+  {
+    "key": "hotelimzentrumfuervisionen ",
+    "value": "zentrum-visionen.at,*"
+  },
+  {
+    "key": "pitzolerhof",
+    "value": "pitzolerhof.it,*"
+  },
+  {
+    "key": "chezbrensdirect",
+    "value": "chezbrens.com,*"
+  },
+  {
+    "key": "theanchorinndirect",
+    "value": "thebearhartfield.com,*"
+  },
+  {
+    "key": "russafayouthhosteldirect",
+    "value": "russafayouthhostel.com,*"
+  },
+  {
+    "key": "cretapagueradirect",
+    "value": "hotelcretapaguera.com,*"
+  },
+  {
+    "key": "hotelholísticomonteverdedirect",
+    "value": "hotelholisticomonteverde.com,*"
+  },
+  {
+    "key": "hotelelencantodirect",
+    "value": "elencantocahuita.com,*"
+  },
+  {
+    "key": "lascasitasdesantillanadirect",
+    "value": "lascasitasdesantillana.com,*"
+  },
+  {
+    "key": "lelichendirect",
+    "value": "le-lichen.com,*"
+  },
+  {
+    "key": "hotelnympheasdirect",
+    "value": "hotelnympheas.fr,*"
+  },
+  {
+    "key": "henrosa-hotel-direct",
+    "value": "henrosahotel.com,*"
+  },
+  {
+    "key": "sandyduckdirect",
+    "value": "thesandyduck.co.uk,*"
+  },
+  {
+    "key": "baylishousehoteldirect",
+    "value": "skhotels.co.uk,*"
+  },
+  {
+    "key": "hotelrestaurantkettereramkurgarten",
+    "value": "hotel-ketterer.de,*"
+  },
+  {
+    "key": "hotelkroneurnasch",
+    "value": "krone-urnaesch.ch,*"
+  },
+  {
+    "key": "brambletyehoteldirect",
+    "value": "brambletyehotel.com,skhotels.co.uk,hotel.nexxplanner.com,*"
+  },
+  {
+    "key": "belvederehousedirect",
+    "value": "belvederehousecork.ie,belvedere.noisewebdesign.dev,*"
+  },
+  {
+    "key": "tinakillydirect",
+    "value": "tinakilly.ie,*"
+  },
+  {
+    "key": "lecanaldirect",
+    "value": "hoteltilde.fr,trivago.fr,*"
+  },
+  {
+    "key": "ferrarisuitesdirect",
+    "value": "ferrarisuites.es,*"
+  },
+  {
+    "key": "newforestlodgedirect",
+    "value": "newforestlodge.co.uk,*"
+  },
+  {
+    "key": "hotelherzogshofdirect",
+    "value": "herzogshof.com,*"
+  },
+  {
+    "key": "staroflife",
+    "value": "staroflife.fr,*"
+  },
+  {
+    "key": "stratfordlimedirect",
+    "value": "stratfordlimeshotel.com,*"
+  },
+  {
+    "key": "artnouveauhoteldirect",
+    "value": "hotelartnouveau.de,*"
+  },
+  {
+    "key": "apartamentosgranadadirect",
+    "value": "hnngranada.com,*"
+  },
+  {
+    "key": "hotelaugustinsdirect",
+    "value": "augustin-s.com,*"
+  },
+  {
+    "key": "hotelgarninuernbergertrichterdirect",
+    "value": "nuernberger-trichter.de,*"
+  },
+  {
+    "key": "sitiodaassumadadirect",
+    "value": "sitiodaassumada.com,*"
+  },
+  {
+    "key": "apartmentsamwerderseedirect",
+    "value": "apartmentsamwerdersee.com,*"
+  },
+  {
+    "key": "alojamientoruralelcantalardirect",
+    "value": "elcantalarcazorla.com,*"
+  },
+  {
+    "key": "hotelruralcorazondelasarribesdirect",
+    "value": "corazondelasarribes.com,hotel.corazondelasarribes.com,*"
+  },
+  {
+    "key": "diamondresortatzenbruggdirect",
+    "value": "countryclub.at,*"
+  },
+  {
+    "key": "blackswandirect1",
+    "value": "blackswanleyburn.co.uk,www-blackswanleyburn-com.filesusr.com,*"
+  },
+  {
+    "key": "ferienhausschlag",
+    "value": "ferienhaus-schlag.de,*"
+  },
+  {
+    "key": "cooperislandbeachclubdirect",
+    "value": "cooperislandbeachclub.com,*"
+  },
+  {
+    "key": "oliveinndirect",
+    "value": "global-hotel.com,oliveinn.de,*"
+  },
+  {
+    "key": "marysboondirect",
+    "value": "marysboon.com,*"
+  },
+  {
+    "key": "hotelparajedelasturcn",
+    "value": "hotelparajedelasturcon.com,*"
+  },
+  {
+    "key": "stadthotelbadfallingbosteldirect",
+    "value": "stadthotel-fallingbostel.de,*"
+  },
+  {
+    "key": "palmgardendirect",
+    "value": "palmerasgarden.com,*"
+  },
+  {
+    "key": "hotelruralcasablancadirect",
+    "value": "hotelruralcasablanca.es,*"
+  },
+  {
+    "key": "intownresidencesdirect",
+    "value": "thewellemresidences.com,*"
+  },
+  {
+    "key": "hotellileikaridirect",
+    "value": "hotellileikari.com,www-hotellileikari-com.filesusr.com,*"
+  },
+  {
+    "key": "elgatogordoridershouse",
+    "value": "elgatogordo-ridershouse.com,*"
+  },
+  {
+    "key": "saarburgerhofhotel",
+    "value": "saarburger-hof.de,*"
+  },
+  {
+    "key": "theranchresort",
+    "value": "theranchresort.ma,*"
+  },
+  {
+    "key": "cuevasdirect",
+    "value": "cuevas.org,*"
+  },
+  {
+    "key": "villasfincalaemperatriz",
+    "value": "hermanoshernaiz.com,*"
+  },
+  {
+    "key": "almaroomslogronodirect",
+    "value": "ibizarooms1941.com,*"
+  },
+  {
+    "key": "apartamentoszhr1",
+    "value": "apartamentoszhr.com,*"
+  },
+  {
+    "key": "harrogatelifedirect",
+    "value": "harrogatelifestyleapartments.com,*"
+  },
+  {
+    "key": "alhamilladirect",
+    "value": "balneariosierraalhamilla.com,*"
+  },
+  {
+    "key": "hoteldaaldeiadirect",
+    "value": "hoteldaaldeia.com,*"
+  },
+  {
+    "key": "originaldourohoteldirect",
+    "value": "originaldourohotel.com,bleamcreative.com,*"
+  },
+  {
+    "key": "hotelaltavilladirect",
+    "value": "hotelaltavillacz.com,altavillaboutiquehotel.it,*"
+  },
+  {
+    "key": "juneauhosteldirect",
+    "value": "juneauhostel.net,*"
+  },
+  {
+    "key": "princearthur",
+    "value": "www-princearthur-co-uk.filesusr.com,*"
+  },
+  {
+    "key": "queen&illcdirect",
+    "value": "thequeenandibnb.com,*"
+  },
+  {
+    "key": "castilloplayadirect",
+    "value": "castilloplaya.es,*"
+  },
+  {
+    "key": "elsitiodecarmelodirect",
+    "value": "elsitiodecarmelo.com,*"
+  },
+  {
+    "key": "briobeachinndirect",
+    "value": "briobeachinn.com,*"
+  },
+  {
+    "key": "kingfishernesthotelsuites",
+    "value": "kingfishernest.com,*"
+  },
+  {
+    "key": "croftmilldirect",
+    "value": "croftmill.com,*"
+  },
+  {
+    "key": "hilltopcountryhousedirect",
+    "value": "yourhilltopwedding.com,*"
+  },
+  {
+    "key": "hostalteidedirect",
+    "value": "teiderooms.com,*"
+  },
+  {
+    "key": "250brooks",
+    "value": "brookyard.co.za,*"
+  },
+  {
+    "key": "villaidalinadirect",
+    "value": "villaidalina.com,*"
+  },
+  {
+    "key": "faynadirect",
+    "value": "faynahotel.com,*"
+  },
+  {
+    "key": "apartamentosturisticosalhanda",
+    "value": "alhanda.com,*"
+  },
+  {
+    "key": "renierishoteldirect",
+    "value": "renierishotel.gr,*"
+  },
+  {
+    "key": "aylagrandhoteldirect",
+    "value": "aylahotels.com,*"
+  },
+  {
+    "key": "casarovellidirect",
+    "value": "casarovelli.com,*"
+  },
+  {
+    "key": "hotelruralelnaviodirect",
+    "value": "elnavio.es,*"
+  },
+  {
+    "key": "amaikehotelgolfspadirect",
+    "value": "hotelamaike.com,*"
+  },
+  {
+    "key": "hotelamrokokogartendirect",
+    "value": "hotel-am-rokokogarten.de,*"
+  },
+  {
+    "key": "hosteríadelacascadadirect",
+    "value": "hosteriadelacascada.com.ar,*"
+  },
+  {
+    "key": "trossosdelprioratdirect",
+    "value": "hoteltrossosdelpriorat.com,trossosdelpriorat.com,*"
+  },
+  {
+    "key": "quintadoquintodirect",
+    "value": "quintadoquinto.pt,*"
+  },
+  {
+    "key": "casarurallatahona",
+    "value": "casaruraltahona.com,*"
+  },
+  {
+    "key": "thousemarbelladirect",
+    "value": "townhousemarbella.com,*"
+  },
+  {
+    "key": "bladeshoteldirect",
+    "value": "blades-hotel.co.uk,*"
+  },
+  {
+    "key": "hotelposadadevaldezufre",
+    "value": "valdezufre.com,*"
+  },
+  {
+    "key": "milsomsdirect",
+    "value": "milsomhotels.com,*"
+  },
+  {
+    "key": "hotelcentralcitynürnberghbfdirect",
+    "value": "central-hbf.de,international.central-hbf.de,neu.central-hbf.de,*"
+  },
+  {
+    "key": "casachristiandirect",
+    "value": "casamunich.com,lacatedralibiza.com,nassaugroupibiza.com,*"
+  },
+  {
+    "key": "neg9033",
+    "value": "cocolapalm.com,*"
+  },
+  {
+    "key": "cortijolacasonadirect",
+    "value": "cortijolacasona.com,*"
+  },
+  {
+    "key": "bluecastlemalagadirect",
+    "value": "bluecastlemalaga.com,*"
+  },
+  {
+    "key": "hotelamzoogmbhandcokgdirect",
+    "value": "hotelamzoo.de,*"
+  },
+  {
+    "key": "amariadowntownaparthotelvillach",
+    "value": "amaria.at,*"
+  },
+  {
+    "key": "verdemarspadirect",
+    "value": "verdemarhotel.com,*"
+  },
+  {
+    "key": "labelletortue",
+    "value": "labelletortue.com,en.labelletortue.com,*"
+  },
+  {
+    "key": "waviahoteladultsonlydirect",
+    "value": "waviahotel.com,*"
+  },
+  {
+    "key": "hotelkreuzinbetriebderddirect",
+    "value": "kreuz-breitnau.de,b.kreuz-breitnau.de,*"
+  },
+  {
+    "key": "baerenwirthdirect",
+    "value": "baerhotel.at,*"
+  },
+  {
+    "key": "hotelgutschoeneworthdirect",
+    "value": "gut-schoeneworth.de,*"
+  },
+  {
+    "key": "alpazurdirect",
+    "value": "hotelalpazur.com,*"
+  },
+  {
+    "key": "mulenhoteltandildirect",
+    "value": "mulentandil.com,*"
+  },
+  {
+    "key": "hotelstolbergdirect",
+    "value": "cityhotel-stolberg.de,*"
+  },
+  {
+    "key": "hotelsenatordirect",
+    "value": "hotelsenator.ca,www-hotelsenator-ca.filesusr.com,*"
+  },
+  {
+    "key": "argyleaparthotel",
+    "value": "argyleaparthotel.co.uk,*"
+  },
+  {
+    "key": "hotelburgstallerhofdirect",
+    "value": "burgstallerhof.at,*"
+  },
+  {
+    "key": "therosecottageinndirect",
+    "value": "therosecottagealciston.co.uk,*"
+  },
+  {
+    "key": "thelakeisledirect",
+    "value": "lakeisle.co.uk,*"
+  },
+  {
+    "key": "beimschmied",
+    "value": "beimschmied.com,*"
+  },
+  {
+    "key": "martinadirect",
+    "value": "namartina.com,*"
+  },
+  {
+    "key": "mlmoteldirect",
+    "value": "mapleleaf-motel.com,*"
+  },
+  {
+    "key": "novelhoteldirect",
+    "value": "novelhotel.de,*"
+  },
+  {
+    "key": "goldenhofdirect",
+    "value": "hotelgoldenhof.com,*"
+  },
+  {
+    "key": "lacasadelaabuelamilagros",
+    "value": "casaabuelamilagros.es,*"
+  },
+  {
+    "key": "pensionchikidirect",
+    "value": "pensionrestaurantechiki.es,*"
+  },
+  {
+    "key": "landhotelschnuppdirect",
+    "value": "landhotel-schnupp.de,*"
+  },
+  {
+    "key": "hotelskysandtondirect",
+    "value": "hotelsky.co.za,*"
+  },
+  {
+    "key": "hostallasdunasdirect",
+    "value": "hostallasdunas.com,*"
+  },
+  {
+    "key": "pureparadiseresortdirect",
+    "value": "pureparadiseresort.com,*"
+  },
+  {
+    "key": "geniesserhofhaimerdirect",
+    "value": "haimer.at,*"
+  },
+  {
+    "key": "allsuiteibizadirect",
+    "value": "allsuiteibiza.com,*"
+  },
+  {
+    "key": "umbhabaecolodgedirect",
+    "value": "umbhaba.co.za,*"
+  },
+  {
+    "key": "derwaldblickdirect",
+    "value": "waldblick-pulsnitz.de,*"
+  },
+  {
+    "key": "comfortbarcelonaroomsdirect",
+    "value": "laramond.com,www-laramond-com.filesusr.com,*"
+  },
+  {
+    "key": "refugiolosvolcanes",
+    "value": "refugiolosvolcanes.com,*"
+  },
+  {
+    "key": "riverfieldbb",
+    "value": "riverfieldbandb.ie,*"
+  },
+  {
+    "key": "hotelgilmardirect",
+    "value": "hotelgilmar.es,*"
+  },
+  {
+    "key": "hotelriver",
+    "value": "river-hotel.it,*"
+  },
+  {
+    "key": "billybyrnesdirect",
+    "value": "billybyrnes.com,*"
+  },
+  {
+    "key": "theyewdaleinndirect",
+    "value": "yewdaleinn.com,*"
+  },
+  {
+    "key": "belverboavistahotelandspadirect",
+    "value": "hotelboavistaspa.com,*"
+  },
+  {
+    "key": "alpinalwen",
+    "value": "alpinaloewen.de,*"
+  },
+  {
+    "key": "wansbeckriversidecaravanparkdirect",
+    "value": "wrcp.co.uk,*"
+  },
+  {
+    "key": "projectjunedirect",
+    "value": "en.projectjune.de,projectjune.de,*"
+  },
+  {
+    "key": "hostalcostadirect",
+    "value": "hostalcostaazul.com,*"
+  },
+  {
+    "key": "amerivuinnsuitesdirect",
+    "value": "lomirainnandsuites.com,*"
+  },
+  {
+    "key": "santodomingodesilosdirect",
+    "value": "hotelsantodomingodesilos.com,casasruralesburgos.com,*"
+  },
+  {
+    "key": "hotelskycapetowndirect",
+    "value": "hotelsky.co.za,*"
+  },
+  {
+    "key": "dasgasthausamreichswald",
+    "value": "gasthaus-reichswald.de,*"
+  },
+  {
+    "key": "hotelsonne1direct",
+    "value": "sonne-kirnbach.de,*"
+  },
+  {
+    "key": "townhouseatbrecondirect",
+    "value": "brecontownhouse.co.uk,editor.wix.com,*"
+  },
+  {
+    "key": "relaiscaladeimori",
+    "value": "caladeimori.com,*"
+  },
+  {
+    "key": "fleinergastehausdirect",
+    "value": "fleiner-gaestehaus.de,*"
+  },
+  {
+    "key": "lerelaiscorbion",
+    "value": "hotellerelais.be,*"
+  },
+  {
+    "key": "bulawayorainbowhoteldirect",
+    "value": "rtgafrica.com,*"
+  },
+  {
+    "key": "gaiasgardenabidjandirect",
+    "value": "gaiasgardenabidjan.com,*"
+  },
+  {
+    "key": "hotellacasadefrancois",
+    "value": "lacasadefrancois.com,*"
+  },
+  {
+    "key": "hotelzumreussensteindirect",
+    "value": "reussenstein.com,*"
+  },
+  {
+    "key": "perleobanhoteldirect",
+    "value": "perlehotels.com,*"
+  },
+  {
+    "key": "directnewambassador",
+    "value": "rtgafrica.com,*"
+  },
+  {
+    "key": "housearundel",
+    "value": "housearundel.co.uk,*"
+  },
+  {
+    "key": "apartamentosmartin",
+    "value": "apartamentosencazorla.com,*"
+  },
+  {
+    "key": "riadzoraidadirect",
+    "value": "riadzoraida.com,*"
+  },
+  {
+    "key": "villassacbedirect",
+    "value": "villassacbe.com,*"
+  },
+  {
+    "key": "thecoachmansdirect",
+    "value": "thecoachmans.com,*"
+  },
+  {
+    "key": "skgeorgehoteldirect",
+    "value": "skgeorgehotel.co.uk,skhotels.co.uk,*"
+  },
+  {
+    "key": "gmundnerlodgedirect",
+    "value": "gmundner-lodge.com,*"
+  },
+  {
+    "key": "whiteshoteldirect",
+    "value": "whiteshotel.com,*"
+  },
+  {
+    "key": "seewirtdirect",
+    "value": "seewirt.de,*"
+  },
+  {
+    "key": "quintadapintassilgadirect",
+    "value": "quintadapintassilga.pt,*"
+  },
+  {
+    "key": "hazeldeanhoteldirect",
+    "value": "hazeldeanhotel.co.uk,*"
+  },
+  {
+    "key": "tilosvilladirect",
+    "value": "tilosvilla.com,842943101-atari-embeds.googleusercontent.com,828941090-atari-embeds.googleusercontent.com,801799958-atari-embeds.googleusercontent.com,1904090014-atari-embeds.googleusercontent.com,1283324547-atari-embeds.googleusercontent.com,1004390341-atari-embeds.googleusercontent.com,1865651693-atari-embeds.googleusercontent.com,482419555-atari-embeds.googleusercontent.com,589640190-atari-embeds.googleusercontent.com,63321818-atari-embeds.googleusercontent.com,172358915-atari-embeds.googleusercontent.com,1240665276-atari-embeds.googleusercontent.com,1793186151-atari-embeds.googleusercontent.com,1201422768-atari-embeds.googleusercontent.com,1894109162-atari-embeds.googleusercontent.com,495998276-atari-embeds.googleusercontent.com,1185683745-atari-embeds.googleusercontent.com,729325786-atari-embeds.googleusercontent.com,1842004515-atari-embeds.googleusercontent.com,1713815715-atari-embeds.googleusercontent.com,372813858-atari-embeds.googleusercontent.com,283608776-atari-embeds.googleusercontent.com,339835049-atari-embeds.googleusercontent.com,1704167419-atari-embeds.googleusercontent.com,1166461338-atari-embeds.googleusercontent.com,1581794153-atari-embeds.googleusercontent.com,1199560250-atari-embeds.googleusercontent.com,1892449-atari-embeds.googleusercontent.com,1129149872-atari-embeds.googleusercontent.com,1299320442-atari-embeds.googleusercontent.com,1124910784-atari-embeds.googleusercontent.com,2120200578-atari-embeds.googleusercontent.com,309610979-atari-embeds.googleusercontent.com,1532726244-atari-embeds.googleusercontent.com,1999489027-atari-embeds.googleusercontent.com,1641212659-atari-embeds.googleusercontent.com,975286453-atari-embeds.googleusercontent.com,1667721016-atari-embeds.googleusercontent.com,215171538-atari-embeds.googleusercontent.com,174215546-atari-embeds.googleusercontent.com,659904234-atari-embeds.googleusercontent.com,2041173165-atari-embeds.googleusercontent.com,547738775-atari-embeds.googleusercontent.com,406055460-atari-embeds.googleusercontent.com,1283524212-atari-embeds.googleusercontent.com,957801432-atari-embeds.googleusercontent.com,235227463-atari-embeds.googleusercontent.com,2069599487-atari-embeds.googleusercontent.com,864054436-atari-embeds.googleusercontent.com,2005187726-atari-embeds.googleusercontent.com,809610191-atari-embeds.googleusercontent.com,1938232278-atari-embeds.googleusercontent.com,987560960-atari-embeds.googleusercontent.com,564187285-atari-embeds.googleusercontent.com,1756352229-atari-embeds.googleusercontent.com,1637005845-atari-embeds.googleusercontent.com,712080952-atari-embeds.googleusercontent.com,401831703-atari-embeds.googleusercontent.com,670832856-atari-embeds.googleusercontent.com,981398037-atari-embeds.googleusercontent.com,682047099-atari-embeds.googleusercontent.com,891420555-atari-embeds.googleusercontent.com,146678495-atari-embeds.googleusercontent.com,865948312-atari-embeds.googleusercontent.com,858732827-atari-embeds.googleusercontent.com,1549634619-atari-embeds.googleusercontent.com,1132496161-atari-embeds.googleusercontent.com,2044018270-atari-embeds.googleusercontent.com,1794672001-atari-embeds.googleusercontent.com,608314106-atari-embeds.googleusercontent.com,1660857049-atari-embeds.googleusercontent.com,1588656854-atari-embeds.googleusercontent.com,*"
+  },
+  {
+    "key": "kigambirasafarilodgedirect",
+    "value": "kigambirasafarilodge.com,*"
+  },
+  {
+    "key": "b&brelaisparadisedirect",
+    "value": "relaisparadise.it,*"
+  },
+  {
+    "key": "brunswickmerchantcityhoteldirect",
+    "value": "brunswickhotel.co.uk,*"
+  },
+  {
+    "key": "tenutachathambaydirect",
+    "value": "tenutachathambay.com,*"
+  },
+  {
+    "key": "hotelandrestaurantstrumperhofdirect",
+    "value": "struemperhof.de,*"
+  },
+  {
+    "key": "thebutchersarms-grillpubaccommodation",
+    "value": "thebutchersarms.wales,*"
+  },
+  {
+    "key": "alpinadirect",
+    "value": "myalpina.ch,ridelaval.com,*"
+  },
+  {
+    "key": "belverportodonamariadirect",
+    "value": "portodonamaria.com,*"
+  },
+  {
+    "key": "livingtowndirect",
+    "value": "livingtown.ch,*"
+  },
+  {
+    "key": "hotelbelairdirect",
+    "value": "hotel-a-barcelonnette.com,*"
+  },
+  {
+    "key": "landgasthofhotelliliedirect",
+    "value": "hotel-lilie.at,*"
+  },
+  {
+    "key": "hotelcasarader",
+    "value": "casarader.com,*"
+  },
+  {
+    "key": "villabluucoralhotelspaltddirect",
+    "value": "villabluu.com,*"
+  },
+  {
+    "key": "lemontaigudirect",
+    "value": "lemontaigu.com,*"
+  },
+  {
+    "key": "windsordusseldorfdirect",
+    "value": "sir-astor.de,windsorhotel.de,*"
+  },
+  {
+    "key": "lapetitesirenedirect",
+    "value": "hotel-lapetitesirene.fr,en.hotel-lapetitesirene.fr,*"
+  },
+  {
+    "key": "dragonflyinn",
+    "value": "dragonflyinns.com,*"
+  },
+  {
+    "key": "thelodgeonlakeoconeedirect",
+    "value": "thelodgeonlakeoconee.com,*"
+  },
+  {
+    "key": "hicasuahotelboutiquedirect",
+    "value": "hicasua.com,hotelhicasua-pms.odoo.com,*"
+  },
+  {
+    "key": "hemlockinndirect",
+    "value": "hemlockinn.com,*"
+  },
+  {
+    "key": "seabreezehotelgrenadadirect",
+    "value": "seabreezegrenada.com,*"
+  },
+  {
+    "key": "cleathamhalldirect",
+    "value": "cleathamhall.com,*"
+  },
+  {
+    "key": "wlviewlisted",
+    "value": "willenlodge.co.uk,*"
+  },
+  {
+    "key": "theclementdirect",
+    "value": "stclementhotel.com,*"
+  },
+  {
+    "key": "casadelpoetadirect",
+    "value": "hotelpoetamanrique.es,jaenparaisointerior.online,*"
+  },
+  {
+    "key": "hostalrestauranteirunakodirect",
+    "value": "irunako.es,*"
+  },
+  {
+    "key": "jayvillageinndirect",
+    "value": "thejayvillageinn.com,*"
+  },
+  {
+    "key": "apartamentos4estaciones",
+    "value": "apartamento4estaciones.com,*"
+  },
+  {
+    "key": "artesanaluxuryvilladirect",
+    "value": "en.artesana.com,artesana.com,*"
+  },
+  {
+    "key": "thebullsheaddirect",
+    "value": "bullsheadglossop.com,*"
+  },
+  {
+    "key": "tenbyhousedirect",
+    "value": "tenbyhousehotel.com,stayinwales.co.uk,*"
+  },
+  {
+    "key": "thewhitehorserogatedirect",
+    "value": "thewhitehorserogate.com,*"
+  },
+  {
+    "key": "hotelmautnerdirect",
+    "value": "hotel-mautner.de,*"
+  },
+  {
+    "key": "hotelsoficubeachdirect",
+    "value": "nowebsite.com,soficuhoteles.com,*"
+  },
+  {
+    "key": "thesevenstarinn",
+    "value": "sevenstarsdurham.uk,*"
+  },
+  {
+    "key": "latigrarainforestlodgedirect",
+    "value": "latigralodge.com,*"
+  },
+  {
+    "key": "2938westgateinndirect",
+    "value": "westgateinn.co,*"
+  },
+  {
+    "key": "thecricketinndirect",
+    "value": "thecricketinn.com,*"
+  },
+  {
+    "key": "riadbelhajdirect",
+    "value": "riadbelhaj.com,*"
+  },
+  {
+    "key": "hotelgasthofmostwastlgmbhdirect",
+    "value": "mostwastl.com,*"
+  },
+  {
+    "key": "hotelalendomar",
+    "value": "hotelalendomar.com,cloud.siweb.es,*"
+  },
+  {
+    "key": "paintedpelican",
+    "value": "thepaintedpelicangb.com,*"
+  },
+  {
+    "key": "dachsteinresort",
+    "value": "dachsteinresort.at,en.dachsteinresort.at,cs.dachsteinresort.at,*"
+  },
+  {
+    "key": "riversidecamp",
+    "value": "riversidepatagonia.camp,*"
+  },
+  {
+    "key": "fincalaencomienda",
+    "value": "casaherreros.com,*"
+  },
+  {
+    "key": "pissourianadirect",
+    "value": "pissouriana.com,*"
+  },
+  {
+    "key": "alcotxcountryclub",
+    "value": "alcotxcountryclub.com,*"
+  },
+  {
+    "key": "villamotelatmanitousprings",
+    "value": "villamotel.com,*"
+  },
+  {
+    "key": "beachcomberofconesusllc",
+    "value": "beachcomberny.com,*"
+  },
+  {
+    "key": "ambientewalldorfdirect",
+    "value": "ambiente.dev.tma-server.de,ambiente-walldorf.de,*"
+  },
+  {
+    "key": "hotelcasaconzattidirect",
+    "value": "casaconzatti.com.mx,booking.casaconzatti.com.mx,*"
+  },
+  {
+    "key": "hotelenjoydirect",
+    "value": "enjoy-goldach.ch,*"
+  },
+  {
+    "key": "schlossblumenfeld",
+    "value": "schloss-blumenfeld.de,*"
+  },
+  {
+    "key": "hostalannadirect",
+    "value": "hostalannabenidorm.com,*"
+  },
+  {
+    "key": "hotelcolonydirect",
+    "value": "colonyhotel.it,*"
+  },
+  {
+    "key": "woodstockarms",
+    "value": "woodstockarms.ie,*"
+  },
+  {
+    "key": "allorojunglevillasdirect",
+    "value": "allorovillas.com,*"
+  },
+  {
+    "key": "apartamentosprincipe7direct",
+    "value": "apartamentosprincipe7.com,*"
+  },
+  {
+    "key": "theoldpointhousedirect",
+    "value": "theoldpointhouse.wales,pointhousecamping.wales,fish-indigo-rzdg.squarespace.com,bat-pepper-6mln.squarespace.com,*"
+  },
+  {
+    "key": "casalilidirect",
+    "value": "moraira.casalili.es,*"
+  },
+  {
+    "key": "hotellindavecindaddirect",
+    "value": "lindavecindad.com,*"
+  },
+  {
+    "key": "centralhousenydirect",
+    "value": "centralhouseny.com,*"
+  },
+  {
+    "key": "cortijolascabrerizas",
+    "value": "cortijolascabrerizas.es,*"
+  },
+  {
+    "key": "hotelpalacemedjugorjebosnadirect",
+    "value": "medjugorjepalace.com,*"
+  },
+  {
+    "key": "casacharliescandirect1",
+    "value": "luxeescapescartagena.com,*"
+  },
+  {
+    "key": "2442heartofmanteomotorlodgedirect",
+    "value": "heartofmanteo.com,*"
+  },
+  {
+    "key": "hiddenjewelboutiquehoteldirect",
+    "value": "hiddenjewelhotel.com,*"
+  },
+  {
+    "key": "valuedstayalohadirect",
+    "value": "valuedstay.com,*"
+  },
+  {
+    "key": "icehouseapartmentsdirect",
+    "value": "icehouseapartments.co.uk,editor.wix.com,*"
+  },
+  {
+    "key": "hotelsoleriosdirect",
+    "value": "solerios.com,hotelsolerios.com,*"
+  },
+  {
+    "key": "queensarmscountryinndirect",
+    "value": "queens-arms-hotel-old-glossop.co.uk,queensarmsglossop.co.uk,*"
+  },
+  {
+    "key": "snydersshorelineinndirect",
+    "value": "snydersshoreinn.com,snydersshorelineinn.com,*"
+  },
+  {
+    "key": "unicmallorcadirect",
+    "value": "unicmallorca.com,*"
+  },
+  {
+    "key": "hotelislamucuradirect",
+    "value": "hotelislamucura.com,*"
+  },
+  {
+    "key": "hotelsoficuedendirect",
+    "value": "nowebsite.com,soficuhoteles.com,*"
+  },
+  {
+    "key": "doranbay",
+    "value": "doranbayresort.com,*"
+  },
+  {
+    "key": "blueskiesbeachresortdirect",
+    "value": "blueskiesnegril.com,*"
+  },
+  {
+    "key": "theelizabethmanordirect",
+    "value": "elizabethmanor.nl.ca,elizabethmanorguesthouse.ca,*"
+  },
+  {
+    "key": "chiemseebarrierefreidirect",
+    "value": "chiemsee-barrierefrei.de,*"
+  },
+  {
+    "key": "heidelbergastoriadirect",
+    "value": "heidelberg-astoria.de,*"
+  },
+  {
+    "key": "swissholidaylodgedirect",
+    "value": "swissholidaylodge.com,*"
+  },
+  {
+    "key": "hotelcasasantoorigendirect",
+    "value": "hotelcasasantoorigen.com,hotelcasasantoorigen.com.mx,*"
+  },
+  {
+    "key": "bendingrivercove",
+    "value": "bendingrivercove.com,*"
+  },
+  {
+    "key": "kenaiadventurecabinsdirect",
+    "value": "kenaiadventurecabins.com,*"
+  },
+  {
+    "key": "thechateaubymphholidaysdirect",
+    "value": "thechateaubymphholidays.co.uk,*"
+  },
+  {
+    "key": "countrycabinsdirect",
+    "value": "country-cabins.com,*"
+  },
+  {
+    "key": "hotelappartementroggaldirect",
+    "value": "roggal.com,*"
+  },
+  {
+    "key": "elainesbedandbreakfast",
+    "value": "elainesbnb.com,*"
+  },
+  {
+    "key": "riadbabettedirect",
+    "value": "riad-babette.com,*"
+  },
+  {
+    "key": "wpsantodomingodirect",
+    "value": "workandpleasurehotels.com,*"
+  },
+  {
+    "key": "hotelzamna",
+    "value": "www-hotelzamna-com.filesusr.com,c477204d-c0a5-4143-9006-09842e53a689.filesusr.com,hotelzamna.com,editor.wix.com,*"
+  },
+  {
+    "key": "halfmoonlakelodgedirect",
+    "value": "halfmoonlakelodge.com,*"
+  },
+  {
+    "key": "oceansedgedirect",
+    "value": "theoceansedgebelize.com,pelicanreefmanagement.com,*"
+  },
+  {
+    "key": "themerchantsyard",
+    "value": "themerchantsyard.com,www-themerchantsyard-com.filesusr.com,*"
+  },
+  {
+    "key": "mandelholzdirect",
+    "value": "mandelholz.de,*"
+  },
+  {
+    "key": "antarisvalledirect",
+    "value": "hotelantaris.com,*"
+  },
+  {
+    "key": "27suitesapartdirect",
+    "value": "27suites.com,*"
+  },
+  {
+    "key": "apartamentosloscocoterosdirect",
+    "value": "apartamentoscocoteros.com,*"
+  },
+  {
+    "key": "sumasmtlodgedirect",
+    "value": "sumasmountainlodge.com,*"
+  },
+  {
+    "key": "maplevalleyguesthousedirect",
+    "value": "maplevalley.ie,*"
+  },
+  {
+    "key": "cityhotelfellbachdirect",
+    "value": "hotelfellbach.de,*"
+  },
+  {
+    "key": "hotelventadelpobredirect",
+    "value": "ventadelpobre.es,*"
+  },
+  {
+    "key": "2crescentdirect",
+    "value": "2crescentgardens.co.uk,*"
+  },
+  {
+    "key": "hostalsoldirect",
+    "value": "hostalsolzamora.com,*"
+  },
+  {
+    "key": "seaclub1direct",
+    "value": "seaclub1.com,*"
+  },
+  {
+    "key": "queenscottage",
+    "value": "romillehomes.co.uk,*"
+  },
+  {
+    "key": "republicaguesthousedirect",
+    "value": "republicaguesthouse.pt,*"
+  },
+  {
+    "key": "optimasignaturedirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "baldwinsvillebedandbreakfastdirect",
+    "value": "baldwinsvillebedandbreakfast.com,*"
+  },
+  {
+    "key": "socoolhosteldirect",
+    "value": "socoolhostelporto.com,trivago.es,*"
+  },
+  {
+    "key": "casanadadirect",
+    "value": "casanadahotel.com,*"
+  },
+  {
+    "key": "bellinndirect",
+    "value": "thebellinnbroadheath.co.uk,*"
+  },
+  {
+    "key": "jlsterlakeview",
+    "value": "jolsterlakeview.com,*"
+  },
+  {
+    "key": "dasseidlhotelundtagungdirect",
+    "value": "coffee-fellows.com,*"
+  },
+  {
+    "key": "mountainchaletsnowmassdirect",
+    "value": "mountainchalet.com,*"
+  },
+  {
+    "key": "turismonaturezavillario",
+    "value": "villario.pt,*"
+  },
+  {
+    "key": "matecumbebaydirect",
+    "value": "matecumberesort.net,*"
+  },
+  {
+    "key": "landgasthofhotelgentnerdirect",
+    "value": "landgasthofhotelgentner.de,*"
+  },
+  {
+    "key": "fincalaescondidasanrafael",
+    "value": "laescondidasanrafael.com,*"
+  },
+  {
+    "key": "chodoribeirinho",
+    "value": "chaodoribeirinho.pt,*"
+  },
+  {
+    "key": "agriturismocasaledimonicadirect",
+    "value": "ilcasaledimonica.it,*"
+  },
+  {
+    "key": "atworthatmellodyfarmsdirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "casitamiademitadirect",
+    "value": "casitamiademita.com,*"
+  },
+  {
+    "key": "hotelsouldejavea",
+    "value": "hotelsouldejavea.com,*"
+  },
+  {
+    "key": "hotelarcosdirect",
+    "value": "hotel-arcos.com,*"
+  },
+  {
+    "key": "tambortropicaldirect",
+    "value": "tambortropical.com,*"
+  },
+  {
+    "key": "fincacampestrelaadelitabbdirect",
+    "value": "fincacampestrelaadelita.com,adelita.agathagroup.com.co,*"
+  },
+  {
+    "key": "deerfieldinndirect",
+    "value": "deerfieldinn.com,*"
+  },
+  {
+    "key": "apartamentosmajadirect",
+    "value": "apartamentosmaja.es,*"
+  },
+  {
+    "key": "l'avipepdirect",
+    "value": "pensionlavipep.com,*"
+  },
+  {
+    "key": "reflections",
+    "value": "reflectionsfip.com,reflectionsfi.com,*"
+  },
+  {
+    "key": "hotelprivadaguadalupe",
+    "value": "privadaguadalupe.com.mx,*"
+  },
+  {
+    "key": "carvajaldirect",
+    "value": "palaciocarvajalgiron.com,*"
+  },
+  {
+    "key": "bascomlodge",
+    "value": "bascomlodge.net,*"
+  },
+  {
+    "key": "drumhiernywoodlandhideaway",
+    "value": "drumhiernyhideaway.ie,*"
+  },
+  {
+    "key": "apartamentoslidodirect",
+    "value": "lido-benidorm.es,*"
+  },
+  {
+    "key": "poderelapiazzadirect",
+    "value": "poderelapiazza.it,*"
+  },
+  {
+    "key": "hotelvilladesetenidirect",
+    "value": "hotelsetenil.com,*"
+  },
+  {
+    "key": "grandparkdirect",
+    "value": "hotelgrandpark.com.co,*"
+  },
+  {
+    "key": "riadsofyanspadirect",
+    "value": "riad-sofyan.com,editor.wix.com,*"
+  },
+  {
+    "key": "shipinndirect",
+    "value": "shipinnstonehaven.com,*"
+  },
+  {
+    "key": "altesaegeruhpoldingdirect",
+    "value": "altesaege.com,*"
+  },
+  {
+    "key": "hostalalamarinadirect",
+    "value": "lamarinahostal.com,*"
+  },
+  {
+    "key": "ascentdirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "patiodelasmarinas",
+    "value": "elpatiodelasmarinas.com,*"
+  },
+  {
+    "key": "northenddirect",
+    "value": "suitehomechicago.com,suitehome.com,*"
+  },
+  {
+    "key": "hotelvillamercedespalenquedirect",
+    "value": "hotelvmpalenque.com,*"
+  },
+  {
+    "key": "hqpencadlysdirect",
+    "value": "hqpencadlys.wales,*"
+  },
+  {
+    "key": "santuariodieguenohoteldirect",
+    "value": "santuariodiegueno.com,sistemas7491.wixstudio.com,*"
+  },
+  {
+    "key": "centralcambridgeapartmentsdirect",
+    "value": "tasaccommodations.co.uk,*"
+  },
+  {
+    "key": "hotelvallemistico",
+    "value": "vallemistico.com,*"
+  },
+  {
+    "key": "mangocreekresort",
+    "value": "mangocreekresort.com,editor.wix.com,*"
+  },
+  {
+    "key": "starhotel",
+    "value": "starhotel.scot,*"
+  },
+  {
+    "key": "sellodgedirect",
+    "value": "sellodge.cl,*"
+  },
+  {
+    "key": "thecambridgesuitesdirect",
+    "value": "tasaccommodations.co.uk,*"
+  },
+  {
+    "key": "ihostchapultepec",
+    "value": "raudepartamentos.com,*"
+  },
+  {
+    "key": "hotelvillablanca-direct",
+    "value": "villablanca.net,*"
+  },
+  {
+    "key": "laperlahoteldirect",
+    "value": "hotellaperla.es,almeria.hotellaperla.es,*"
+  },
+  {
+    "key": "hotelpuenterealdirect",
+    "value": "hotelpuentereal.com.mx,*"
+  },
+  {
+    "key": "laserreriaturismoruralcasavenecia",
+    "value": "laserreria-turismorural.es,*"
+  },
+  {
+    "key": "ilmulinodellecanutoledirect",
+    "value": "ilmulinodellecanutole.it,*"
+  },
+  {
+    "key": "zamialuxury30",
+    "value": "zamiacondohotel.com,*"
+  },
+  {
+    "key": "thedolphin",
+    "value": "dolphinnewbury.com,*"
+  },
+  {
+    "key": "sandfonteinlodgenaturereserve",
+    "value": "sandfontein.com,editor.wix.com,*"
+  },
+  {
+    "key": "hostalbarcelonatraveldirect",
+    "value": "hostalbarcelonatravel.com,*"
+  },
+  {
+    "key": "fincahotellamanchuridirect",
+    "value": "fincalamanchuria.com,*"
+  },
+  {
+    "key": "tresequidirect",
+    "value": "pearl1.de,*"
+  },
+  {
+    "key": "thetassuitesdirect",
+    "value": "tasaccommodations.co.uk,*"
+  },
+  {
+    "key": "thecambridgeguesthousedirect",
+    "value": "tasaccommodations.co.uk,*"
+  },
+  {
+    "key": "andbeyondviraviradirect",
+    "value": "andbeyond.com,*"
+  },
+  {
+    "key": "hotelcalypsobeachdirect",
+    "value": "agencias.hotelcalypso.com.co,*"
+  },
+  {
+    "key": "hauss-1",
+    "value": "hauss.co.uk,*"
+  },
+  {
+    "key": "paghamgetaways",
+    "value": "paghamgetaways.co.uk,*"
+  },
+  {
+    "key": "manorfarmhouse",
+    "value": "manorfarm-house.co.uk,*"
+  },
+  {
+    "key": "tarawandabystawi",
+    "value": "thrivestawi.com,*"
+  },
+  {
+    "key": "hostalboutique501",
+    "value": "hotelboutique501.cl,editor.wix.com,hotelboutique501.com,*"
+  },
+  {
+    "key": "132perneroaddirect",
+    "value": "tasaccommodations.co.uk,*"
+  },
+  {
+    "key": "shelbyrvparkdirect",
+    "value": "shelbymtrvpark.com,*"
+  },
+  {
+    "key": "casazamiabacalardirect",
+    "value": "noweb.com,zamiacondohotel.com,*"
+  },
+  {
+    "key": "chapelapartmentsdirect",
+    "value": "chapelapartments.com,chapelapartments.co.uk,*"
+  },
+  {
+    "key": "tavistockplaceapartmentsdirect",
+    "value": "tavistockplaceapartments.com,*"
+  },
+  {
+    "key": "sisqinndirect",
+    "value": "sisqinn.com,*"
+  },
+  {
+    "key": "santuariograndebedbreakfastdirect",
+    "value": "santuariogrande.com,*"
+  },
+  {
+    "key": "hotelrocavaldirect",
+    "value": "hotelrocaval.com,*"
+  },
+  {
+    "key": "hotelkrugdirect",
+    "value": "hotel-krug.at,*"
+  },
+  {
+    "key": "thebaliresortzanzibar",
+    "value": "thebaliresortzanzibar.com,*"
+  },
+  {
+    "key": "stlukaspensiondirect",
+    "value": "pensionstlukas.at,*"
+  },
+  {
+    "key": "carmenbeachhostel",
+    "value": "carmenbeachhostel.com,*"
+  },
+  {
+    "key": "alorahotelmeridadirect",
+    "value": "alorahoteles.com,*"
+  },
+  {
+    "key": "vitohotelboutique",
+    "value": "vitohotelboutique.com,*"
+  },
+  {
+    "key": "hostaloforno",
+    "value": "hostaloforno.com,*"
+  },
+  {
+    "key": "hotelelithe",
+    "value": "elithehotel.com,*"
+  },
+  {
+    "key": "innthetowndirect",
+    "value": "innthetown.com,www-innthetown-com.filesusr.com,*"
+  },
+  {
+    "key": "brackloonlodgedirect",
+    "value": "brackloonlodge.com,*"
+  },
+  {
+    "key": "hotelilebal",
+    "value": "hotelilebal.com,*"
+  },
+  {
+    "key": "hostalcasaauritaadultsonly",
+    "value": "hostalcasaaurita.es,*"
+  },
+  {
+    "key": "hotelmesonyollotldirect",
+    "value": "mesonyollotl.com,hotelmesonyollotlpuebla.com,*"
+  },
+  {
+    "key": "miasboutiquehoteldirect",
+    "value": "miasboutiquehotel.com,*"
+  },
+  {
+    "key": "valuedstaymadisondirect",
+    "value": "valuedstay.com,*"
+  },
+  {
+    "key": "molivingdirect",
+    "value": "moliving.de,*"
+  },
+  {
+    "key": "hotelcastillodeloslocosdirect",
+    "value": "elcastillodeloslocos.com,*"
+  },
+  {
+    "key": "resortlosangelesdirect",
+    "value": "resortangeles.com,*"
+  },
+  {
+    "key": "nakomaresordirect",
+    "value": "nakomaresort.com,*"
+  },
+  {
+    "key": "gaestehausjagsttaldirect",
+    "value": "gaestehaus-jagsttal.de,*"
+  },
+  {
+    "key": "ambrosiaguesthousedirect",
+    "value": "ambrosiaguesthouse.ch,*"
+  },
+  {
+    "key": "refugioatreyu",
+    "value": "refugioatreyu.cl,*"
+  },
+  {
+    "key": "apartamentosvaldecilla",
+    "value": "hostallucy.com,*"
+  },
+  {
+    "key": "casaxtaodirect",
+    "value": "casaxtao.com,*"
+  },
+  {
+    "key": "iltirorooms",
+    "value": "iltirorooms.com,*"
+  },
+  {
+    "key": "golfcoursesoflawsonia",
+    "value": "lawsonia.com,*"
+  },
+  {
+    "key": "silvertoncasinolodgedirect",
+    "value": "silvertoncasino.com,*"
+  },
+  {
+    "key": "mbsrgrandshoresoceanresortsdirect",
+    "value": "grandeshores.com,*"
+  },
+  {
+    "key": "starsinnmoteldirect",
+    "value": "starsinnsuitesbuildingb.com,www-starsinnsuitesbuildingb-com.filesusr.com,*"
+  },
+  {
+    "key": "posadaelangeldelaguarda",
+    "value": "posadaelangeldelaguarda.com,*"
+  },
+  {
+    "key": "thepipersrestdirect",
+    "value": "pipersrest.ie,*"
+  },
+  {
+    "key": "departamentoslaroquetadirect",
+    "value": "departamentoslaroqueta.com.mx,*"
+  },
+  {
+    "key": "thefoundrydirect",
+    "value": "thefoundrybelfast.co.uk,*"
+  },
+  {
+    "key": "directadehotel",
+    "value": "adehotelbaclar.com,www-adehotelbacalar-com.filesusr.com,*"
+  },
+  {
+    "key": "woldsawaydirect",
+    "value": "woldsaway.uk,*"
+  },
+  {
+    "key": "albionhighlandparkdirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "hotelcasaaranzazu",
+    "value": "casaranzazuslp.com,*"
+  },
+  {
+    "key": "nomadlanding",
+    "value": "nomad-landing.com,*"
+  },
+  {
+    "key": "portedirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "2blackburneterracedirect",
+    "value": "2blackburneterrace.com,*"
+  },
+  {
+    "key": "sierrameadowsdirect",
+    "value": "sierrameadows.com,www-sierrameadows-com.filesusr.com,*"
+  },
+  {
+    "key": "vlodge",
+    "value": "middletoninn.co.uk,willenlodge.co.uk,mlodgemanchester.co.uk,*"
+  },
+  {
+    "key": "hotelriazordirect",
+    "value": "hotelriazor.mx,trivago.com.mx,*"
+  },
+  {
+    "key": "kvihotelbudapestdirect2",
+    "value": "kvihotelbudapest.com,peter-palicz.squarespace.com,*"
+  },
+  {
+    "key": "loftgrancanariadirect",
+    "value": "loftgc.com,*"
+  },
+  {
+    "key": "lis6059",
+    "value": "casasaorafael.com,*"
+  },
+  {
+    "key": "casonaelarraldirect",
+    "value": "casonaelarral.com,*"
+  },
+  {
+    "key": "cabinaselcolibridirect",
+    "value": "cabinaselcolibri.com,*"
+  },
+  {
+    "key": "burrellandflynnsfarm",
+    "value": "burrellandflynnsfarm.com,*"
+  },
+  {
+    "key": "milieudirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "webdotsgmbhdirect",
+    "value": "jaegerwirt.com,*"
+  },
+  {
+    "key": "broadwayinndirect1",
+    "value": "thebroadwayhotel.co.uk,www-thebroadwayhotel-co-uk.filesusr.com,*"
+  },
+  {
+    "key": "vidamountainresortandspadirect",
+    "value": "vidamountain.com,*"
+  },
+  {
+    "key": "473grenadeboutiqueresort",
+    "value": "473grenada.com,*"
+  },
+  {
+    "key": "kingdomlodgedirect",
+    "value": "kingdomlodge.ie,*"
+  },
+  {
+    "key": "fourwindsinn",
+    "value": "fourwindsinn.ca,*"
+  },
+  {
+    "key": "casasdalevadadirect",
+    "value": "casasdalevada.com,*"
+  },
+  {
+    "key": "alaskafrontierinndirect",
+    "value": "deltalodging.com,*"
+  },
+  {
+    "key": "columbiahotelrestaurantdirect",
+    "value": "thecolumbiahotel.com,*"
+  },
+  {
+    "key": "thelodgedirect2",
+    "value": "kimiwanlodge.com,*"
+  },
+  {
+    "key": "badlandmoteldirect",
+    "value": "badlandsmotel.ca,*"
+  },
+  {
+    "key": "prestonhousehoteldirect",
+    "value": "prestonhouse.ie,*"
+  },
+  {
+    "key": "momentdirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "aguasantahotelboutiquedirect",
+    "value": "aguasantahotel.com,*"
+  },
+  {
+    "key": "elabriganodelcanondirect",
+    "value": "casaruralpesqueradeebro.com,*"
+  },
+  {
+    "key": "landgasthofkronedirect",
+    "value": "landgasthof-krone-schierhuber.de,*"
+  },
+  {
+    "key": "casaruralsulladirect",
+    "value": "casaruralsulla.com,*"
+  },
+  {
+    "key": "cityhostelstockholmabdirect",
+    "value": "cityhostel.se,*"
+  },
+  {
+    "key": "thegreenvillagedirect",
+    "value": "thegreenvillage.com.mx,*"
+  },
+  {
+    "key": "boscosodirect",
+    "value": "boscoso.mx,*"
+  },
+  {
+    "key": "hotelursulaconceptdirect",
+    "value": "ursula.mx,*"
+  },
+  {
+    "key": "mbsrpolynesisanoceanfrontdirect",
+    "value": "polynesian-resort.com,*"
+  },
+  {
+    "key": "hotelschumacherdusseldorfdirect",
+    "value": "hotel-schumacher-duesseldorf.de,*"
+  },
+  {
+    "key": "hotelbabula",
+    "value": "babulahotel.com,*"
+  },
+  {
+    "key": "exhibitdirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "marinamotelchalmettedirect",
+    "value": "marinamotelchalmette.com,marinainnandsuites.com,*"
+  },
+  {
+    "key": "palisadespeaksdirect",
+    "value": "palisadespeaks.com,*"
+  },
+  {
+    "key": "panshilldirect",
+    "value": "panshillaccommodation.co.uk,panshillfishery.co.uk,*"
+  },
+  {
+    "key": "solymar1direct",
+    "value": "hostalsolymar.com,*"
+  },
+  {
+    "key": "apartmenthaussomborndirect",
+    "value": "apartmenthaus.de,*"
+  },
+  {
+    "key": "b&bspigolatricedirect",
+    "value": "bnbspigolatrice.it,*"
+  },
+  {
+    "key": "hotelauszeitdirect",
+    "value": "auszeit-isernhagen.de,*"
+  },
+  {
+    "key": "hoteleschenhofdirect",
+    "value": "eschenhof.at,eschenhof.re-guest.com,eschenhof.lpages.at,*"
+  },
+  {
+    "key": "onesharqhotelresidence",
+    "value": "onesharq.com,punewebdesigner.in,*"
+  },
+  {
+    "key": "wittelsbacherhofdirect",
+    "value": "wittelsbacherhof.de,*"
+  },
+  {
+    "key": "pensionlasmatillasdirect",
+    "value": "pensionlasmatillas.com,*"
+  },
+  {
+    "key": "acrossthecreekdirect",
+    "value": "acrossthecreekcabins.com,*"
+  },
+  {
+    "key": "cuoredisorrentodirect",
+    "value": "cuoredisorrento.com,*"
+  },
+  {
+    "key": "monsadirect",
+    "value": "hotelmonse.com,*"
+  },
+  {
+    "key": "dassaaldirect",
+    "value": "das-saal.com,*"
+  },
+  {
+    "key": "mariabonitahoteldirect",
+    "value": "mariabonitahoteles.com,*"
+  },
+  {
+    "key": "jardinshautecouturedirect",
+    "value": "jardinshautecouture.fr,trivago.it,*"
+  },
+  {
+    "key": "hotelsosteniblelalagunadirect",
+    "value": "hotel-caceres.com,*"
+  },
+  {
+    "key": "dafrancorastatt",
+    "value": "da-franco.com,*"
+  },
+  {
+    "key": "neuenkirchenerhofdirect",
+    "value": "neuenkirchener-hof.de,*"
+  },
+  {
+    "key": "econoexpresshoteldirect",
+    "value": "econoexpresshotel.com,mail.econoexpresshotel.com,*"
+  },
+  {
+    "key": "plawsworthhallcottagesapartments",
+    "value": "plawsworth.com,*"
+  },
+  {
+    "key": "pinehavendirect",
+    "value": "estesparkcabins.com,innonfallriver.com,*"
+  },
+  {
+    "key": "hotelliforumdirect",
+    "value": "westsidehotel.fi,*"
+  },
+  {
+    "key": "pisoavenidajuntoalaplaya",
+    "value": "turisticoscadiz.com,*"
+  },
+  {
+    "key": "sonnenberghealthhoteldirect",
+    "value": "sonnenberg-schwellbrunn.ch,sonnenberg-schwellbrunn.com,*"
+  },
+  {
+    "key": "hostalrestaurantelailusiondirect",
+    "value": "hrlailusion.com,*"
+  },
+  {
+    "key": "hotelitoazuldirect",
+    "value": "hotelitoazul.mx,*"
+  },
+  {
+    "key": "casajurjodirect02",
+    "value": "casajurjo.com,*"
+  },
+  {
+    "key": "thepaddockdirect",
+    "value": "paddockholiday.co.uk,*"
+  },
+  {
+    "key": "starstonbyhamiltondirect",
+    "value": "starston.com,*"
+  },
+  {
+    "key": "landhauspensiongoekedirect",
+    "value": "hotel-landhaus-goeke.de,www-hotel-landhaus-goeke-de.filesusr.com,*"
+  },
+  {
+    "key": "mcgovernsmotelandsuitesdirect",
+    "value": "valuedstay.com,*"
+  },
+  {
+    "key": "metzgereigasthofrebstockdirect",
+    "value": "rebstock-muenchweier.com,*"
+  },
+  {
+    "key": "corsewalllighthousehotel",
+    "value": "lighthousehotel.co.uk,*"
+  },
+  {
+    "key": "hotelboutiquecitycenterdirect",
+    "value": "hotelcitycentercorferias.com,*"
+  },
+  {
+    "key": "southwoodhouseandcottagesdirect",
+    "value": "cottagesatpoetscorner.com,www-cottagesatpoetscorner-com.filesusr.com,*"
+  },
+  {
+    "key": "theparrsboromansiondirect",
+    "value": "parrsboromansioninn.ca,parrsboromansion.com,*"
+  },
+  {
+    "key": "coralreefbeachdirect",
+    "value": "coralreefbeacharuba.com,coralreefbeachapartments.com,*"
+  },
+  {
+    "key": "eventgasthofkunitzdirect",
+    "value": "hof-kunitz.de,*"
+  },
+  {
+    "key": "cabanaspiedragrandedirect",
+    "value": "piedragrande.cl,*"
+  },
+  {
+    "key": "belasartesapartmentsdirect",
+    "value": "belasartesapartments.com,*"
+  },
+  {
+    "key": "h3hotelrotterdamdirect",
+    "value": "web0085.zxcs.nl,h3hotelrotterdam.com,h3hotel.nl,h3hotelrotterdam.nl,*"
+  },
+  {
+    "key": "hotellandgasthofzumpflugdirect",
+    "value": "gasthauspflug.de,*"
+  },
+  {
+    "key": "thekingshead1direct",
+    "value": "thekingsheadhsm.com,*"
+  },
+  {
+    "key": "hoteldeharmonie",
+    "value": "harmonie-giethoorn.nl,*"
+  },
+  {
+    "key": "hotelkantetulumdirect",
+    "value": "kantetulum.com.mx,*"
+  },
+  {
+    "key": "lasrochasmindeloaparthoteldirect",
+    "value": "lasrochasmindelo.com,*"
+  },
+  {
+    "key": "pasciboutiquehotel",
+    "value": "pasciahotel.it,*"
+  },
+  {
+    "key": "molinodeblar",
+    "value": "molinodebular.com,*"
+  },
+  {
+    "key": "puravida",
+    "value": "ktm-georgia.com,*"
+  },
+  {
+    "key": "hotelrestaurantneckarperledirect",
+    "value": "neckarperle.com,*"
+  },
+  {
+    "key": "stayinapartmentsdirect",
+    "value": "*"
+  },
+  {
+    "key": "hotelheidenauerhofdirect",
+    "value": "heidenauer-hof.de,heidenauer-hotelimpark.de,*"
+  },
+  {
+    "key": "hotelboatiris",
+    "value": "hotelboatiris.com,*"
+  },
+  {
+    "key": "darajgal-1",
+    "value": "*"
+  },
+  {
+    "key": "losgatagatadirect",
+    "value": "losgatagata.com,*"
+  },
+  {
+    "key": "meliogmbhdirect",
+    "value": "melio-hotels.de,*"
+  },
+  {
+    "key": "kasbahdescypresdirect",
+    "value": "kasbahdescypres.com,*"
+  },
+  {
+    "key": "koheakaimauidirect",
+    "value": "koheakai.com,*"
+  },
+  {
+    "key": "thejdhydehistoricinn",
+    "value": "jdhydehistoricinn.com,*"
+  },
+  {
+    "key": "hotelhaciendasanchezdirect",
+    "value": "haciendasanchez.com.mx,*"
+  },
+  {
+    "key": "americaninndirect",
+    "value": "innionia.com,*"
+  },
+  {
+    "key": "cottagebedandbreakfastdirect",
+    "value": "theshabbygourmet.com,www-theshabbygourmet-com.filesusr.com,*"
+  },
+  {
+    "key": "streeterdirect",
+    "value": "suitehome.com,*"
+  },
+  {
+    "key": "hotelregattacartagenadirect",
+    "value": "hotelregattacartagena.com,*"
+  },
+  {
+    "key": "apartamentosgemelos2direct",
+    "value": "beninter.com,trivago.es,*"
+  },
+  {
+    "key": "stthomasresortbyresortsharedirect",
+    "value": "book.resortshare.com,resortshare.com,*"
+  },
+  {
+    "key": "hotelboutique-direct",
+    "value": "meriblau.mx,*"
+  },
+  {
+    "key": "pensioncitydirect",
+    "value": "pensionprague.cz,*"
+  },
+  {
+    "key": "carmelinnandsuitesdirect",
+    "value": "carmelinnandsuites.com,*"
+  },
+  {
+    "key": "astorcourtdirect",
+    "value": "astorcourthotel.co.uk,trivago.it,*"
+  },
+  {
+    "key": "villatusciadirect",
+    "value": "villatusciapartments.com,*"
+  },
+  {
+    "key": "villatoscanaloftssuitesdirect",
+    "value": "wpbrclientes.com,villatoscana.mx,*"
+  },
+  {
+    "key": "hotelcandordirect",
+    "value": "hotelcandor.com,*"
+  },
+  {
+    "key": "lalibertiedirect",
+    "value": "lalibertie.com,*"
+  },
+  {
+    "key": "pickerskeep",
+    "value": "pickerskeep.com,*"
+  },
+  {
+    "key": "bigfootmotel",
+    "value": "bigfootmotel.com,*"
+  },
+  {
+    "key": "miamigardensinnsuitesdirect",
+    "value": "miamigardensinnsuites.com,*"
+  },
+  {
+    "key": "hotelmacanchebedbreakfastdirect",
+    "value": "test.freitraeumer-live.de,macanche.com,*"
+  },
+  {
+    "key": "thehydedirect",
+    "value": "the-hyde.uk,*"
+  },
+  {
+    "key": "sblodgingdirect",
+    "value": "tecki.mx,solymarcancun.com,*"
+  },
+  {
+    "key": "atlanticoceansidedirect",
+    "value": "blockpartyhotels.com,*"
+  },
+  {
+    "key": "barcelonaguestdirect",
+    "value": "barcelonaguest.com,*"
+  },
+  {
+    "key": "hotelzurwienerstaatsoperdirect",
+    "value": "hotel-staatsoper.at,dev.4u-hospitality.com,staging.4u-hospitality.com,*"
+  },
+  {
+    "key": "etoshavillagedirect",
+    "value": "etosha-village.com,iv.damarana.com,*"
+  },
+  {
+    "key": "bron-y-graig",
+    "value": "bronygraig.com,*"
+  },
+  {
+    "key": "hotelsmartlivindirect",
+    "value": "smartlivin.at,*"
+  },
+  {
+    "key": "devonshirecourtapartments",
+    "value": "romillehomes.co.uk,*"
+  },
+  {
+    "key": "grovecottagesongrovefarm",
+    "value": "grovecottages.com,*"
+  },
+  {
+    "key": "hotelklamberghofdirect",
+    "value": "klamberghof.at,*"
+  },
+  {
+    "key": "abaloneaccommodationdirect",
+    "value": "abalonebandb.com,abaloneaccommodation.co.uk,*"
+  },
+  {
+    "key": "hoteltrbena",
+    "value": "hoteltarbena.com,*"
+  },
+  {
+    "key": "thenantuckethoteldirect",
+    "value": "thenantuckethotel.com,*"
+  },
+  {
+    "key": "arnos-manor-hotel",
+    "value": "arnosmanorhotel.co.uk,*"
+  },
+  {
+    "key": "wnshoteldirect",
+    "value": "wnsh.co.uk,wnsh.vercel.app,*"
+  },
+  {
+    "key": "apartamentoslosflamencos",
+    "value": "apartamentoslosflamencos.com,*"
+  },
+  {
+    "key": "ebhotelmiamiairportdirect",
+    "value": "ebhotelmiami.com,ebhotels.com,*"
+  },
+  {
+    "key": "hoteldeauvilledirect",
+    "value": "thedeauvillehotel.com,*"
+  },
+  {
+    "key": "cabanasportalpucondirect",
+    "value": "portalpucon.cl,*"
+  },
+  {
+    "key": "skheathrowhoteldirect",
+    "value": "skhotels.co.uk,*"
+  },
+  {
+    "key": "ciudadanosuitesdirect",
+    "value": "ciudadanosuites.uy,www-ciudadanosuites-uy.filesusr.com,*"
+  },
+  {
+    "key": "howbeckhoteldirect",
+    "value": "*"
+  },
+  {
+    "key": "thehilldirect",
+    "value": "thehillhotel.is,*"
+  },
+  {
+    "key": "theclydehoteldirect",
+    "value": "theclydehotel.co.uk,*"
+  },
+  {
+    "key": "glampingvalldecododirect",
+    "value": "valldecodo.cat,*"
+  },
+  {
+    "key": "aveuniondirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "landhotelelfenhofdirect",
+    "value": "landhotel-elfenhof.de,*"
+  },
+  {
+    "key": "hotellaorozcadirect",
+    "value": "laorozca.es,trivago.es,*"
+  },
+  {
+    "key": "balmoraldirect",
+    "value": "balmoralhousehotel.co.uk,trivago.pt,*"
+  },
+  {
+    "key": "poacherscountryhotelzdirect",
+    "value": "poachershotel.co.uk,*"
+  },
+  {
+    "key": "newdawndirect",
+    "value": "new-dawnhotel.com,newdawnhotel.co.uk,bot.newdawnhotel.co.uk,*"
+  },
+  {
+    "key": "ilcasaledellareginadirect",
+    "value": "ilcasaledellaregina.it,*"
+  },
+  {
+    "key": "apartamentoscercindirect",
+    "value": "cercin.com,*"
+  },
+  {
+    "key": "richmondlaneguesthouse",
+    "value": "romseyhotel.co.uk,*"
+  },
+  {
+    "key": "milsomsdedhamdirect",
+    "value": "milsomhotels.com,*"
+  },
+  {
+    "key": "thelazyduckinndirect",
+    "value": "thelazyduckinn.com,*"
+  },
+  {
+    "key": "houseofble",
+    "value": "houseofble.com,*"
+  },
+  {
+    "key": "orchideasasdirect",
+    "value": "charmingbellagio.com,*"
+  },
+  {
+    "key": "unahotelsmhmateradirect",
+    "value": "gruppouna.it,unahotelsmhmatera.it,*"
+  },
+  {
+    "key": "greenviewhotelmedellindirect",
+    "value": "greenviewmedellin.com,*"
+  },
+  {
+    "key": "stjameshotel",
+    "value": "stjamescolorado.com,nsc.stjamescolorado.com,*"
+  },
+  {
+    "key": "hotelpanameratulumdirect",
+    "value": "hotelpanamera.com,distritopanamera.com,*"
+  },
+  {
+    "key": "lochlomondhideawaysdirect",
+    "value": "loch-lomond-hideaways.co.uk,*"
+  },
+  {
+    "key": "dashotelkronedrect",
+    "value": "daskrone.de,*"
+  },
+  {
+    "key": "morverndirect",
+    "value": "morverntobermory.com,*"
+  },
+  {
+    "key": "pietroboutiquehotel",
+    "value": "pietrohotel.com,*"
+  },
+  {
+    "key": "agriturismoscala",
+    "value": "agriturismoscala.com,*"
+  },
+  {
+    "key": "hotelgallmersgartendirect",
+    "value": "smarthotel-gallmersgarten.com,*"
+  },
+  {
+    "key": "ditholodirect",
+    "value": "orionhotels.co.za,oriongroup.co.za,*"
+  },
+  {
+    "key": "coastlinemotelkamloops",
+    "value": "coastlinemotel.com,*"
+  },
+  {
+    "key": "tommyjacksbeachapartments",
+    "value": "tommyjacksbude.co.uk,*"
+  },
+  {
+    "key": "lesuffrendirect",
+    "value": "lesuffrenhotel.com,*"
+  },
+  {
+    "key": "alberguehostelgascona",
+    "value": "alberguehostelgascona.com,*"
+  },
+  {
+    "key": "relaislorrainedirect",
+    "value": "rla88.com,*"
+  },
+  {
+    "key": "hostalalbadirect",
+    "value": "hostalalbaplaya.com,*"
+  },
+  {
+    "key": "santacolomadirect",
+    "value": "hotelsantacoloma.es,*"
+  },
+  {
+    "key": "hotelberialdirect",
+    "value": "boutique-hotel-duesseldorf.de,*"
+  },
+  {
+    "key": "livinstationdirect",
+    "value": "livinstation.se,*"
+  },
+  {
+    "key": "hotelindermuhledirect",
+    "value": "hotel-indermuehle.de,*"
+  },
+  {
+    "key": "hotelvillacasanovadirect",
+    "value": "villacasanova-lucca.it,trivago.de,*"
+  },
+  {
+    "key": "molierepezenasdirect",
+    "value": "hotel-le-moliere.com,hotelmoliere.fr,*"
+  },
+  {
+    "key": "monasterysuitesnldirect",
+    "value": "monasteryhotel.ca,*"
+  },
+  {
+    "key": "europainndirect",
+    "value": "europainn.com,*"
+  },
+  {
+    "key": "raylandhoteldirect",
+    "value": "raylandhotel.com,hotelsylvia.com,*"
+  },
+  {
+    "key": "royalriverhotelandcasinodirect",
+    "value": "royalrivercasino.com,*"
+  },
+  {
+    "key": "mangoweissgmbhdirect",
+    "value": "edelforst.at,*"
+  },
+  {
+    "key": "indabahoteldirect",
+    "value": "indabahotel.co.za,theweekend.co.za,*"
+  },
+  {
+    "key": "okwelcomehomedirect",
+    "value": "okwelcomehome.com,gabeclements.com,*"
+  },
+  {
+    "key": "universityinndirect",
+    "value": "universityinnduke.com,*"
+  },
+  {
+    "key": "okatiehiltonheadhoteldirect",
+    "value": "*"
+  },
+  {
+    "key": "silvercreeklodgedirect",
+    "value": "silvercreekcanmore.ca,*"
+  },
+  {
+    "key": "torreanticadirect",
+    "value": "hoteltorreantica.com,*"
+  },
+  {
+    "key": "henlopendirect",
+    "value": "henlopenhotel.com,*"
+  },
+  {
+    "key": "aveflorhamparkdirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "pointfrancedirect",
+    "value": "hotelpointfrance.com,*"
+  },
+  {
+    "key": "cortslandhoteldirect",
+    "value": "cortslandantigua.com,*"
+  },
+  {
+    "key": "hostelcelicadirect",
+    "value": "hostelcelica.com,famoushostels.com,*"
+  },
+  {
+    "key": "bandbatnothreedirect",
+    "value": "bandbno3.co.uk,*"
+  },
+  {
+    "key": "brightonsurfhoteldirect",
+    "value": "brightonsurf-com.stackstaging.com,brightonsurf.com,*"
+  },
+  {
+    "key": "no17thepromenadedirect",
+    "value": "no17thepromenade.com,*"
+  },
+  {
+    "key": "birchwoodcottagesonloonlakedirect",
+    "value": "adkbirchwood.com,*"
+  },
+  {
+    "key": "grandrochedirect",
+    "value": "granderoche.com,*"
+  },
+  {
+    "key": "desotobeachterracesdirect",
+    "value": "desotobeachproperties.com,*"
+  },
+  {
+    "key": "hoteltneka",
+    "value": "teneka.mx,hotelteneka.com,*"
+  },
+  {
+    "key": "hotelibiltzedirect",
+    "value": "hotelibiltze.com,trivago.es,*"
+  },
+  {
+    "key": "vilajelkadirect",
+    "value": "vilajelka.com,*"
+  },
+  {
+    "key": "kingsinnhotelanaheimdirect",
+    "value": "kingsinnanaheim.com,*"
+  },
+  {
+    "key": "millbridgehouse",
+    "value": "romillehomes.co.uk,*"
+  },
+  {
+    "key": "fortlauderdalegardensinnanddirect",
+    "value": "*"
+  },
+  {
+    "key": "castlehotel2",
+    "value": "castlehotel-tamworth.co.uk,*"
+  },
+  {
+    "key": "lacrestachaletdirect",
+    "value": "lacresta.it,la-cresta-chalet.webflow.io,*"
+  },
+  {
+    "key": "hotelalbohera",
+    "value": "hotelalbohera.com,*"
+  },
+  {
+    "key": "pugsealanatolefrancedirect",
+    "value": "pugseal.com,*"
+  },
+  {
+    "key": "trainingalejandraiiidirect",
+    "value": "emea-t-i-training---alejandra.mydirectstay.com,*"
+  },
+  {
+    "key": "hotelzumerwin",
+    "value": "hotelzumerwin.de,zumerwin.aa-homes.de,*"
+  },
+  {
+    "key": "erasmushomedirect",
+    "value": "gaiarooms.com,erasmuscafe.com,*"
+  },
+  {
+    "key": "matianamorelosdirect",
+    "value": "matiana.mx,*"
+  },
+  {
+    "key": "embassyhotelandsuitesdirect",
+    "value": "ottawaembassy.com,*"
+  },
+  {
+    "key": "theoxfordhousedirect",
+    "value": "oxfordhouse.bm,*"
+  },
+  {
+    "key": "hotelpointbleudirect",
+    "value": "hotelpointbleu.com,*"
+  },
+  {
+    "key": "w6hotelhammersmithdirect",
+    "value": "w6hotel.co.uk,trivago.pt,*"
+  },
+  {
+    "key": "urbanautsstudiosminellidirect",
+    "value": "urbanauts-studios.com,*"
+  },
+  {
+    "key": "azorhotelescalidirect",
+    "value": "azorhoteles.com,*"
+  },
+  {
+    "key": "chesapeakebeachresortdirect",
+    "value": "chesapeake-resort.com,*"
+  },
+  {
+    "key": "westsidedirect",
+    "value": "ymcanyc.org,trivago.fr,*"
+  },
+  {
+    "key": "hoteljoseantoniodeluxedirect",
+    "value": "hotelesjoseantonio.com,trivago.com.ar,*"
+  },
+  {
+    "key": "carltonarmshoteldirect",
+    "value": "carltonarms.com,trivago.fr,*"
+  },
+  {
+    "key": "hotelwhitmandirect",
+    "value": "designhotel-whitman.de,*"
+  },
+  {
+    "key": "fabrikahostelsuitesdirect",
+    "value": "hostelfabrika.webflow.io,hostelfabrika.design.webflow.com,hostelfabrika.com,hostelfabrika-8c75ab72535f6d72b344f992c.design.webflow.com,*"
+  },
+  {
+    "key": "villanestordirect",
+    "value": "villanestor.com,trivago.fr,*"
+  },
+  {
+    "key": "number3castlecottage",
+    "value": "romillehomes.co.uk,*"
+  },
+  {
+    "key": "133boutiquehotelkarlsruhedirect",
+    "value": "133hotel.com,*"
+  },
+  {
+    "key": "sanxenxodeluxe",
+    "value": "sanxenxodeluxe.com,*"
+  },
+  {
+    "key": "chateaudubaffy",
+    "value": "chateaudubaffy.com,chateau-dubaffy.com,*"
+  },
+  {
+    "key": "hiveromadirect",
+    "value": "hiveroma.com,*"
+  },
+  {
+    "key": "hotelrelaismonceaudirect",
+    "value": "relais-monceau.com,*"
+  },
+  {
+    "key": "sintraboutiquedirect",
+    "value": "sintraboutiquehotel.com,trivago.pt,*"
+  },
+  {
+    "key": "cityapartmentsdirect",
+    "value": "cityapartment.fi,westsidehotel.fi,*"
+  },
+  {
+    "key": "hazlittsdirect",
+    "value": "hazlittshotel.com,*"
+  },
+  {
+    "key": "hotelchicoutimidirect",
+    "value": "hotelchicoutimi.qc.ca,*"
+  },
+  {
+    "key": "nerudamardirect",
+    "value": "mrhoteles.cl,trivago.cl,*"
+  },
+  {
+    "key": "chateauresortandconferencecenter",
+    "value": "chateauresort.com,*"
+  },
+  {
+    "key": "casacastrodirect",
+    "value": "casacastro.com,2033078-fix4this.strato-editor-widget.com,*"
+  },
+  {
+    "key": "chassehotelresidencydirect",
+    "value": "chassehotel.com,trivago.nl,*"
+  },
+  {
+    "key": "relaisdelportoaffittacameredirect",
+    "value": "relaisdelporto.it,*"
+  },
+  {
+    "key": "calacaputxetadirect",
+    "value": "caputxeta.com,*"
+  },
+  {
+    "key": "hostel197",
+    "value": "hostel197.com,*"
+  },
+  {
+    "key": "thetimberdirect",
+    "value": "stayatthetimber.com,*"
+  },
+  {
+    "key": "hoterealhomedirect",
+    "value": "realhoteles.com,*"
+  },
+  {
+    "key": "theportlandlodgehoteldirect",
+    "value": "theportlandashington.com,*"
+  },
+  {
+    "key": "presidenthotelmiamibeachdirect",
+    "value": "presidentsouthbeach.com,*"
+  },
+  {
+    "key": "hotelcasamorena",
+    "value": "hotelcasamorena.com.mx,testingweb.host,casamorena.testingweb.host,*"
+  },
+  {
+    "key": "falkenhofdirect",
+    "value": "pensionfalk.de,*"
+  },
+  {
+    "key": "mackinawmillcampsitesdirect",
+    "value": "campmackinaw.com,*"
+  },
+  {
+    "key": "hillhouse",
+    "value": "hillhousecashel.ie,*"
+  },
+  {
+    "key": "asmonupoilsiavietedirect",
+    "value": "misko4kintai.lt,asmonupoilsiaviete.lt,*"
+  },
+  {
+    "key": "waikikiheritagehotel",
+    "value": "waikikiheritagehotel.com,*"
+  },
+  {
+    "key": "hotelcocoplumbeachdirect",
+    "value": "cocoplumhotel.com,trivago.com.co,*"
+  },
+  {
+    "key": "harborhousedirect",
+    "value": "harborhousegh.com,*"
+  },
+  {
+    "key": "thedeltalodgedirect",
+    "value": "deltalodging.com,*"
+  },
+  {
+    "key": "themarquettehotelmadison",
+    "value": "madisonmarquettehotel.com,*"
+  },
+  {
+    "key": "llysaeronguesthousedirect",
+    "value": "llysaeron.co.uk,*"
+  },
+  {
+    "key": "deradlerlauchringen",
+    "value": "adler-lauchringen.de,*"
+  },
+  {
+    "key": "boutiquehoteldirect",
+    "value": "gerechtheerenveen.nl,trivago.nl,*"
+  },
+  {
+    "key": "hotelbeausejourdirect",
+    "value": "hotelbeausejourparis.com,trivago.nl,*"
+  },
+  {
+    "key": "aveaustinnorthlamardirect",
+    "value": "dev.aveliving.com,aveliving.com,*"
+  },
+  {
+    "key": "monteurhausdirect",
+    "value": "monteur-haus.com,monteurzimmer.de,*"
+  },
+  {
+    "key": "hotelresidenzlimburgerhof",
+    "value": "residenzlimburgerhof.de,coffee-fellows-website-d20hs3kdk-ddipo.vercel.app,coffee-fellows.com,coffee-fellows-website-git-staging-ddipo.vercel.app,*"
+  },
+  {
+    "key": "maisontalboothdirect",
+    "value": "milsomhotels.com,dev.milsomhotels.com,*"
+  },
+  {
+    "key": "armoricadirect",
+    "value": "armorica.ie,trivago.ie,*"
+  },
+  {
+    "key": "sleepinndusseldorfdirect",
+    "value": "sleepinn.theoneagency.de,sleepinnduesseldorf.com,*"
+  },
+  {
+    "key": "landhotelwagen",
+    "value": "landhotel-wagen.de,*"
+  },
+  {
+    "key": "quintadoscochichosdirect",
+    "value": "cochichosfarm.com,quintadoscochichos.com,*"
+  },
+  {
+    "key": "pvfslongforddirect",
+    "value": "pvslongford.ie,splashkerry.com,*"
+  },
+  {
+    "key": "ywcahotelvancouverdirect",
+    "value": "ywcavan.org,*"
+  },
+  {
+    "key": "thehoughtonhoteldirect",
+    "value": "thehoughtonhotel.com,trivago.no,*"
+  },
+  {
+    "key": "hotelboutiquepatagoniahousedirect",
+    "value": "patagonia-house.com,patagoniahouse2017-wixsite-com.filesusr.com,*"
+  },
+  {
+    "key": "sandpiperbeachfrontmoteldirect",
+    "value": "sandpiperbeachfrontmotel.com,*"
+  },
+  {
+    "key": "sanpelayo35direct",
+    "value": "casaabego.com,*"
+  },
+  {
+    "key": "thecorsairandcrossripdirect",
+    "value": "corsaircrossrip.com,*"
+  },
+  {
+    "key": "iamhoteldirect",
+    "value": "i-am-hotel.at,website.edelweissdigital.at,*"
+  },
+  {
+    "key": "amishviewinnsuitesdirect",
+    "value": "amishviewinn.com,*"
+  },
+  {
+    "key": "zumblauenhechtdirect",
+    "value": "zumblauenhecht.de,*"
+  },
+  {
+    "key": "casatucanesvillas",
+    "value": "casatucanes.com,*"
+  },
+  {
+    "key": "hostalblayetdirect",
+    "value": "hostalblayet.net,*"
+  },
+  {
+    "key": "hotelfederwerkdirect",
+    "value": "instagram.com,federwerk.com,*"
+  },
+  {
+    "key": "funcityresort",
+    "value": "funcityresort.com,*"
+  },
+  {
+    "key": "brandinironinn",
+    "value": "hotelyellowstone.com,*"
+  },
+  {
+    "key": "thestonehousemotelmotorlodgedirect",
+    "value": "thestonehousemotelandmotorlodge.mydirectstay.com,*"
+  },
+  {
+    "key": "aftoncountryvillage",
+    "value": "canva.com,*"
+  },
+  {
+    "key": "perrysmotelandcottagesdirect",
+    "value": "perrysmotel.com,*"
+  },
+  {
+    "key": "theoliveibizadirect",
+    "value": "theoliveibiza.com,*"
+  },
+  {
+    "key": "hotelgoldenerknopfdirect",
+    "value": "goldenerknopf.de,coffee-fellows.com,*"
+  },
+  {
+    "key": "coffeefellowshotellongstay",
+    "value": "zaehlwerk-apartments.de,coffee-fellows.com,*"
+  },
+  {
+    "key": "ateshotelkehldirect",
+    "value": "ates-hotel.de,coffee-fellows.com,*"
+  },
+  {
+    "key": "europakehlhoteldirect",
+    "value": "coffee-fellows.com,*"
+  },
+  {
+    "key": "karstengauselmannsheibenhofdirect",
+    "value": "heissenhof.de,*"
+  },
+  {
+    "key": "lindenhoffapartmentsdirect",
+    "value": "liepasmuiza.lv,*"
+  },
+  {
+    "key": "stuttgartertorapartmentsdirect",
+    "value": "stuttgarter-tor.com,en.stuttgarter-tor.com,*"
+  },
+  {
+    "key": "whitemoorviewlodge",
+    "value": "romillehomes.co.uk,*"
+  },
+  {
+    "key": "apartamentoselrincondeusanadirect2",
+    "value": "elrincondeusana.com,*"
+  },
+  {
+    "key": "hotelsolardosmascarenhasdirect",
+    "value": "solardosmascarenhas.com,trivago.pt,*"
+  },
+  {
+    "key": "mountainhosteldirect",
+    "value": "mhostel.at,*"
+  },
+  {
+    "key": "glampealafortuna",
+    "value": "glampea.com,*"
+  },
+  {
+    "key": "holclubpuertocalmadirect",
+    "value": "holidayclubcanarias.com,holidayclubresorts.com,*"
+  },
+  {
+    "key": "wilbrahammansiondirect",
+    "value": "wilbrahammansion.com,*"
+  },
+  {
+    "key": "hotelwoodinnbordeauxaeroportdirect",
+    "value": "woodinn.fr,woodinn-wixsite-com.filesusr.com,*"
+  },
+  {
+    "key": "valuedstaymayflowerdirect",
+    "value": "valuedstay.com,*"
+  },
+  {
+    "key": "casasalleshotelboutiquedirect",
+    "value": "casasalles.com,trivago.com.mx,*"
+  },
+  {
+    "key": "unionleaguelibertyhilldirect",
+    "value": "unionleague.org,*"
+  },
+  {
+    "key": "ludingtonpierhousedirect",
+    "value": "ludingtonpierhouse.com,*"
+  },
+  {
+    "key": "thesydneyboutiqueinnsuitesdirect",
+    "value": "sydneyinn.com,*"
+  },
+  {
+    "key": "apartamentosritadirect",
+    "value": "canarita.com,*"
+  },
+  {
+    "key": "avebluebelldirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "neohostelberlindirect",
+    "value": "neohostel.com,trivago.de,*"
+  },
+  {
+    "key": "atalaiasolaparthoteldirect",
+    "value": "atalaiasol.pt,trivago.pt,*"
+  },
+  {
+    "key": "boydfarmsbantamhousesdirect",
+    "value": "bantamhouses.com,*"
+  },
+  {
+    "key": "hotelruralelmolinodefelipesldirect",
+    "value": "hotelruralmula.com,trivago.es,*"
+  },
+  {
+    "key": "paradiseinn&conferencecentredirect",
+    "value": "paradiseinngrandeprairie.com,*"
+  },
+  {
+    "key": "theprestonhouseandhoteldirect",
+    "value": "prestonhotelny.com,*"
+  },
+  {
+    "key": "quentinprague",
+    "value": "quentinhotels.com,trivago.se,trivago.es,*"
+  },
+  {
+    "key": "theleohousedirect",
+    "value": "leohousenyc.com,*"
+  },
+  {
+    "key": "motelobielefelddirect",
+    "value": "motelo-bielefeld.de,*"
+  },
+  {
+    "key": "isuitesdirect",
+    "value": "isuites.co.uk,*"
+  },
+  {
+    "key": "borgodegliuliviresort",
+    "value": "borgodegliuliviresort.it,*"
+  },
+  {
+    "key": "alpinemeadowslakesideresortdirect",
+    "value": "alpinemeadowslakesideresort.com,*"
+  },
+  {
+    "key": "coreamalfitanodirect",
+    "value": "amalfi.coreamalfitano.com,coreamalfitano.com,*"
+  },
+  {
+    "key": "hotelboavistadirect",
+    "value": "hotelboavista.com,*"
+  },
+  {
+    "key": "centralparkwesthosteldirect",
+    "value": "*"
+  },
+  {
+    "key": "greystonelodgedirect",
+    "value": "greystonelodgetn.com,*"
+  },
+  {
+    "key": "aptotanezplazatorosventas",
+    "value": "taneztourist.com,*"
+  },
+  {
+    "key": "thewhalersinndirect",
+    "value": "whalersinnmystic.com,*"
+  },
+  {
+    "key": "hotelbergwirtschonbrunndirect",
+    "value": "hotelbergwirt.at,*"
+  },
+  {
+    "key": "shbushboutiquedirect",
+    "value": "bushhotel.co.uk,cloud.triptide.london,api2.triptide.london,*"
+  },
+  {
+    "key": "hotelmolbeachbenidorm",
+    "value": "hotelmolibeach.com,*"
+  },
+  {
+    "key": "hotelcocodirect",
+    "value": "hotelcoco.com.co,moabihotel.com,naiohotels.com,*"
+  },
+  {
+    "key": "posadalatermita",
+    "value": "ilgattorosso.dev.dustysun.com,*"
+  },
+  {
+    "key": "windwardhoteldirect ",
+    "value": "windwardpassage.com,*"
+  },
+  {
+    "key": "thebuenaparkhotel&suitesdirect",
+    "value": "thebuenaparkhotel.com,*"
+  },
+  {
+    "key": "iconhotelsantiagodirect",
+    "value": "iconchile.com,trivago.com.mx,trivago.cl,*"
+  },
+  {
+    "key": "cradleboutiquedirect",
+    "value": "cradlehotel.co.za,*"
+  },
+  {
+    "key": "nordseehotelborkumdirect",
+    "value": "nordseehotelborkum.de,*"
+  },
+  {
+    "key": "neuchatelcityhoteldirect",
+    "value": "neuchatelcityhotel.com,trivago.it,*"
+  },
+  {
+    "key": "campigirsaotorpesdirect",
+    "value": "campigir.com,trivago.pt,*"
+  },
+  {
+    "key": "vagantobarcelona",
+    "value": "vagantobarcelona.es,*"
+  },
+  {
+    "key": "the georgemaltadirect",
+    "value": "thegeorgemalta.com,trivago.nl,trivago.fr,*"
+  },
+  {
+    "key": "magariestatesdirect",
+    "value": "magariestates.com,digitalbaf90b3808.wpcomstaging.com,*"
+  },
+  {
+    "key": "laylahostel",
+    "value": "villa-layla.vercel.app,villa-layla-jgal406fm-amresyds-projects.vercel.app,villalaylahostel.com,*"
+  },
+  {
+    "key": "netherbyguesthouse",
+    "value": "*"
+  },
+  {
+    "key": "villaeiradirect",
+    "value": "villaeira.pt,*"
+  },
+  {
+    "key": "kaiserhofdirect",
+    "value": "centralhotel.de,*"
+  },
+  {
+    "key": "abiquiuinndirect",
+    "value": "abiquiuinn.com,*"
+  },
+  {
+    "key": "themountroomsdirect",
+    "value": "themountrooms.co.uk,*"
+  },
+  {
+    "key": "hotelportbodirect",
+    "value": "hotelportbo.net,*"
+  },
+  {
+    "key": "hotelcoraldirect",
+    "value": "gaiarooms.com,*"
+  },
+  {
+    "key": "arthotelmudirect",
+    "value": "arthotelmunich.com,*"
+  },
+  {
+    "key": "apartamentosoliviadirect",
+    "value": "gaiarooms.com,*"
+  },
+  {
+    "key": "hyattregencygalleriaresidencdirect",
+    "value": "hyattregencygalleriadubai.com,*"
+  },
+  {
+    "key": "hotelmarignandirect",
+    "value": "hotel-marignan.com,*"
+  },
+  {
+    "key": "abrigodamontanhahotelruralspadirect ",
+    "value": "abrigodamontanha.pt,*"
+  },
+  {
+    "key": "kikarhoteldirect",
+    "value": "kikarhotel.com,trivago.co.il,*"
+  },
+  {
+    "key": "charmingbellagiosunclubdirect",
+    "value": "charmingbellagio.com,*"
+  },
+  {
+    "key": "joktelfishriverresortdirect",
+    "value": "joktelfishriverresort.com,*"
+  },
+  {
+    "key": "innonwaterstreetdirect",
+    "value": "innonwaterstreet.com,*"
+  },
+  {
+    "key": "bwoceansandsdirect",
+    "value": "oceansands.com,*"
+  },
+  {
+    "key": "contemplacionhotelboutiquedirect",
+    "value": "contemplacionhotel.com,*"
+  },
+  {
+    "key": "hotelinternationalsinaiadirect",
+    "value": "internationalsinaia.ro,trivago.ro,*"
+  },
+  {
+    "key": "lakelodgedirect",
+    "value": "amblesidetownhouse.co.uk,*"
+  },
+  {
+    "key": "hostaljumedirect",
+    "value": "hostaljume.com,trivago.es,*"
+  },
+  {
+    "key": "hotelsecessionwiendirect",
+    "value": "*"
+  },
+  {
+    "key": "saintpaulhoteldirect",
+    "value": "*"
+  },
+  {
+    "key": "thehurdwickdirect",
+    "value": "hurdwick.com,*"
+  },
+  {
+    "key": "hotelhammerdirect",
+    "value": "hotel-hammer.com,*"
+  },
+  {
+    "key": "riversiderothburydirect",
+    "value": "riversiderothbury.co.uk,riversiderothbury.com,*"
+  },
+  {
+    "key": "villasbarrocaldirect",
+    "value": "villasbarrocal.com,*"
+  },
+  {
+    "key": "hostalpacomarbella",
+    "value": "hostalpacomarbella.com,*"
+  },
+  {
+    "key": "hospederiasanmartínpinariodirect",
+    "value": "sanmartinpinario.eu,trivago.es,*"
+  },
+  {
+    "key": "hotelhaciendadelasfloresdirect",
+    "value": "hotel-hacienda-flores-landing.web.app,hacienda-flores.web.app,haciendadelasflores.com,*"
+  },
+  {
+    "key": "arenalmanoahotspringsdirect",
+    "value": "arenalmanoa.com,*"
+  },
+  {
+    "key": "quentinamsterdamhotel",
+    "value": "quentinhotels.com,*"
+  },
+  {
+    "key": "wohnmobilundwohnwagenstellplatzfichtelpark",
+    "value": "fichtelpark.de,*"
+  },
+  {
+    "key": "thelodgeatfiveoaksdirect",
+    "value": "thelodgeatfiveoaks.com,*"
+  },
+  {
+    "key": "theroyalhotedirect",
+    "value": "liverpool-royalhotel.co.uk,*"
+  },
+  {
+    "key": "missionpointdirect",
+    "value": "missionpoint.com,*"
+  },
+  {
+    "key": "londres208direct",
+    "value": "staykukun.com,*"
+  },
+  {
+    "key": "casitasmiramarpuertodirect",
+    "value": "casitasmiramarpv.com,*"
+  },
+  {
+    "key": "tailwindsbbdirect ",
+    "value": "tailwindsbb.ca,*"
+  },
+  {
+    "key": "casachachachadirect",
+    "value": "casachachacha.com,*"
+  },
+  {
+    "key": "hotelzumzieldirect",
+    "value": "hotelziel.de,trivago.nl,*"
+  },
+  {
+    "key": "lemontreerooms",
+    "value": "lemontreedorset.com,lemontreerooms.com,*"
+  },
+  {
+    "key": "timbukonehotel",
+    "value": "timbukonebarbuda.com,*"
+  },
+  {
+    "key": "apartamentosdoñacarmendirect",
+    "value": "apartamentosdonacarmen.com,trivago.es,*"
+  },
+  {
+    "key": "theoldvine1direct",
+    "value": "oldvinewinchester.com,trivago.no,*"
+  },
+  {
+    "key": "siestamoteldirect",
+    "value": "siestamotel.net,*"
+  },
+  {
+    "key": "hotelholboxbyxalocdirect",
+    "value": "byxaloc.com,*"
+  },
+  {
+    "key": "lindhotelgmbhdirect",
+    "value": "lind-hotel.de,trivago.de,*"
+  },
+  {
+    "key": "pelicandirect",
+    "value": "pelican-london.com,trivago.nl,*"
+  },
+  {
+    "key": "hotelrestaurantelasbovedasdirect",
+    "value": "hotellasbovedas.com,*"
+  },
+  {
+    "key": "perustaraparthoteldirect",
+    "value": "perustar.com,*"
+  },
+  {
+    "key": "piaulecatskilldirect",
+    "value": "piaule.com,*"
+  },
+  {
+    "key": "barazaresort&spadirect",
+    "value": "baraza-zanzibar.com,*"
+  },
+  {
+    "key": "herzogsulsterbrueckedirect",
+    "value": "ulsterbruecke.de,*"
+  },
+  {
+    "key": "cameratuadirect",
+    "value": "cameratua.com,*"
+  },
+  {
+    "key": "novaromadirect",
+    "value": "hotelnovaroma.com,trivago.es,*"
+  },
+  {
+    "key": "palacerome",
+    "value": "palace-rome.com,*"
+  },
+  {
+    "key": "hotelprimaveradirect",
+    "value": "hotelprimavera.es,*"
+  },
+  {
+    "key": "thedukeboutiquesuitesdirect",
+    "value": "thedukeboutiquesuites.com,*"
+  },
+  {
+    "key": "glendalehoteldirect",
+    "value": "ghphotel.co.uk,*"
+  },
+  {
+    "key": "broadviewhoteldirect",
+    "value": "uea.ac.uk,*"
+  },
+  {
+    "key": "thepheasantinncheshiredirect",
+    "value": "thepheasantinn.co.uk,*"
+  },
+  {
+    "key": "bickertoncampsitedirect",
+    "value": "bickertonpoacher.co.uk,*"
+  },
+  {
+    "key": "thecottagesatfairhavencovedirect",
+    "value": "fairhavencove.com,*"
+  },
+  {
+    "key": "hotelhausamseedirect",
+    "value": "hausamsee.at,*"
+  },
+  {
+    "key": "cheetahplainsprivategamereserve",
+    "value": "cheetahplains.com,*"
+  },
+  {
+    "key": "klausturhofdirect",
+    "value": "klausturhof.is,*"
+  },
+  {
+    "key": "burbujasbal",
+    "value": "burbujasbalu.com,*"
+  },
+  {
+    "key": "bearskinlodgeontheriverdirect",
+    "value": "expedia.com,*"
+  },
+  {
+    "key": "hotelhusafellehfdirect",
+    "value": "husafell.com,*"
+  },
+  {
+    "key": "hotelbalnearioriopambredirect",
+    "value": "balnearioriopambre.com,*"
+  },
+  {
+    "key": "hotelborgesdirect",
+    "value": "hotelborges.com,*"
+  },
+  {
+    "key": "hotelbahiasurdirect",
+    "value": "hotelbahiasur.com,trivago.es,*"
+  },
+  {
+    "key": "hotelmorabezadirect",
+    "value": "hotelmorabeza.com,*"
+  },
+  {
+    "key": "centerroomdirect",
+    "value": "centerroom.de,*"
+  },
+  {
+    "key": "parccornichecondosuitehoteldirect",
+    "value": "parccorniche.com,trivago.com.br,*"
+  },
+  {
+    "key": "carolineundjrgendonhausergnbr",
+    "value": "zumhubertus.at,*"
+  },
+  {
+    "key": "lesdryadesgolfspadirect",
+    "value": "les-dryades.fr,*"
+  },
+  {
+    "key": "casasuadirect",
+    "value": "casasualanzarote.com,*"
+  },
+  {
+    "key": "themillatfinecreekdirect",
+    "value": "themillatfinecreek.com,*"
+  },
+  {
+    "key": "fireflyestatebequia",
+    "value": "editor.wix.com,fireflybequia.com,*"
+  },
+  {
+    "key": "hotelzursonne",
+    "value": "hotel-sonne-cottbus.de,*"
+  },
+  {
+    "key": "hoteldellagogolfartresortdirect",
+    "value": "hoteldellago.com.uy,*"
+  },
+  {
+    "key": "miradordequetzalesdirect",
+    "value": "elmiradordequetzales.com,*"
+  },
+  {
+    "key": "grandviewplazainnandsuitesdirect",
+    "value": "grandviewplazainn.com,*"
+  },
+  {
+    "key": "puigfrancodirect",
+    "value": "puigfranco.es,*"
+  },
+  {
+    "key": "no32hoteldirect",
+    "value": "edinburghhotel32.com,*"
+  },
+  {
+    "key": "stfranresandmardirect",
+    "value": "saintfrancisresort.com,*"
+  },
+  {
+    "key": "plazainnhannovercitynorddirect",
+    "value": "hotel-plaza-inn.com,monteurzimmer.de,*"
+  },
+  {
+    "key": "casadorubenlisboa",
+    "value": "nowebsite.com,*"
+  },
+  {
+    "key": "rockwelleastdirect",
+    "value": "rockwelleast.com,*"
+  },
+  {
+    "key": "crossroadsinnandsuites",
+    "value": "crossroadsinnandsuites.com,*"
+  },
+  {
+    "key": "apartamentosflorida30",
+    "value": "apartamentos-florida.es,*"
+  },
+  {
+    "key": "bue7092",
+    "value": "tango-hotel.com.ar,*"
+  },
+  {
+    "key": "royalcanadianlodgedirect",
+    "value": "royalcanadianlodge.com,*"
+  },
+  {
+    "key": "butterflygroveinn",
+    "value": "butterflygroveinn.com,*"
+  },
+  {
+    "key": "aparthotelpordosoldirect1",
+    "value": "pordosol.com,*"
+  },
+  {
+    "key": "norfolkdirect",
+    "value": "norfolkhoteljersey.co.uk,*"
+  },
+  {
+    "key": "kinnguesthousedowntowndirect",
+    "value": "*"
+  },
+  {
+    "key": "buffaloguesthousedirect",
+    "value": "buffaloguesthouse.com,*"
+  },
+  {
+    "key": "elements326",
+    "value": "emmare.mentesfrias.com,emmare.mx,*"
+  },
+  {
+    "key": "hotelamaugustinerplatzdirect",
+    "value": "hotel-am-augustinerplatz.de,trivago.it,*"
+  },
+  {
+    "key": "haithomsguesthouse",
+    "value": "haithoms.com,*"
+  },
+  {
+    "key": "elephantsprdirect",
+    "value": "elephantsprings.co.za,*"
+  },
+  {
+    "key": "aubergeinternationaledequebecdirect",
+    "value": "hiquebec.ca,*"
+  },
+  {
+    "key": "haithomsguesthousetlokwengdirect",
+    "value": "haithoms.com,*"
+  },
+  {
+    "key": "executiveapartmenthotelgroupdirect",
+    "value": "eahg.co.za,*"
+  },
+  {
+    "key": "thatchcayedirect",
+    "value": "thatchcayebelize.com,*"
+  },
+  {
+    "key": "mestildirect",
+    "value": "mestilhotels.com,*"
+  },
+  {
+    "key": "jogllandhotelprettenhoferdirect",
+    "value": "jogllandhotel.at,trivago.at,*"
+  },
+  {
+    "key": "innrossiodirect",
+    "value": "*"
+  },
+  {
+    "key": "harrogatelifestyleapartments-thecop",
+    "value": "harrogatelifestyleapartments.com,*"
+  },
+  {
+    "key": "hotelestaciodirect",
+    "value": "hotelestacio.com,*"
+  },
+  {
+    "key": "hauslunadirect",
+    "value": "schwangau-homes.com,trivago.com.br,*"
+  },
+  {
+    "key": "estrellademardirect",
+    "value": "hotelestrelladelmar.com,*"
+  },
+  {
+    "key": "ninebylivingvilledirect",
+    "value": "*"
+  },
+  {
+    "key": "schlosshotelbetzensteindirect",
+    "value": "schloss-betzenstein.de,*"
+  },
+  {
+    "key": "campimecodirect",
+    "value": "campigir.com,*"
+  },
+  {
+    "key": "filsuitesdirect",
+    "value": "filsuites.com,*"
+  },
+  {
+    "key": "d-toxd-theretreat",
+    "value": "sanasanaretreat.com,abf474d7-934d-4e51-8fc6-c4c3f2dff2c8.lovableproject.com,id-preview--abf474d7-934d-4e51-8fc6-c4c3f2dff2c8.lovable.app,*"
+  },
+  {
+    "key": "hotelboutiquelascampanas",
+    "value": "nowebsite.com,editor.wix.com,*"
+  },
+  {
+    "key": "apartamentoscolónplayadirect",
+    "value": "apartamentoscolonplaya.com,trivago.es,*"
+  },
+  {
+    "key": "pensaoresidencialsetubalensedirect",
+    "value": "belemtejo.pt,*"
+  },
+  {
+    "key": "cityhotelochsenzugdirect",
+    "value": "ochsen-zug.ch,*"
+  },
+  {
+    "key": "agripedrucaddudirect",
+    "value": "agripedrucaddu.com,*"
+  },
+  {
+    "key": "hotelysuribuceriasdirect",
+    "value": "ysuribucerias.com,hotelysuribucerias.com,*"
+  },
+  {
+    "key": "dtkaiserdirect",
+    "value": "dk-hotel.de,*"
+  },
+  {
+    "key": "queensburyhotel",
+    "value": "*"
+  },
+  {
+    "key": "limestonemansiondirect",
+    "value": "limestonemansion.com,*"
+  },
+  {
+    "key": "apartamentostetuándirect",
+    "value": "apartamentoslastorresmadrid.com,*"
+  },
+  {
+    "key": "paraisoapartamentosdirect",
+    "value": "madeiraparaiso.com,*"
+  },
+  {
+    "key": "2496sanremohoteldirect",
+    "value": "sanremohotel.com,*"
+  },
+  {
+    "key": "capsulehotel",
+    "value": "nofreeride.com,nodev.nofreeride.com,*"
+  },
+  {
+    "key": "jesmonddenedirect",
+    "value": "stpancrashotelgroup.com,trivago.pt,*"
+  },
+  {
+    "key": "myhawaiihostel",
+    "value": "myhawaiihostel.com,*"
+  },
+  {
+    "key": "altamontwesthotel1direct",
+    "value": "altamontwesthotel.com,*"
+  },
+  {
+    "key": "hochabelhoteldbe",
+    "value": "*"
+  },
+  {
+    "key": "avesomersetdirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "hivernagesecretsuitesgardendirect",
+    "value": "hivernagesecret.com,*"
+  },
+  {
+    "key": "hotelveleirodirect",
+    "value": "hotelveleiro.pt,*"
+  },
+  {
+    "key": "novestanzedirect",
+    "value": "b-bnovara-luma.com,*"
+  },
+  {
+    "key": "hotelelbedeldirect",
+    "value": "hotelelbedel.com,*"
+  },
+  {
+    "key": "hotelpostwiendirect",
+    "value": "hotel-post-wien.at,*"
+  },
+  {
+    "key": "roomviewdirect",
+    "value": "aroomwithaviewbrighton.com,trivago.pt,*"
+  },
+  {
+    "key": "hotellermita",
+    "value": "hotelermita.com,trivago.es,*"
+  },
+  {
+    "key": "doritisguesthousemaculusso-1",
+    "value": "doritis.ao,*"
+  },
+  {
+    "key": "hotelstokkegaardendirect",
+    "value": "stokkegaarden.dk,*"
+  },
+  {
+    "key": "bbhotelsaparthotelbicoccadirect",
+    "value": "bbhotels.it,*"
+  },
+  {
+    "key": "theforestlodgehoteldirect",
+    "value": "forestlodgehotel.co.uk,*"
+  },
+  {
+    "key": "hosteldeltemplodedebod",
+    "value": "*"
+  },
+  {
+    "key": "hotelmiramardirect1",
+    "value": "hotelmiramar.es,*"
+  },
+  {
+    "key": "grandhotelducervindirect",
+    "value": "grandhotelducervin.ch,*"
+  },
+  {
+    "key": "hotellavapiesdirect",
+    "value": "modularroomshotels.com,*"
+  },
+  {
+    "key": "homevillaecoboutique",
+    "value": "homevillarusha.com,*"
+  },
+  {
+    "key": "boulevardexpresdirect",
+    "value": "hotelboulevardexpressbh.com.br,*"
+  },
+  {
+    "key": "lasiestadirect1",
+    "value": "lasiestahostel.es,*"
+  },
+  {
+    "key": "paxmanorlimiteddirect",
+    "value": "paxmanormuthaiga.com,*"
+  },
+  {
+    "key": "lamarsellesadirect",
+    "value": "lamarsellesa.es,*"
+  },
+  {
+    "key": "casadelrectordirect",
+    "value": "lacasadelrector.com,*"
+  },
+  {
+    "key": "haleohubedbreakfastdirect",
+    "value": "haleohu.com,*"
+  },
+  {
+    "key": "craigatinhouseandcourtyarddirect",
+    "value": "craigatinhouse.co.uk,*"
+  },
+  {
+    "key": "petithotelsantmiqueldirect",
+    "value": "petitsantmiquel.com,*"
+  },
+  {
+    "key": "emperatriziiihoteldirect",
+    "value": "emperatrizhotel.com,trivago.es,*"
+  },
+  {
+    "key": "ayookhoteldirect",
+    "value": "ayookoaxaca.com,*"
+  },
+  {
+    "key": "hotelzurkrone",
+    "value": "hotel-krone-hasselfelde.com,harzparadies-hotel.de,*"
+  },
+  {
+    "key": "theviewapartmentsdirect",
+    "value": "viewapartments.com,*"
+  },
+  {
+    "key": "driftwoodshoresresortdirect",
+    "value": "driftwoodshores.com,*"
+  },
+  {
+    "key": "nordichotelabujadirect",
+    "value": "nordichotelsnigeria.com,*"
+  },
+  {
+    "key": "abadíacaminodesantiagodirect",
+    "value": "hotelabadiaburgos.com,*"
+  },
+  {
+    "key": "hotelpompaelodirect",
+    "value": "hotelpompaelo.com,trivago.es,*"
+  },
+  {
+    "key": "lesmuriersdirect",
+    "value": "lesmuriers.fr,*"
+  },
+  {
+    "key": "carolingerhttendorf",
+    "value": "carolinger.net,*"
+  },
+  {
+    "key": "numberoneoxfordstreetdirect",
+    "value": "1oxfordstreetaccra.com,*"
+  },
+  {
+    "key": "britanniastudyhoteldirect",
+    "value": "britanniastudyhotel.com,*"
+  },
+  {
+    "key": "puertadealgadirdirect",
+    "value": "puertadealgadir.com,*"
+  },
+  {
+    "key": "ksuitesdoualadirect",
+    "value": "khoteldouala.com,*"
+  },
+  {
+    "key": "graftonhousestudiosdirect",
+    "value": "graftonstreetapartments.ie,*"
+  },
+  {
+    "key": "mushroomcapmoteldirect",
+    "value": "mushroomcapmesick.com,*"
+  },
+  {
+    "key": "fincahotelyerbabuena",
+    "value": "fincahotelyerbabuena.com,*"
+  },
+  {
+    "key": "mauritsapartmentssuites",
+    "value": "mauritsapartments.nl,*"
+  },
+  {
+    "key": "sandandtanbeachhoteldirect",
+    "value": "sandandtanhotel.com,*"
+  },
+  {
+    "key": "lendiambourhoteldirect",
+    "value": "lendiambour.com,*"
+  },
+  {
+    "key": "abalonhotelidealdirect",
+    "value": "abalon.de,*"
+  },
+  {
+    "key": "soylocalusaquendirect",
+    "value": "soylocal.co,*"
+  },
+  {
+    "key": "bbvillasunrisedirect",
+    "value": "villasunrisebeb.com,*"
+  },
+  {
+    "key": " soylocalparquedela93direct",
+    "value": "soylocal.co,*"
+  },
+  {
+    "key": "hotelanacapridirect",
+    "value": "hotelanacapri.com,*"
+  },
+  {
+    "key": "loveitsignaturehoteldirect",
+    "value": "hotelloveit.com.mx,*"
+  },
+  {
+    "key": "hotelschwaneschweilerdirect",
+    "value": "hotel-schwan-eschweiler.de,*"
+  },
+  {
+    "key": "apartamentosgoya75direct",
+    "value": "apartamentosgoya75.com,*"
+  },
+  {
+    "key": "hotelespritdazurdirect",
+    "value": "hotelespritdazur.com,*"
+  },
+  {
+    "key": "bestpriceaachenhauptbahnhofdirect",
+    "value": "bestpricehotel.de,*"
+  },
+  {
+    "key": "sylvesterinn",
+    "value": "*"
+  },
+  {
+    "key": "marinadunasdirect",
+    "value": "marinadunas.cl,*"
+  },
+  {
+    "key": "theeriehotelandrestaurantdirect",
+    "value": "theeriehotel.com,*"
+  },
+  {
+    "key": "parkhotelhamelndirect",
+    "value": "parkhotel-hameln.de,app.eu1.stayntouch.com,*"
+  },
+  {
+    "key": "lexilasvegasdirect",
+    "value": "thelexilasvegas.com,*"
+  },
+  {
+    "key": "islacondodirect",
+    "value": "islacondo403.com,islacondo403.com.hotelcasasuenos.com,*"
+  },
+  {
+    "key": "peacelodgedirect",
+    "value": "waterfallgardens.com,*"
+  },
+  {
+    "key": "caribbeancourtdirect",
+    "value": "thecaribbeancourt.com,*"
+  },
+  {
+    "key": "tomsquareboutiquehotel",
+    "value": "*"
+  },
+  {
+    "key": "theoldorletoninn",
+    "value": "theoldorletoninn.co.uk,trivago.fr,*"
+  },
+  {
+    "key": "lanternmotel",
+    "value": "lanternmotel.com,*"
+  },
+  {
+    "key": "hotelmontanedirect",
+    "value": "hotelmontane.ad,*"
+  },
+  {
+    "key": "hostelportici",
+    "value": "hostel-portici.mydirectstay.com,trivago.it,*"
+  },
+  {
+    "key": "hospederiabodasdecamachodirect",
+    "value": "hospederiabodasdecamacho.com,*"
+  },
+  {
+    "key": "mysuitemadrid",
+    "value": "mysuitemadrid.com,*"
+  },
+  {
+    "key": "tellerhouse",
+    "value": "tellerhouse.com,*"
+  },
+  {
+    "key": "kipdirect",
+    "value": "getsomekip.com,*"
+  },
+  {
+    "key": "hotellastablasdirect",
+    "value": "hotellastablas.com,trivago.es,*"
+  },
+  {
+    "key": "ecofunco",
+    "value": "ecofunco.com,*"
+  },
+  {
+    "key": "metriahoteldirect",
+    "value": "metriahotel.com,*"
+  },
+  {
+    "key": "legendarywatersresortcasinodirect",
+    "value": "legendarywaters.com,*"
+  },
+  {
+    "key": "cherryvalleyhotel",
+    "value": "cherryvalleyhotel.com,*"
+  },
+  {
+    "key": "treasureislandresortcasinodirect",
+    "value": "ticasino.com,*"
+  },
+  {
+    "key": "grandmarinasuitesdirect",
+    "value": "grandmarinasuites.com,*"
+  },
+  {
+    "key": "accracityhotellimiteddirect",
+    "value": "accracityhotel.com,*"
+  },
+  {
+    "key": "camprichardsonresort",
+    "value": "camprichardsonresort.com,*"
+  },
+  {
+    "key": "hotelcasaturquesadirect",
+    "value": "casaturquesa.com,*"
+  },
+  {
+    "key": "ozoarenaamsterdam",
+    "value": "ozo-hotels.com,*"
+  },
+  {
+    "key": "miramarbeachresortdirect",
+    "value": "miramarbeachresort.com,*"
+  },
+  {
+    "key": "skylarannahotelandresortdirect",
+    "value": "skylaranna.com,*"
+  },
+  {
+    "key": "fossilmotel",
+    "value": "fossilmotel.com,*"
+  },
+  {
+    "key": "sandcastleoceanfrontresortsouth",
+    "value": "sandcastlesouthbeach.com,*"
+  },
+  {
+    "key": "residencestelvio11direct",
+    "value": "stelviostay.it,*"
+  },
+  {
+    "key": "thelighthouseinn",
+    "value": "thelighthouseinn.com,*"
+  },
+  {
+    "key": "riveredgeresorthoteldirect",
+    "value": "riveredge.com,*"
+  },
+  {
+    "key": "hotelagualcasdirect",
+    "value": "hotelagualcas.com.ni,anaisabelv15.sg-host.com,*"
+  },
+  {
+    "key": "abadiacaminodesantiagodirect",
+    "value": "hotelabadiaburgos.com,trivago.es,*"
+  },
+  {
+    "key": "hhotel",
+    "value": "hugoshotels.com,*"
+  },
+  {
+    "key": "carltonparkhoteldirect",
+    "value": "thecarltonparkhotel.com,*"
+  },
+  {
+    "key": "oarcottagedirect",
+    "value": "oarcottage.com,*"
+  },
+  {
+    "key": "fallriverdirect",
+    "value": "innonfallriver.com,*"
+  },
+  {
+    "key": "apartamentoselsombrerodirect",
+    "value": "el-sombrero.com,*"
+  },
+  {
+    "key": "banffinndirect",
+    "value": "banffinn.com,*"
+  },
+  {
+    "key": "lacampanahotelboutiquedirect",
+    "value": "lacampanahotelboutique.com,*"
+  },
+  {
+    "key": "nringroomsdedirect",
+    "value": "*"
+  },
+  {
+    "key": "thebeverley",
+    "value": "beverleyhotels.com,c1490bfd-3035-4eea-98db-b9d2d35bd1af.filesusr.com,www-beverleyhotels-ca.filesusr.com,www-beverleyhotels-com.filesusr.com,*"
+  },
+  {
+    "key": "beachsidegromitzdirect",
+    "value": "beachside-groemitz.de,beachside-groemitz-ferienwohnungen-direkt-am-meer.hotel-hostel-unterkunft.de,*"
+  },
+  {
+    "key": "petitmiradordirect",
+    "value": "petitmirador.com,*"
+  },
+  {
+    "key": "termesvictoriadirect",
+    "value": "termesvictoria.com,*"
+  },
+  {
+    "key": "nautiluslanzarotedirect",
+    "value": "nautilus-lanzarote.com,trivago.nl,*"
+  },
+  {
+    "key": "thefarmyarddirect",
+    "value": "farmyardretreat.co.uk,*"
+  },
+  {
+    "key": "thesocietyhoteldirect",
+    "value": "thesocietyhotel.com,*"
+  },
+  {
+    "key": "apartamentoslasgacelas",
+    "value": "trivago.es,*"
+  },
+  {
+    "key": "heronslakeretreatdirect",
+    "value": "heronslakeretreat.com,webjolt.co.uk,*"
+  },
+  {
+    "key": "swissinnresorthurghadadirect",
+    "value": "swissinn.net,trivago.ro,*"
+  },
+  {
+    "key": "82adalstonlaneterrace",
+    "value": "editor.wix.com,82adalstonlane.co.uk,*"
+  },
+  {
+    "key": "apartamentosfigueroadirect",
+    "value": "madridlivingspaces.com,los3guisantes.es,*"
+  },
+  {
+    "key": "grefishoteldirect",
+    "value": "grefis.com,grefis.workmatrix.test,*"
+  },
+  {
+    "key": "casaavellanasdirect",
+    "value": "casa-playaavellanas.mydirectstay.com,*"
+  },
+  {
+    "key": "blacksummitsaumnaun",
+    "value": "blacksummit.ch,demos.mukuko.com,samnaun.blacksummit.ch,*"
+  },
+  {
+    "key": "hotellichtblick",
+    "value": "lichtblick-salach.de,*"
+  },
+  {
+    "key": "welldonesierpesboutiquedirect",
+    "value": "welldonehotels.com,*"
+  },
+  {
+    "key": "hotelbirsighofdirect",
+    "value": "birsighof.ch,trivago.ch,*"
+  },
+  {
+    "key": "dundeeresortgolfclubdirect",
+    "value": "dundeeresort.com,*"
+  },
+  {
+    "key": "budapestpanoramadirect",
+    "value": "budapestpanoramacentral.com,*"
+  },
+  {
+    "key": "deinapartdirect",
+    "value": "dein-apart.de,*"
+  },
+  {
+    "key": "romillecottage",
+    "value": "romillehomes.co.uk,*"
+  },
+  {
+    "key": "foylesofglasburydirect",
+    "value": "foylesofglasbury.co.uk,*"
+  },
+  {
+    "key": "luxuryislasdelrosariodirect",
+    "value": "luxuryislasdelrosario.com,*"
+  },
+  {
+    "key": "kikerestudiosdirect",
+    "value": "kikerestudios.com,trivago.es,*"
+  },
+  {
+    "key": "avekingofprussiadirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "thefrogmilhoteldirect",
+    "value": "thefrogmill.co.uk,*"
+  },
+  {
+    "key": "snobhollowinndirect",
+    "value": "snobhollowinn.com,*"
+  },
+  {
+    "key": "hotelarenablancadirect",
+    "value": "hotelarenablanca.com.co,*"
+  },
+  {
+    "key": "gouldingsrvcampground",
+    "value": "gouldings.com,*"
+  },
+  {
+    "key": "kronetrogen2",
+    "value": "krone-trogen.ch,*"
+  },
+  {
+    "key": "balafonbeachresortdirect",
+    "value": "balafonresort.com,*"
+  },
+  {
+    "key": "hotelrestauranthoeldrichsmuehle",
+    "value": "hoeldrichsmuehle.at,*"
+  },
+  {
+    "key": "yellowstonevillagedirect",
+    "value": "yellowstonevinn.com,*"
+  },
+  {
+    "key": "cityboardinglippstadt",
+    "value": "business-boarding.de,*"
+  },
+  {
+    "key": "fincalascalmasdirect",
+    "value": "fincalascalmas.com,trombone-stingray-9c53.squarespace.com,*"
+  },
+  {
+    "key": "hotelpuntafarodirect",
+    "value": "puntafaro.com,cotizador-con-captura-2026-v7-1-42860846002.us-west1.run.app,copy-of-cotizador-con-correo-2026-v8-5-42860846002.us-west1.run.app,portal-punta-faro2-42860846002.us-west1.run.app,portal-punta-faro-res1-42860846002.us-west1.run.app,portal-punta-faro-res2-42860846002.us-west1.run.app,portal-punta-faro-v6-496606203285.us-west1.run.app,portal-punta-faro-v7-496606203285.us-west1.run.app,*"
+  },
+  {
+    "key": "masgenerosdirect",
+    "value": "masgeneros.com,*"
+  },
+  {
+    "key": "aldeanómadadirect",
+    "value": "aldeanomada.com,aldea-nomada.com,aldea-nomada-redo.lovable.app,*"
+  },
+  {
+    "key": "thenorfolkdirect",
+    "value": "the-norfolk.co.uk,*"
+  },
+  {
+    "key": "montigoresortssomersetdirect",
+    "value": "montigoresorts-somerset.com,*"
+  },
+  {
+    "key": "parkshoresuitesatstpetebeachdirect",
+    "value": "saintpeterentals.com,*"
+  },
+  {
+    "key": "cliffviewgolfclubinndirect",
+    "value": "visitcliffview.com,*"
+  },
+  {
+    "key": "hematianhotel",
+    "value": "*"
+  },
+  {
+    "key": "kalimbabeachresortdirect",
+    "value": "kalimbaresort.com,*"
+  },
+  {
+    "key": "manenahostelgenovadirect",
+    "value": "manenahostel.it,*"
+  },
+  {
+    "key": "westbaydirect",
+    "value": "westbaycolonial.com,*"
+  },
+  {
+    "key": "quentinxlpotsdamerplatz",
+    "value": "quentinhotels.com,*"
+  },
+  {
+    "key": "soldecabo",
+    "value": "*"
+  },
+  {
+    "key": "suitesatsunchasehoteldirect",
+    "value": "suitesatsunchase.com,*"
+  },
+  {
+    "key": "theeastwesthoteldirect",
+    "value": "thehhotels.com,*"
+  },
+  {
+    "key": "7gablesinnandsuitesdirect",
+    "value": "7gablesinn.com,*"
+  },
+  {
+    "key": "fantasearesortsflagshipdirect",
+    "value": "clubboardwalkresorts.com,*"
+  },
+  {
+    "key": "hotelv1501direct",
+    "value": "hotelv1501.com,*"
+  },
+  {
+    "key": "volcanohousedirect",
+    "value": "hawaiivolcanohouse.com,*"
+  },
+  {
+    "key": "fincaelmiradordirect",
+    "value": "fincaelmiradordelvalle.com,*"
+  },
+  {
+    "key": "hoteldanieldirect",
+    "value": "hotel-daniel.de,*"
+  },
+  {
+    "key": "phfndirect",
+    "value": "fornnou-arta.com,trivago.es,*"
+  },
+  {
+    "key": "villadeantano",
+    "value": "villadeantano.com,*"
+  },
+  {
+    "key": "assembleboise",
+    "value": "assembleboise.com,assemblehospitality.com,*"
+  },
+  {
+    "key": "elmorrodirect",
+    "value": "elmorro.com.do,*"
+  },
+  {
+    "key": "thegreatbarrhotel",
+    "value": "thegreatbarrhotel.com,*"
+  },
+  {
+    "key": "shangriladirect",
+    "value": "shangrila.co.za,*"
+  },
+  {
+    "key": "numberonebrutondirect",
+    "value": "numberonebruton.com,us21.campaign-archive.com,*"
+  },
+  {
+    "key": "acasadiamicidirect",
+    "value": "acasadamici.it,acasadiamici.info,*"
+  },
+  {
+    "key": "edgbastonhousedirect",
+    "value": "edgbastonhouse.co.uk,*"
+  },
+  {
+    "key": "hotelschutzenhofgmbhandcokgdirect",
+    "value": "hotel-schuetzenhof-eitorf.de,*"
+  },
+  {
+    "key": "silverruncabins2",
+    "value": "silverruncabins.com,*"
+  },
+  {
+    "key": "valledepineta-lassuites",
+    "value": "hotelvalledepineta.com,elrincondeusana.com,*"
+  },
+  {
+    "key": "casaxabu",
+    "value": "casaxabu.com,www-casaxabu-com.filesusr.com,*"
+  },
+  {
+    "key": "townsidehostelbremendirect",
+    "value": "townside.de,*"
+  },
+  {
+    "key": "nativehotelsdirect",
+    "value": "*"
+  },
+  {
+    "key": "hotelkennedynovadirect",
+    "value": "kennedynova.com,*"
+  },
+  {
+    "key": "moselhotelsonnenuhr",
+    "value": "moselhotel-sonnenuhr.de,*"
+  },
+  {
+    "key": "rookeryhoteldirect",
+    "value": "rookeryhotel.com,*"
+  },
+  {
+    "key": "colibricourt",
+    "value": "*"
+  },
+  {
+    "key": "lasjarasaguastermalesdirect",
+    "value": "spalasjaras.com,*"
+  },
+  {
+    "key": "boloboltddirect",
+    "value": "bolobo.co.uk,*"
+  },
+  {
+    "key": "cristalbluebaru",
+    "value": "cristalbluebaru.com,*"
+  },
+  {
+    "key": "ajmcsharedservicesllcdirect",
+    "value": "hotel1928.com,*"
+  },
+  {
+    "key": "stellenboschdirect",
+    "value": "stellenboschhotel.co.za,*"
+  },
+  {
+    "key": "trebovirdirect",
+    "value": "trebovirhotel.co.uk,*"
+  },
+  {
+    "key": "aurahotelbarudirect",
+    "value": "aurahotelbaru.com,*"
+  },
+  {
+    "key": "raudepartamentos",
+    "value": "raudepartamentos.com,*"
+  },
+  {
+    "key": "kasatatucottages",
+    "value": "kasatatu.com,*"
+  },
+  {
+    "key": "gasthauslandbrechtdirect",
+    "value": "gasthaus-landbrecht.de,*"
+  },
+  {
+    "key": "thesapphirevilla",
+    "value": "mysapphirevillas.com,*"
+  },
+  {
+    "key": "aveparadisevalleydirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "hotelbudirdirect",
+    "value": "hotelbudir.is,*"
+  },
+  {
+    "key": "heritagehotel1direct",
+    "value": "heritagehotel.co,app.us2.stayntouch.com,*"
+  },
+  {
+    "key": "hostalelcruce",
+    "value": "*"
+  },
+  {
+    "key": "lixusbeachresortdirect",
+    "value": "lixusbeachresort.com,*"
+  },
+  {
+    "key": "businessboardinglippstadt",
+    "value": "business-boarding.de,*"
+  },
+  {
+    "key": "domainedufrigoulet",
+    "value": "domainedufrigoulet.fr,www-domainedufrigoulet-fr.filesusr.com,*"
+  },
+  {
+    "key": "aestatelivinghorgendirect",
+    "value": "belmont-residences.ch,*"
+  },
+  {
+    "key": "summerbayorlandobyexploriaresorts",
+    "value": "pictustay-summer-bay-orlando.mydirectstay.com,gomotionapp.com,*"
+  },
+  {
+    "key": "boulevardplazadirect1",
+    "value": "hotelboulevardplazabh.com.br,*"
+  },
+  {
+    "key": "hotelmasiabellver",
+    "value": "hotelmasiabellver.es,*"
+  },
+  {
+    "key": "hotellily1direct",
+    "value": "hotellily.co.uk,*"
+  },
+  {
+    "key": "dreaminginromedirect",
+    "value": "dreaminginrome.com,parioli.viralnews.it,*"
+  },
+  {
+    "key": "hotelcanpaudirect",
+    "value": "*"
+  },
+  {
+    "key": "hotelycabanaspuntalargadirect",
+    "value": "turismocajalosandes.cl,*"
+  },
+  {
+    "key": "holidayvillagevalledirect",
+    "value": "holidayvillagevalle.fi,*"
+  },
+  {
+    "key": "avecliftondirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "royalfloridianresortdirect",
+    "value": "spinnakerresorts.com,*"
+  },
+  {
+    "key": "azurabeachresortdirect",
+    "value": "azuraresorts.com,*"
+  },
+  {
+    "key": "hoteldeutscheshausbonndirect",
+    "value": "deutscheshaus-bonn.de,*"
+  },
+  {
+    "key": "aurendez-vousdesamisdirect",
+    "value": "hostellerierdvamis.com,*"
+  },
+  {
+    "key": "hotelschwarzbachtalhideaway",
+    "value": "hotel-schwarzbachtal.de,*"
+  },
+  {
+    "key": "masvalentinedirect",
+    "value": "mas-valentine.com,*"
+  },
+  {
+    "key": "viennadirect",
+    "value": "vienna-sporthotel.at,htmledit.squarefree.com,*"
+  },
+  {
+    "key": "innonthelakesdirect",
+    "value": "innonthelakes.com,amethyst-swan-p99l.squarespace.com,*"
+  },
+  {
+    "key": "domainedesgueulescasseesdirect",
+    "value": "*"
+  },
+  {
+    "key": "homesuitesdirect",
+    "value": "homesuiteshotelsl.com,*"
+  },
+  {
+    "key": "hotellifinndirect",
+    "value": "hotellifinn.fi,*"
+  },
+  {
+    "key": "hotelperoladirect",
+    "value": "hotelperola.cv,*"
+  },
+  {
+    "key": "ozoantaresairport",
+    "value": "ozo-hotels.com,*"
+  },
+  {
+    "key": "hotelplayascondida",
+    "value": "playascondidabaru.com,*"
+  },
+  {
+    "key": "pyramidsinfloridadirect",
+    "value": "pyramidsinflorida.com,*"
+  },
+  {
+    "key": "hotelpensiongarnihausamstrand",
+    "value": "haus-am-strand-norddeich.de,*"
+  },
+  {
+    "key": "pelicanreefmanagementdirect",
+    "value": "pelicanreefmanagement.com,*"
+  },
+  {
+    "key": "quintaaltodorio",
+    "value": "creatmarketingdev.com,quintaaltodorio.pt,*"
+  },
+  {
+    "key": "lakeviewonthelakedirect",
+    "value": "lakeviewerie.com,lakeview.10web.site,*"
+  },
+  {
+    "key": "pousadadoourodirect",
+    "value": "pousadaouro.com.br,*"
+  },
+  {
+    "key": "behoteldirect",
+    "value": "behotelmalta.com,*"
+  },
+  {
+    "key": "cabaasdemaderaelrinconcillo",
+    "value": "apartamentosencazorla.com,*"
+  },
+  {
+    "key": "lastarriadirect",
+    "value": "lastarria.cl,*"
+  },
+  {
+    "key": "naurahotelboutiquedirect",
+    "value": "hotelnaura.com,*"
+  },
+  {
+    "key": "blockhoteldirect",
+    "value": "blockgozo.com,*"
+  },
+  {
+    "key": "cambridgehousehoteldirect",
+    "value": "cambridgehousehotel.co.uk,*"
+  },
+  {
+    "key": "genesisapartmentsdirect",
+    "value": "genesisapartments.mydirectstay.com,*"
+  },
+  {
+    "key": "bubaliblissstuidodirect",
+    "value": "bubalibliss.com,*"
+  },
+  {
+    "key": "slp8853",
+    "value": "hotellizbeth.com,*"
+  },
+  {
+    "key": "sasakiapartmentsdirect",
+    "value": "sasaki-apartments.com,*"
+  },
+  {
+    "key": "thebewdleyhotel",
+    "value": "theseabirdsuites.co.uk,*"
+  },
+  {
+    "key": "nubemahostel",
+    "value": "nubemiahostel.com,*"
+  },
+  {
+    "key": "hostalelcerrodirect",
+    "value": "hostalelcerro.com,hostalelcerro.converlysolutions.com,*"
+  },
+  {
+    "key": "tafariacastle",
+    "value": "tafaria.com,web.tafaria.com,*"
+  },
+  {
+    "key": "lossitiosdirect",
+    "value": "apartamentoslossitios.com,*"
+  },
+  {
+    "key": "avemalverndirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "aeroteldirect",
+    "value": "aerotel.fr,*"
+  },
+  {
+    "key": "iotahoteldirect",
+    "value": "iotahotels.com,*"
+  },
+  {
+    "key": "apartamentoslacaseta-sabesadirect",
+    "value": "actualizar.es,*"
+  },
+  {
+    "key": "hotelvalledepinetadirect",
+    "value": "hotelvalledepineta.com,*"
+  },
+  {
+    "key": "lis5275",
+    "value": "moodprivate.com,*"
+  },
+  {
+    "key": "ampuriainnhotel",
+    "value": "ampuria-inn.com,ampuria-inn.cesidigital.com,*"
+  },
+  {
+    "key": "floralapartment",
+    "value": "*"
+  },
+  {
+    "key": "riodopradodirect",
+    "value": "riodoprado.pt,*"
+  },
+  {
+    "key": "elpoloaparthotelsuitesdirect",
+    "value": "hotelelpolo.com,machadata.site,*"
+  },
+  {
+    "key": "calagnetaartivi",
+    "value": "calagneta.com,*"
+  },
+  {
+    "key": "stelladelmarbungalowsdirect",
+    "value": "stellasanfelipe.com,*"
+  },
+  {
+    "key": "lostulesvillasdelsoldirect",
+    "value": "lostulesvds.com,trivago.vn,*"
+  },
+  {
+    "key": "domesuitedomes",
+    "value": "domesuitedomes.com,domesuitedomes.website,*"
+  },
+  {
+    "key": "delafontainedirect",
+    "value": "hotel-fontaine.com,*"
+  },
+  {
+    "key": "desvandeusanadirect",
+    "value": "elrincondeusana.com,*"
+  },
+  {
+    "key": "truckinnbndegmbh",
+    "value": "truck-inn-buende.de,*"
+  },
+  {
+    "key": "hostalelgaitero",
+    "value": "hostalelgaitero.com,*"
+  },
+  {
+    "key": "maisonstcharlesdirect",
+    "value": "maisonstcharles.com,*"
+  },
+  {
+    "key": "safirabludirect",
+    "value": "safirablu.com,*"
+  },
+  {
+    "key": "amanthoslivingzurichairportdirect",
+    "value": "amanthosliving.com,*"
+  },
+  {
+    "key": "amanthoslivinggrenchendirect",
+    "value": "amanthosliving.com,*"
+  },
+  {
+    "key": "amanthoslivingnyondirect",
+    "value": "amanthosliving.com,*"
+  },
+  {
+    "key": "thewoodfallsinn",
+    "value": "thewoodfallsinn.co.uk,www-thewoodfallsinn-co-uk.filesusr.com,a650d2bc-aa21-4b6c-bc13-d8fa2b2b2282.filesusr.com,*"
+  },
+  {
+    "key": "bellasuites",
+    "value": "bellasignaturesuites.net,*"
+  },
+  {
+    "key": "blackpoolstamaria",
+    "value": "hotelsantamaria.co.uk,*"
+  },
+  {
+    "key": "aeliacollectionsuites",
+    "value": "aelia-suites.gr,*"
+  },
+  {
+    "key": "lasmejovisalvaldecocoradirect",
+    "value": "elmiradordelcocora.com,*"
+  },
+  {
+    "key": "castletownshend",
+    "value": "castle-townshend.com,*"
+  },
+  {
+    "key": "thestoppinghouse",
+    "value": "elkpointcafe.com,stoppinghouse.ca,stoppinghouse.com,*"
+  },
+  {
+    "key": "casadelrectorhotelboutiquedirect",
+    "value": "casadelrector.com,hotelesenguanajuato.net,*"
+  },
+  {
+    "key": "rosewayrivercottagesdirect",
+    "value": "rosewayrivercottages.com,*"
+  },
+  {
+    "key": "soficugreenvillagedirect",
+    "value": "soficugreenvillage.com,soficuhoteles.com,*"
+  },
+  {
+    "key": "casadejuliet",
+    "value": "*"
+  },
+  {
+    "key": "suitreedirect",
+    "value": "suitree.com,pro.suitree.com,*"
+  },
+  {
+    "key": "hotelvillamexicanadirect",
+    "value": "hotelvillamexicana.com.mx,trivago.com.mx,*"
+  },
+  {
+    "key": "hillviewatmysticridgedirect",
+    "value": "nowebsite.com,*"
+  },
+  {
+    "key": "libertad1416direct",
+    "value": "hotellibertad1416.com,libertad.thesite.mx,*"
+  },
+  {
+    "key": "littlesilvercountryhotel",
+    "value": "thelittlesilver.co.uk,project1-ed3rjflgb1.live-website.com,*"
+  },
+  {
+    "key": "agriturismolafraschettadirect",
+    "value": "lafraschettabolsena.it,*"
+  },
+  {
+    "key": "hotelduusdirect",
+    "value": "hotelduus.is,*"
+  },
+  {
+    "key": "latrojedeadobedirect",
+    "value": "latrojelodgeatcreel.com,*"
+  },
+  {
+    "key": "theparkhousedirect",
+    "value": "parkhousehotelshifnal.co.uk,*"
+  },
+  {
+    "key": "presidentvillahotelmiamibeachdirect",
+    "value": "presidentvillamiami.com,trivago.com.ar,*"
+  },
+  {
+    "key": "suenostulumdirect",
+    "value": "suenostulum.com,*"
+  },
+  {
+    "key": "hochobendirect",
+    "value": "hochoben.at,*"
+  },
+  {
+    "key": "rectoryfarmdirect",
+    "value": "rectoryfarm.net,*"
+  },
+  {
+    "key": "thelittlebritaininndirect",
+    "value": "thelittlebritaininn.com,the-little-britain-inn-hotel-53560-vettelschoss.hotel-hostel-unterkunft.de,*"
+  },
+  {
+    "key": "hotelsplendiddirect",
+    "value": "splendid1900.ro,*"
+  },
+  {
+    "key": "laparceladirect",
+    "value": "brisaolea.com,*"
+  },
+  {
+    "key": "hoteladrianadirect",
+    "value": "hoteladriana.com.mx,*"
+  },
+  {
+    "key": "boutiquehotelsenadirect",
+    "value": "hotel-sena.de,*"
+  },
+  {
+    "key": "canbassadirect",
+    "value": "canbassa.com,*"
+  },
+  {
+    "key": "belcorandirect",
+    "value": "corunaflat.com,*"
+  },
+  {
+    "key": "debijmiddelburg",
+    "value": "debijmiddelburg.nl,*"
+  },
+  {
+    "key": "hotelmorrison84direct",
+    "value": "hotelesmorrison.com,*"
+  },
+  {
+    "key": "ondamarhotel",
+    "value": "ondamar.pt,staging.ondamar.pt,*"
+  },
+  {
+    "key": "hostalelmoral2",
+    "value": "elmoralcuenca.com,*"
+  },
+  {
+    "key": "sotaspace",
+    "value": "sotaspace.mx,*"
+  },
+  {
+    "key": "kalamarhotel",
+    "value": "kalamarhotel.cl,*"
+  },
+  {
+    "key": "settecuscinidirect",
+    "value": "settecuscini.it,1720056082-atari-embeds.googleusercontent.com,*"
+  },
+  {
+    "key": "avebluebellvillasdirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "hoteltiroldirect",
+    "value": "hoteltirolformigal.com,*"
+  },
+  {
+    "key": "hochschwarzwaldhof",
+    "value": "hochschwarzwaldhof.de,*"
+  },
+  {
+    "key": "katringrandlemeadirect",
+    "value": "*"
+  },
+  {
+    "key": "hotel&pensionhausdewenterdirect",
+    "value": "haus-dewenter.de,haus-dewenter-de.wd3.securewebdemo.net,*"
+  },
+  {
+    "key": "pacuaremountainlodge",
+    "value": "pacuaremountainlodge.com,*"
+  },
+  {
+    "key": "delairedirect",
+    "value": "delaire.co.za,theweekend.co.za,*"
+  },
+  {
+    "key": "avesantaclaradirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "avelascolinasdirect",
+    "value": "lascolinas.aveliving.com,aveliving.com,*"
+  },
+  {
+    "key": "avephoenixskydirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "avehamiltongreendirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "avefranklindirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "avetampadirect",
+    "value": "aveliving.com,*"
+  },
+  {
+    "key": "avephoenixterradirect",
+    "value": "phxterra.aveliving.com,aveliving.com,*"
+  },
+  {
+    "key": "casasoladahoteldirect",
+    "value": "casasoladahotel.com,*"
+  },
+  {
+    "key": "casadeltunellodge",
+    "value": "editor.wix.com,casadeltunel.com,*"
+  },
+  {
+    "key": "villaaugustaspagarden",
+    "value": "nowebsite.com,*"
+  },
+  {
+    "key": "coastalinnbeulah",
+    "value": "*"
+  },
+  {
+    "key": "luxurysuitesgemmadirect",
+    "value": "cadissa.co,old.cadissa.co,*"
+  },
+  {
+    "key": "hotelsummundirect",
+    "value": "hotelsummum.es,hotelmonellssummum.com,*"
+  },
+  {
+    "key": "chelseainndirect",
+    "value": "chelseainn.com,*"
+  },
+  {
+    "key": "umaruralboutique",
+    "value": "umaruralboutique.com,umaruralboutique.webflow.io,*"
+  }
+]
