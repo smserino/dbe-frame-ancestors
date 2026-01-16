@@ -41,7 +41,7 @@
   },
   {
     "key": "atarazanasdirect",
-    "value": "atarazanasmalaga.com,hotel-atarazanas-malaga.com,trivago.nl,*"
+    "value": "atarazanasmalaga.com,hotel-atarazanas-malaga.com,*"
   },
   {
     "key": "hotelhoftuetsbergdirect",
@@ -61,7 +61,7 @@
   },
   {
     "key": "hotelmirayadirect",
-    "value": "hotelmiraya.com,trivago.es,*"
+    "value": "hotelmiraya.com,*"
   },
   {
     "key": "thesamuelpalmer",
@@ -225,7 +225,7 @@
   },
   {
     "key": "mountainshoteldirect",
-    "value": "mountains.at,trivago.at,*"
+    "value": "mountains.at,*"
   },
   {
     "key": "alpenhotelkaiserfelsdirect",
@@ -749,7 +749,7 @@
   },
   {
     "key": "cienbalconesdirect",
-    "value": "cienbalcones.com,trivago.es,*"
+    "value": "cienbalcones.com,*"
   },
   {
     "key": "14westboutiquehoteldirect",
@@ -885,7 +885,7 @@
   },
   {
     "key": "antariscintermexdirect",
-    "value": "hotelantaris.com,trivago.com.mx,*"
+    "value": "hotelantaris.com,*"
   },
   {
     "key": "bewickslodgedirect",
@@ -1217,7 +1217,7 @@
   },
   {
     "key": "cmapartamentoslatrufanegradirect",
-    "value": "latrufanegra.com,trivago.es,*"
+    "value": "latrufanegra.com,*"
   },
   {
     "key": "thelevanterathausdirect",
@@ -1293,7 +1293,7 @@
   },
   {
     "key": "austriaclassichotelheiligkreuz",
-    "value": "heiligkreuz.at,trivago.it,*"
+    "value": "heiligkreuz.at,*"
   },
   {
     "key": "regencyboutiquehoteldirect",
@@ -1861,7 +1861,7 @@
   },
   {
     "key": "lecanaldirect",
-    "value": "hoteltilde.fr,trivago.fr,*"
+    "value": "hoteltilde.fr,*"
   },
   {
     "key": "ferrarisuitesdirect",
@@ -2861,7 +2861,7 @@
   },
   {
     "key": "socoolhosteldirect",
-    "value": "socoolhostelporto.com,trivago.es,*"
+    "value": "socoolhostelporto.com,*"
   },
   {
     "key": "casanadadirect",
@@ -3329,7 +3329,7 @@
   },
   {
     "key": "hotelriazordirect",
-    "value": "hotelriazor.mx,trivago.com.mx,*"
+    "value": "hotelriazor.mx,*"
   },
   {
     "key": "kvihotelbudapestdirect2",
@@ -3525,7 +3525,7 @@
   },
   {
     "key": "jardinshautecouturedirect",
-    "value": "jardinshautecouture.fr,trivago.it,*"
+    "value": "jardinshautecouture.fr,*"
   },
   {
     "key": "hotelsosteniblelalagunadirect",
@@ -3725,7 +3725,7 @@
   },
   {
     "key": "apartamentosgemelos2direct",
-    "value": "beninter.com,trivago.es,*"
+    "value": "beninter.com,*"
   },
   {
     "key": "stthomasresortbyresortsharedirect",
@@ -3745,7 +3745,7 @@
   },
   {
     "key": "astorcourtdirect",
-    "value": "astorcourthotel.co.uk,trivago.it,*"
+    "value": "astorcourthotel.co.uk,*"
   },
   {
     "key": "villatusciadirect",
@@ -3893,11 +3893,11 @@
   },
   {
     "key": "hotellaorozcadirect",
-    "value": "laorozca.es,trivago.es,*"
+    "value": "laorozca.es,*"
   },
   {
     "key": "balmoraldirect",
-    "value": "balmoralhousehotel.co.uk,trivago.pt,*"
+    "value": "balmoralhousehotel.co.uk,*"
   },
   {
     "key": "poacherscountryhotelzdirect",
@@ -4021,7 +4021,7 @@
   },
   {
     "key": "hotelvillacasanovadirect",
-    "value": "villacasanova-lucca.it,trivago.de,*"
+    "value": "villacasanova-lucca.it,*"
   },
   {
     "key": "molierepezenasdirect",
@@ -4121,7 +4121,7 @@
   },
   {
     "key": "hotelibiltzedirect",
-    "value": "hotelibiltze.com,trivago.es,*"
+    "value": "hotelibiltze.com,*"
   },
   {
     "key": "vilajelkadirect",
@@ -4185,7 +4185,7 @@
   },
   {
     "key": "w6hotelhammersmithdirect",
-    "value": "w6hotel.co.uk,trivago.pt,*"
+    "value": "w6hotel.co.uk,*"
   },
   {
     "key": "urbanautsstudiosminellidirect",
@@ -4201,15 +4201,15 @@
   },
   {
     "key": "westsidedirect",
-    "value": "ymcanyc.org,trivago.fr,*"
+    "value": "ymcanyc.org,*"
   },
   {
     "key": "hoteljoseantoniodeluxedirect",
-    "value": "hotelesjoseantonio.com,trivago.com.ar,*"
+    "value": "hotelesjoseantonio.com,*"
   },
   {
     "key": "carltonarmshoteldirect",
-    "value": "carltonarms.com,trivago.fr,*"
+    "value": "carltonarms.com,*"
   },
   {
     "key": "hotelwhitmandirect",
@@ -4221,7 +4221,7 @@
   },
   {
     "key": "villanestordirect",
-    "value": "villanestor.com,trivago.fr,*"
+    "value": "villanestor.com,*"
   },
   {
     "key": "number3castlecottage",
@@ -4249,7 +4249,7 @@
   },
   {
     "key": "sintraboutiquedirect",
-    "value": "sintraboutiquehotel.com,trivago.pt,*"
+    "value": "sintraboutiquehotel.com,*"
   },
   {
     "key": "cityapartmentsdirect",
@@ -4265,7 +4265,7 @@
   },
   {
     "key": "nerudamardirect",
-    "value": "mrhoteles.cl,trivago.cl,*"
+    "value": "mrhoteles.cl,*"
   },
   {
     "key": "chateauresortandconferencecenter",
@@ -4277,7 +4277,7 @@
   },
   {
     "key": "chassehotelresidencydirect",
-    "value": "chassehotel.com,trivago.nl,*"
+    "value": "chassehotel.com,*"
   },
   {
     "key": "relaisdelportoaffittacameredirect",
@@ -4333,7 +4333,7 @@
   },
   {
     "key": "hotelcocoplumbeachdirect",
-    "value": "cocoplumhotel.com,trivago.com.co,*"
+    "value": "cocoplumhotel.com,*"
   },
   {
     "key": "harborhousedirect",
@@ -4357,11 +4357,11 @@
   },
   {
     "key": "boutiquehoteldirect",
-    "value": "gerechtheerenveen.nl,trivago.nl,*"
+    "value": "gerechtheerenveen.nl,*"
   },
   {
     "key": "hotelbeausejourdirect",
-    "value": "hotelbeausejourparis.com,trivago.nl,*"
+    "value": "hotelbeausejourparis.com,*"
   },
   {
     "key": "aveaustinnorthlamardirect",
@@ -4381,7 +4381,7 @@
   },
   {
     "key": "armoricadirect",
-    "value": "armorica.ie,trivago.ie,*"
+    "value": "armorica.ie,*"
   },
   {
     "key": "sleepinndusseldorfdirect",
@@ -4405,7 +4405,7 @@
   },
   {
     "key": "thehoughtonhoteldirect",
-    "value": "thehoughtonhotel.com,trivago.no,*"
+    "value": "thehoughtonhotel.com,*"
   },
   {
     "key": "hotelboutiquepatagoniahousedirect",
@@ -4509,7 +4509,7 @@
   },
   {
     "key": "hotelsolardosmascarenhasdirect",
-    "value": "solardosmascarenhas.com,trivago.pt,*"
+    "value": "solardosmascarenhas.com,*"
   },
   {
     "key": "mountainhosteldirect",
@@ -4537,7 +4537,7 @@
   },
   {
     "key": "casasalleshotelboutiquedirect",
-    "value": "casasalles.com,trivago.com.mx,*"
+    "value": "casasalles.com,*"
   },
   {
     "key": "unionleaguelibertyhilldirect",
@@ -4561,11 +4561,11 @@
   },
   {
     "key": "neohostelberlindirect",
-    "value": "neohostel.com,trivago.de,*"
+    "value": "neohostel.com,*"
   },
   {
     "key": "atalaiasolaparthoteldirect",
-    "value": "atalaiasol.pt,trivago.pt,*"
+    "value": "atalaiasol.pt,*"
   },
   {
     "key": "boydfarmsbantamhousesdirect",
@@ -4573,7 +4573,7 @@
   },
   {
     "key": "hotelruralelmolinodefelipesldirect",
-    "value": "hotelruralmula.com,trivago.es,*"
+    "value": "hotelruralmula.com,*"
   },
   {
     "key": "paradiseinn&conferencecentredirect",
@@ -4585,7 +4585,7 @@
   },
   {
     "key": "quentinprague",
-    "value": "quentinhotels.com,trivago.se,trivago.es,*"
+    "value": "quentinhotels.com,*"
   },
   {
     "key": "theleohousedirect",
@@ -4661,7 +4661,7 @@
   },
   {
     "key": "iconhotelsantiagodirect",
-    "value": "iconchile.com,trivago.com.mx,trivago.cl,*"
+    "value": "iconchile.com,*"
   },
   {
     "key": "cradleboutiquedirect",
@@ -4673,11 +4673,11 @@
   },
   {
     "key": "neuchatelcityhoteldirect",
-    "value": "neuchatelcityhotel.com,trivago.it,*"
+    "value": "neuchatelcityhotel.com,*"
   },
   {
     "key": "campigirsaotorpesdirect",
-    "value": "campigir.com,trivago.pt,*"
+    "value": "campigir.com,*"
   },
   {
     "key": "vagantobarcelona",
@@ -4685,7 +4685,7 @@
   },
   {
     "key": "the georgemaltadirect",
-    "value": "thegeorgemalta.com,trivago.nl,trivago.fr,*"
+    "value": "thegeorgemalta.com,*"
   },
   {
     "key": "magariestatesdirect",
@@ -4745,7 +4745,7 @@
   },
   {
     "key": "kikarhoteldirect",
-    "value": "kikarhotel.com,trivago.co.il,*"
+    "value": "kikarhotel.com,*"
   },
   {
     "key": "charmingbellagiosunclubdirect",
@@ -4769,7 +4769,7 @@
   },
   {
     "key": "hotelinternationalsinaiadirect",
-    "value": "internationalsinaia.ro,trivago.ro,*"
+    "value": "internationalsinaia.ro,*"
   },
   {
     "key": "lakelodgedirect",
@@ -4777,7 +4777,7 @@
   },
   {
     "key": "hostaljumedirect",
-    "value": "hostaljume.com,trivago.es,*"
+    "value": "hostaljume.com,*"
   },
   {
     "key": "hotelsecessionwiendirect",
@@ -4809,7 +4809,7 @@
   },
   {
     "key": "hospederiasanmartínpinariodirect",
-    "value": "sanmartinpinario.eu,trivago.es,*"
+    "value": "sanmartinpinario.eu,*"
   },
   {
     "key": "hotelhaciendadelasfloresdirect",
@@ -4857,7 +4857,7 @@
   },
   {
     "key": "hotelzumzieldirect",
-    "value": "hotelziel.de,trivago.nl,*"
+    "value": "hotelziel.de,*"
   },
   {
     "key": "lemontreerooms",
@@ -4869,11 +4869,11 @@
   },
   {
     "key": "apartamentosdoñacarmendirect",
-    "value": "apartamentosdonacarmen.com,trivago.es,*"
+    "value": "apartamentosdonacarmen.com,*"
   },
   {
     "key": "theoldvine1direct",
-    "value": "oldvinewinchester.com,trivago.no,*"
+    "value": "oldvinewinchester.com,*"
   },
   {
     "key": "siestamoteldirect",
@@ -4885,11 +4885,11 @@
   },
   {
     "key": "lindhotelgmbhdirect",
-    "value": "lind-hotel.de,trivago.de,*"
+    "value": "lind-hotel.de,*"
   },
   {
     "key": "pelicandirect",
-    "value": "pelican-london.com,trivago.nl,*"
+    "value": "pelican-london.com,*"
   },
   {
     "key": "hotelrestaurantelasbovedasdirect",
@@ -4917,7 +4917,7 @@
   },
   {
     "key": "novaromadirect",
-    "value": "hotelnovaroma.com,trivago.es,*"
+    "value": "hotelnovaroma.com,*"
   },
   {
     "key": "palacerome",
@@ -4985,7 +4985,7 @@
   },
   {
     "key": "hotelbahiasurdirect",
-    "value": "hotelbahiasur.com,trivago.es,*"
+    "value": "hotelbahiasur.com,*"
   },
   {
     "key": "hotelmorabezadirect",
@@ -4997,7 +4997,7 @@
   },
   {
     "key": "parccornichecondosuitehoteldirect",
-    "value": "parccorniche.com,trivago.com.br,*"
+    "value": "parccorniche.com,*"
   },
   {
     "key": "carolineundjrgendonhausergnbr",
@@ -5101,7 +5101,7 @@
   },
   {
     "key": "hotelamaugustinerplatzdirect",
-    "value": "hotel-am-augustinerplatz.de,trivago.it,*"
+    "value": "hotel-am-augustinerplatz.de,*"
   },
   {
     "key": "haithomsguesthouse",
@@ -5133,7 +5133,7 @@
   },
   {
     "key": "jogllandhotelprettenhoferdirect",
-    "value": "jogllandhotel.at,trivago.at,*"
+    "value": "jogllandhotel.at,*"
   },
   {
     "key": "innrossiodirect",
@@ -5149,7 +5149,7 @@
   },
   {
     "key": "hauslunadirect",
-    "value": "schwangau-homes.com,trivago.com.br,*"
+    "value": "schwangau-homes.com,*"
   },
   {
     "key": "estrellademardirect",
@@ -5181,7 +5181,7 @@
   },
   {
     "key": "apartamentoscolónplayadirect",
-    "value": "apartamentoscolonplaya.com,trivago.es,*"
+    "value": "apartamentoscolonplaya.com,*"
   },
   {
     "key": "pensaoresidencialsetubalensedirect",
@@ -5229,7 +5229,7 @@
   },
   {
     "key": "jesmonddenedirect",
-    "value": "stpancrashotelgroup.com,trivago.pt,*"
+    "value": "stpancrashotelgroup.com,*"
   },
   {
     "key": "myhawaiihostel",
@@ -5269,11 +5269,11 @@
   },
   {
     "key": "roomviewdirect",
-    "value": "aroomwithaviewbrighton.com,trivago.pt,*"
+    "value": "aroomwithaviewbrighton.com,*"
   },
   {
     "key": "hotellermita",
-    "value": "hotelermita.com,trivago.es,*"
+    "value": "hotelermita.com,*"
   },
   {
     "key": "doritisguesthousemaculusso-1",
@@ -5345,7 +5345,7 @@
   },
   {
     "key": "emperatriziiihoteldirect",
-    "value": "emperatrizhotel.com,trivago.es,*"
+    "value": "emperatrizhotel.com,*"
   },
   {
     "key": "ayookhoteldirect",
@@ -5373,7 +5373,7 @@
   },
   {
     "key": "hotelpompaelodirect",
-    "value": "hotelpompaelo.com,trivago.es,*"
+    "value": "hotelpompaelo.com,*"
   },
   {
     "key": "lesmuriersdirect",
@@ -5501,7 +5501,7 @@
   },
   {
     "key": "theoldorletoninn",
-    "value": "theoldorletoninn.co.uk,trivago.fr,*"
+    "value": "theoldorletoninn.co.uk,*"
   },
   {
     "key": "lanternmotel",
@@ -5513,7 +5513,7 @@
   },
   {
     "key": "hostelportici",
-    "value": "hostel-portici.mydirectstay.com,trivago.it,*"
+    "value": "hostel-portici.mydirectstay.com,*"
   },
   {
     "key": "hospederiabodasdecamachodirect",
@@ -5533,7 +5533,7 @@
   },
   {
     "key": "hotellastablasdirect",
-    "value": "hotellastablas.com,trivago.es,*"
+    "value": "hotellastablas.com,*"
   },
   {
     "key": "ecofunco",
@@ -5609,7 +5609,7 @@
   },
   {
     "key": "abadiacaminodesantiagodirect",
-    "value": "hotelabadiaburgos.com,trivago.es,*"
+    "value": "hotelabadiaburgos.com,*"
   },
   {
     "key": "hhotel",
@@ -5661,7 +5661,7 @@
   },
   {
     "key": "nautiluslanzarotedirect",
-    "value": "nautilus-lanzarote.com,trivago.nl,*"
+    "value": "nautilus-lanzarote.com,*"
   },
   {
     "key": "thefarmyarddirect",
@@ -5673,7 +5673,7 @@
   },
   {
     "key": "apartamentoslasgacelas",
-    "value": "trivago.es,*"
+    "value": "*"
   },
   {
     "key": "heronslakeretreatdirect",
@@ -5681,7 +5681,7 @@
   },
   {
     "key": "swissinnresorthurghadadirect",
-    "value": "swissinn.net,trivago.ro,*"
+    "value": "swissinn.net,*"
   },
   {
     "key": "82adalstonlaneterrace",
@@ -5713,7 +5713,7 @@
   },
   {
     "key": "hotelbirsighofdirect",
-    "value": "birsighof.ch,trivago.ch,*"
+    "value": "birsighof.ch,*"
   },
   {
     "key": "dundeeresortgolfclubdirect",
@@ -5741,7 +5741,7 @@
   },
   {
     "key": "kikerestudiosdirect",
-    "value": "kikerestudios.com,trivago.es,*"
+    "value": "kikerestudios.com,*"
   },
   {
     "key": "avekingofprussiadirect",
@@ -5873,7 +5873,7 @@
   },
   {
     "key": "phfndirect",
-    "value": "fornnou-arta.com,trivago.es,*"
+    "value": "fornnou-arta.com,*"
   },
   {
     "key": "villadeantano",
@@ -6249,7 +6249,7 @@
   },
   {
     "key": "lostulesvillasdelsoldirect",
-    "value": "lostulesvds.com,trivago.vn,*"
+    "value": "lostulesvds.com,*"
   },
   {
     "key": "domesuitedomes",
@@ -6341,7 +6341,7 @@
   },
   {
     "key": "hotelvillamexicanadirect",
-    "value": "hotelvillamexicana.com.mx,trivago.com.mx,*"
+    "value": "hotelvillamexicana.com.mx,*"
   },
   {
     "key": "hillviewatmysticridgedirect",
@@ -6373,7 +6373,7 @@
   },
   {
     "key": "presidentvillahotelmiamibeachdirect",
-    "value": "presidentvillamiami.com,trivago.com.ar,*"
+    "value": "presidentvillamiami.com,*"
   },
   {
     "key": "suenostulumdirect",

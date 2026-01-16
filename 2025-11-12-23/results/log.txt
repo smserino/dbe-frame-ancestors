@@ -1444,10 +1444,10 @@ Evaluated channel code: atarazanasdirect
 --Referrers: https://hotel-atarazanas-malaga.com/, , https://www.trivago.nl/forward/en-US, https://payment.direct-book.com/
 --Domains: hotel-atarazanas-malaga.com, trivago.nl, payment.direct-book.com
 ----Internal domains found: payment.direct-book.com
-----Domains to filter out: 
+----Domains to filter out: trivago.nl
 ----Website set in DB: http://atarazanasmalaga.com/
 ----Website domain extracted: atarazanasmalaga.com
---Final domains to include: atarazanasmalaga.com, hotel-atarazanas-malaga.com, trivago.nl
+--Final domains to include: atarazanasmalaga.com, hotel-atarazanas-malaga.com
 
 
 Evaluated channel code: hotelhoftuetsbergdirect
@@ -1504,10 +1504,10 @@ Evaluated channel code: hotelmirayadirect
 --Referrers: https://hotelmiraya.com/, https://www.trivago.es/forward/es, 
 --Domains: hotelmiraya.com, trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://hotelmiraya.com/
 ----Website domain extracted: hotelmiraya.com
---Final domains to include: hotelmiraya.com, trivago.es
+--Final domains to include: hotelmiraya.com
 
 
 Evaluated channel code: thesamuelpalmer
@@ -1996,10 +1996,10 @@ Evaluated channel code: mountainshoteldirect
 --Referrers: https://mountains.at/, https://direct-book.com/properties/MountainsHotelDIRECT/about, , https://direct-book.com/properties/MountainsHotelDIRECT, https://direct-book.com/properties/MountainsHotelDIRECT/contact, https://hooks.stripe.com/, https://www.trivago.at/forward/de, https://direct-book.com/properties/MountainsHotelDIRECT/policies
 --Domains: mountains.at, direct-book.com, hooks.stripe.com, trivago.at
 ----Internal domains found: direct-book.com, hooks.stripe.com
-----Domains to filter out: 
+----Domains to filter out: trivago.at
 ----Website set in DB: https://mountains.at
 ----Website domain extracted: mountains.at
---Final domains to include: mountains.at, trivago.at
+--Final domains to include: mountains.at
 
 
 Evaluated channel code: alpenhotelkaiserfelsdirect
@@ -4048,10 +4048,10 @@ Evaluated channel code: cienbalconesdirect
 --Referrers: https://cienbalcones.com/, https://cienbalcones.com, https://www.trivago.es/forward/es, https://direct-book.com/properties/cienbalconesdirect, http://cienbalcones.com, https://direct-book.com/properties/cienbalconesdirect/about, https://direct-book.com/properties/cienbalconesdirect/policies
 --Domains: cienbalcones.com, trivago.es, direct-book.com
 ----Internal domains found: direct-book.com
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: http://www.cienbalcones.com
 ----Website domain extracted: cienbalcones.com
---Final domains to include: cienbalcones.com, trivago.es
+--Final domains to include: cienbalcones.com
 
 
 Evaluated channel code: 14westboutiquehoteldirect
@@ -4456,10 +4456,10 @@ Evaluated channel code: antariscintermexdirect
 --Referrers: https://hotelantaris.com/, , https://www.trivago.com.mx/forward/es
 --Domains: hotelantaris.com, trivago.com.mx
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.mx
 ----Website set in DB: https://hotelantaris.com/
 ----Website domain extracted: hotelantaris.com
---Final domains to include: hotelantaris.com, trivago.com.mx
+--Final domains to include: hotelantaris.com
 
 
 Evaluated channel code: bewickslodgedirect
@@ -5956,10 +5956,10 @@ Evaluated channel code: cmapartamentoslatrufanegradirect
 --Referrers: https://www.latrufanegra.com/, https://direct-book.com/properties/cmapartamentoslatrufanegradirect, , https://payment.direct-book.com/, https://www.trivago.es/forward/es
 --Domains: latrufanegra.com, direct-book.com, payment.direct-book.com, trivago.es
 ----Internal domains found: direct-book.com, payment.direct-book.com
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://www.latrufanegra.com/
 ----Website domain extracted: latrufanegra.com
---Final domains to include: latrufanegra.com, trivago.es
+--Final domains to include: latrufanegra.com
 
 
 Evaluated channel code: thelevanterathausdirect
@@ -6184,10 +6184,10 @@ Evaluated channel code: austriaclassichotelheiligkreuz
 --Referrers: https://www.heiligkreuz.at/, , https://www.trivago.it/forward/it
 --Domains: heiligkreuz.at, trivago.it
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.it
 ----Website set in DB: https://www.heiligkreuz.at
 ----Website domain extracted: heiligkreuz.at
---Final domains to include: heiligkreuz.at, trivago.it
+--Final domains to include: heiligkreuz.at
 
 
 Evaluated channel code: regencyboutiquehoteldirect
@@ -8212,10 +8212,10 @@ Evaluated channel code: lecanaldirect
 --Referrers: https://www.hoteltilde.fr/, , https://www.trivago.fr/, https://www.trivago.fr/forward/fr
 --Domains: hoteltilde.fr, trivago.fr
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.fr
 ----Website set in DB: http://www.hoteltilde.fr/
 ----Website domain extracted: hoteltilde.fr
---Final domains to include: hoteltilde.fr, trivago.fr
+--Final domains to include: hoteltilde.fr
 
 
 Evaluated channel code: ferrarisuitesdirect
@@ -11944,10 +11944,10 @@ Evaluated channel code: socoolhosteldirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: http://socoolhostelporto.com/
 ----Website domain extracted: socoolhostelporto.com
---Final domains to include: socoolhostelporto.com, trivago.es
+--Final domains to include: socoolhostelporto.com
 
 
 Evaluated channel code: casanadadirect
@@ -13516,10 +13516,10 @@ Evaluated channel code: hotelriazordirect
 --Referrers: https://www.trivago.com.mx/forward/es-MX, https://www.trivago.com/forward/en-US
 --Domains: trivago.com.mx, trivago.com
 ----Internal domains found: 
-----Domains to filter out: trivago.com
+----Domains to filter out: trivago.com.mx, trivago.com
 ----Website set in DB: https://hotelriazor.mx/
 ----Website domain extracted: hotelriazor.mx
---Final domains to include: hotelriazor.mx, trivago.com.mx
+--Final domains to include: hotelriazor.mx
 
 
 Evaluated channel code: kvihotelbudapestdirect2
@@ -14800,10 +14800,10 @@ Evaluated channel code: jardinshautecouturedirect
 --Referrers: https://www.trivago.it/forward/it
 --Domains: trivago.it
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.it
 ----Website set in DB: https://www.jardinshautecouture.fr/
 ----Website domain extracted: jardinshautecouture.fr
---Final domains to include: jardinshautecouture.fr, trivago.it
+--Final domains to include: jardinshautecouture.fr
 
 
 Evaluated channel code: hotelsosteniblelalagunadirect
@@ -15652,10 +15652,10 @@ Evaluated channel code: apartamentosgemelos2direct
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://www.beninter.com/
 ----Website domain extracted: beninter.com
---Final domains to include: beninter.com, trivago.es
+--Final domains to include: beninter.com
 
 
 Evaluated channel code: stthomasresortbyresortsharedirect
@@ -15712,10 +15712,10 @@ Evaluated channel code: astorcourtdirect
 --Referrers: https://www.trivago.it/, 
 --Domains: trivago.it
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.it
 ----Website set in DB: http://www.astorcourthotel.co.uk/
 ----Website domain extracted: astorcourthotel.co.uk
---Final domains to include: astorcourthotel.co.uk, trivago.it
+--Final domains to include: astorcourthotel.co.uk
 
 
 Evaluated channel code: villatusciadirect
@@ -16348,10 +16348,10 @@ Evaluated channel code: hotellaorozcadirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://www.laorozca.es/
 ----Website domain extracted: laorozca.es
---Final domains to include: laorozca.es, trivago.es
+--Final domains to include: laorozca.es
 
 
 Evaluated channel code: balmoraldirect
@@ -16360,10 +16360,10 @@ Evaluated channel code: balmoraldirect
 --Referrers: https://www.trivago.pt/forward/pt
 --Domains: trivago.pt
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.pt
 ----Website set in DB: http://www.balmoralhousehotel.co.uk
 ----Website domain extracted: balmoralhousehotel.co.uk
---Final domains to include: balmoralhousehotel.co.uk, trivago.pt
+--Final domains to include: balmoralhousehotel.co.uk
 
 
 Evaluated channel code: poacherscountryhotelzdirect
@@ -16924,10 +16924,10 @@ Evaluated channel code: hotelvillacasanovadirect
 --Referrers: https://www.trivago.de/forward/de
 --Domains: trivago.de
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.de
 ----Website set in DB: http://www.villacasanova-lucca.it
 ----Website domain extracted: villacasanova-lucca.it
---Final domains to include: villacasanova-lucca.it, trivago.de
+--Final domains to include: villacasanova-lucca.it
 
 
 Evaluated channel code: molierepezenasdirect
@@ -17356,10 +17356,10 @@ Evaluated channel code: hotelibiltzedirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: http://www.hotelibiltze.com
 ----Website domain extracted: hotelibiltze.com
---Final domains to include: hotelibiltze.com, trivago.es
+--Final domains to include: hotelibiltze.com
 
 
 Evaluated channel code: huonbushdirect
@@ -17680,10 +17680,10 @@ Evaluated channel code: w6hotelhammersmithdirect
 --Referrers: https://www.trivago.pt/forward/pt
 --Domains: trivago.pt
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.pt
 ----Website set in DB: https://www.w6hotel.co.uk/
 ----Website domain extracted: w6hotel.co.uk
---Final domains to include: w6hotel.co.uk, trivago.pt
+--Final domains to include: w6hotel.co.uk
 
 
 Evaluated channel code: kontikitahitidirect
@@ -17788,10 +17788,10 @@ Evaluated channel code: westsidedirect
 --Referrers: https://www.trivago.fr/forward/fr, 
 --Domains: trivago.fr
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.fr
 ----Website set in DB: http://www.ymcanyc.org/association/guest-rooms/westsiderooms
 ----Website domain extracted: ymcanyc.org
---Final domains to include: ymcanyc.org, trivago.fr
+--Final domains to include: ymcanyc.org
 
 
 Evaluated channel code: hoteljoseantoniodeluxedirect
@@ -17800,10 +17800,10 @@ Evaluated channel code: hoteljoseantoniodeluxedirect
 --Referrers: https://www.trivago.com.ar/forward/es
 --Domains: trivago.com.ar
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.ar
 ----Website set in DB: https://hotelesjoseantonio.com/us/hotel-jose-antonio-lima/
 ----Website domain extracted: hotelesjoseantonio.com
---Final domains to include: hotelesjoseantonio.com, trivago.com.ar
+--Final domains to include: hotelesjoseantonio.com
 
 
 Evaluated channel code: carltonarmshoteldirect
@@ -17812,10 +17812,10 @@ Evaluated channel code: carltonarmshoteldirect
 --Referrers: https://www.trivago.fr/forward/fr
 --Domains: trivago.fr
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.fr
 ----Website set in DB: http://www.carltonarms.com/
 ----Website domain extracted: carltonarms.com
---Final domains to include: carltonarms.com, trivago.fr
+--Final domains to include: carltonarms.com
 
 
 Evaluated channel code: mirahotelandrecoverydirect
@@ -17968,10 +17968,10 @@ Evaluated channel code: villanestordirect
 --Referrers: https://www.trivago.fr/forward/fr
 --Domains: trivago.fr
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.fr
 ----Website set in DB: http://www.villanestor.com
 ----Website domain extracted: villanestor.com
---Final domains to include: villanestor.com, trivago.fr
+--Final domains to include: villanestor.com
 
 
 Evaluated channel code: number3castlecottage
@@ -18076,10 +18076,10 @@ Evaluated channel code: sintraboutiquedirect
 --Referrers: https://www.trivago.pt/forward/en-GB
 --Domains: trivago.pt
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.pt
 ----Website set in DB: http://sintraboutiquehotel.com/
 ----Website domain extracted: sintraboutiquehotel.com
---Final domains to include: sintraboutiquehotel.com, trivago.pt
+--Final domains to include: sintraboutiquehotel.com
 
 
 Evaluated channel code: cityapartmentsdirect
@@ -18124,10 +18124,10 @@ Evaluated channel code: nerudamardirect
 --Referrers: https://www.trivago.cl/forward/es
 --Domains: trivago.cl
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.cl
 ----Website set in DB: http://www.mrhoteles.cl/
 ----Website domain extracted: mrhoteles.cl
---Final domains to include: mrhoteles.cl, trivago.cl
+--Final domains to include: mrhoteles.cl
 
 
 Evaluated channel code: chateauresortandconferencecenter
@@ -18160,10 +18160,10 @@ Evaluated channel code: chassehotelresidencydirect
 --Referrers: https://www.trivago.nl/
 --Domains: trivago.nl
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.nl
 ----Website set in DB: https://chassehotel.com/residency/
 ----Website domain extracted: chassehotel.com
---Final domains to include: chassehotel.com, trivago.nl
+--Final domains to include: chassehotel.com
 
 
 Evaluated channel code: phuchaisaimountainresortdirect
@@ -18352,10 +18352,10 @@ Evaluated channel code: hotelcocoplumbeachdirect
 --Referrers: https://www.trivago.com.co/forward/es
 --Domains: trivago.com.co
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.co
 ----Website set in DB: http://www.cocoplumhotel.com
 ----Website domain extracted: cocoplumhotel.com
---Final domains to include: cocoplumhotel.com, trivago.com.co
+--Final domains to include: cocoplumhotel.com
 
 
 Evaluated channel code: harborhousedirect
@@ -18508,10 +18508,10 @@ Evaluated channel code: boutiquehoteldirect
 --Referrers: https://www.trivago.nl/forward/en-US
 --Domains: trivago.nl
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.nl
 ----Website set in DB: https://gerechtheerenveen.nl/
 ----Website domain extracted: gerechtheerenveen.nl
---Final domains to include: gerechtheerenveen.nl, trivago.nl
+--Final domains to include: gerechtheerenveen.nl
 
 
 Evaluated channel code: hotelbeausejourdirect
@@ -18520,10 +18520,10 @@ Evaluated channel code: hotelbeausejourdirect
 --Referrers: https://www.trivago.nl/forward/nl, https://www.trivago.com/forward/en-US
 --Domains: trivago.nl, trivago.com
 ----Internal domains found: 
-----Domains to filter out: trivago.com
+----Domains to filter out: trivago.nl, trivago.com
 ----Website set in DB: https://www.hotelbeausejourparis.com/
 ----Website domain extracted: hotelbeausejourparis.com
---Final domains to include: hotelbeausejourparis.com, trivago.nl
+--Final domains to include: hotelbeausejourparis.com
 
 
 Evaluated channel code: woomargamahoteldirect
@@ -18604,10 +18604,10 @@ Evaluated channel code: armoricadirect
 --Referrers: https://www.trivago.ie/forward/en-US
 --Domains: trivago.ie
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.ie
 ----Website set in DB: https://www.armorica.ie/
 ----Website domain extracted: armorica.ie
---Final domains to include: armorica.ie, trivago.ie
+--Final domains to include: armorica.ie
 
 
 Evaluated channel code: sleepinndusseldorfdirect
@@ -18676,10 +18676,10 @@ Evaluated channel code: thehoughtonhoteldirect
 --Referrers: https://www.trivago.no/forward/nb
 --Domains: trivago.no
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.no
 ----Website set in DB: http://thehoughtonhotel.com/
 ----Website domain extracted: thehoughtonhotel.com
---Final domains to include: thehoughtonhotel.com, trivago.no
+--Final domains to include: thehoughtonhotel.com
 
 
 Evaluated channel code: hotelboutiquepatagoniahousedirect
@@ -19168,10 +19168,10 @@ Evaluated channel code: hotelsolardosmascarenhasdirect
 --Referrers: https://www.trivago.pt/forward/pt
 --Domains: trivago.pt
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.pt
 ----Website set in DB: https://solardosmascarenhas.com
 ----Website domain extracted: solardosmascarenhas.com
---Final domains to include: solardosmascarenhas.com, trivago.pt
+--Final domains to include: solardosmascarenhas.com
 
 
 Evaluated channel code: mountainhosteldirect
@@ -19264,10 +19264,10 @@ Evaluated channel code: casasalleshotelboutiquedirect
 --Referrers: https://www.trivago.com.mx/forward/en-US
 --Domains: trivago.com.mx
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.mx
 ----Website set in DB: https://www.casasalles.com/
 ----Website domain extracted: casasalles.com
---Final domains to include: casasalles.com, trivago.com.mx
+--Final domains to include: casasalles.com
 
 
 Evaluated channel code: unionleaguelibertyhilldirect
@@ -19444,10 +19444,10 @@ Evaluated channel code: neohostelberlindirect
 --Referrers: https://www.trivago.de/forward/en-GB
 --Domains: trivago.de
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.de
 ----Website set in DB: https://www.neohostel.com/
 ----Website domain extracted: neohostel.com
---Final domains to include: neohostel.com, trivago.de
+--Final domains to include: neohostel.com
 
 
 Evaluated channel code: mollymookbannistersbytheseadirect
@@ -19480,10 +19480,10 @@ Evaluated channel code: atalaiasolaparthoteldirect
 --Referrers: https://www.trivago.pt/forward/pt
 --Domains: trivago.pt
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.pt
 ----Website set in DB: http://www.atalaiasol.pt/
 ----Website domain extracted: atalaiasol.pt
---Final domains to include: atalaiasol.pt, trivago.pt
+--Final domains to include: atalaiasol.pt
 
 
 Evaluated channel code: boydfarmsbantamhousesdirect
@@ -19504,10 +19504,10 @@ Evaluated channel code: hotelruralelmolinodefelipesldirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://hotelruralmula.com/
 ----Website domain extracted: hotelruralmula.com
---Final domains to include: hotelruralmula.com, trivago.es
+--Final domains to include: hotelruralmula.com
 
 
 Evaluated channel code: paradiseinn&conferencecentredirect
@@ -19552,10 +19552,10 @@ Evaluated channel code: quentinprague
 --Referrers: https://www.trivago.se/forward/sv, , https://www.trivago.es/forward/es-MX
 --Domains: trivago.se, trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.se, trivago.es
 ----Website set in DB: https://quentinhotels.com/hotels/quentin-prague/
 ----Website domain extracted: quentinhotels.com
---Final domains to include: quentinhotels.com, trivago.se, trivago.es
+--Final domains to include: quentinhotels.com
 
 
 Evaluated channel code: theleohousedirect
@@ -19960,10 +19960,10 @@ Evaluated channel code: iconhotelsantiagodirect
 --Referrers: https://www.trivago.com.mx/forward/en-US, , https://www.trivago.cl/forward/es-MX
 --Domains: trivago.com.mx, trivago.cl
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.mx, trivago.cl
 ----Website set in DB: https://iconchile.com/
 ----Website domain extracted: iconchile.com
---Final domains to include: iconchile.com, trivago.com.mx, trivago.cl
+--Final domains to include: iconchile.com
 
 
 Evaluated channel code: cradleboutiquedirect
@@ -20008,10 +20008,10 @@ Evaluated channel code: neuchatelcityhoteldirect
 --Referrers: https://www.trivago.it/forward/it
 --Domains: trivago.it
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.it
 ----Website set in DB: https://neuchatelcityhotel.com
 ----Website domain extracted: neuchatelcityhotel.com
---Final domains to include: neuchatelcityhotel.com, trivago.it
+--Final domains to include: neuchatelcityhotel.com
 
 
 Evaluated channel code: campigirsaotorpesdirect
@@ -20020,10 +20020,10 @@ Evaluated channel code: campigirsaotorpesdirect
 --Referrers: https://www.trivago.pt/forward/pt, 
 --Domains: trivago.pt
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.pt
 ----Website set in DB: https://www.campigir.com/es/pagina/8/s-torpes/
 ----Website domain extracted: campigir.com
---Final domains to include: campigir.com, trivago.pt
+--Final domains to include: campigir.com
 
 
 Evaluated channel code: vagantobarcelona
@@ -20044,10 +20044,10 @@ Evaluated channel code: the georgemaltadirect
 --Referrers: https://www.trivago.nl/forward/nl, https://www.trivago.fr/
 --Domains: trivago.nl, trivago.fr
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.nl, trivago.fr
 ----Website set in DB: https://thegeorgemalta.com
 ----Website domain extracted: thegeorgemalta.com
---Final domains to include: thegeorgemalta.com, trivago.nl, trivago.fr
+--Final domains to include: thegeorgemalta.com
 
 
 Evaluated channel code: issey_manor_direct
@@ -20272,10 +20272,10 @@ Evaluated channel code: kikarhoteldirect
 --Referrers: https://www.trivago.co.il/
 --Domains: trivago.co.il
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.co.il
 ----Website set in DB: https://www.kikarhotel.com/
 ----Website domain extracted: kikarhotel.com
---Final domains to include: kikarhotel.com, trivago.co.il
+--Final domains to include: kikarhotel.com
 
 
 Evaluated channel code: kitschhotel
@@ -20440,10 +20440,10 @@ Evaluated channel code: hotelinternationalsinaiadirect
 --Referrers: https://www.trivago.ro/forward/nl
 --Domains: trivago.ro
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.ro
 ----Website set in DB: https://www.internationalsinaia.ro/
 ----Website domain extracted: internationalsinaia.ro
---Final domains to include: internationalsinaia.ro, trivago.ro
+--Final domains to include: internationalsinaia.ro
 
 
 Evaluated channel code: lakelodgedirect
@@ -20464,10 +20464,10 @@ Evaluated channel code: hostaljumedirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://hostaljume.com/es/
 ----Website domain extracted: hostaljume.com
---Final domains to include: hostaljume.com, trivago.es
+--Final domains to include: hostaljume.com
 
 
 Evaluated channel code: hotelsecessionwiendirect
@@ -20644,10 +20644,10 @@ Evaluated channel code: hospederiasanmartínpinariodirect
 --Referrers: , https://www.trivago.es/
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: http://www.sanmartinpinario.eu/
 ----Website domain extracted: sanmartinpinario.eu
---Final domains to include: sanmartinpinario.eu, trivago.es
+--Final domains to include: sanmartinpinario.eu
 
 
 Evaluated channel code: thechowkitanormondhoteldirect
@@ -20860,10 +20860,10 @@ Evaluated channel code: hotelzumzieldirect
 --Referrers: https://www.trivago.nl/
 --Domains: trivago.nl
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.nl
 ----Website set in DB: http://www.hotelziel.de
 ----Website domain extracted: hotelziel.de
---Final domains to include: hotelziel.de, trivago.nl
+--Final domains to include: hotelziel.de
 
 
 Evaluated channel code: lemontreerooms
@@ -20920,10 +20920,10 @@ Evaluated channel code: apartamentosdoñacarmendirect
 --Referrers: https://www.trivago.es/, https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: http://www.apartamentosdonacarmen.com
 ----Website domain extracted: apartamentosdonacarmen.com
---Final domains to include: apartamentosdonacarmen.com, trivago.es
+--Final domains to include: apartamentosdonacarmen.com
 
 
 Evaluated channel code: theoldvine1direct
@@ -20932,10 +20932,10 @@ Evaluated channel code: theoldvine1direct
 --Referrers: https://www.trivago.no/forward/nb
 --Domains: trivago.no
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.no
 ----Website set in DB: https://oldvinewinchester.com/
 ----Website domain extracted: oldvinewinchester.com
---Final domains to include: oldvinewinchester.com, trivago.no
+--Final domains to include: oldvinewinchester.com
 
 
 Evaluated channel code: siestamoteldirect
@@ -20968,10 +20968,10 @@ Evaluated channel code: lindhotelgmbhdirect
 --Referrers: https://www.trivago.de/forward/de
 --Domains: trivago.de
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.de
 ----Website set in DB: https://www.lind-hotel.de/zimmer-suiten/
 ----Website domain extracted: lind-hotel.de
---Final domains to include: lind-hotel.de, trivago.de
+--Final domains to include: lind-hotel.de
 
 
 Evaluated channel code: pelicandirect
@@ -20980,10 +20980,10 @@ Evaluated channel code: pelicandirect
 --Referrers: https://www.trivago.nl/forward/nl
 --Domains: trivago.nl
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.nl
 ----Website set in DB: https://www.pelican-london.com/
 ----Website domain extracted: pelican-london.com
---Final domains to include: pelican-london.com, trivago.nl
+--Final domains to include: pelican-london.com
 
 
 Evaluated channel code: hotelrestaurantelasbovedasdirect
@@ -21076,10 +21076,10 @@ Evaluated channel code: novaromadirect
 --Referrers: , https://www.trivago.es/
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://www.hotelnovaroma.com/
 ----Website domain extracted: hotelnovaroma.com
---Final domains to include: hotelnovaroma.com, trivago.es
+--Final domains to include: hotelnovaroma.com
 
 
 Evaluated channel code: palacerome
@@ -21436,10 +21436,10 @@ Evaluated channel code: hotelbahiasurdirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://www.hotelbahiasur.com/
 ----Website domain extracted: hotelbahiasur.com
---Final domains to include: hotelbahiasur.com, trivago.es
+--Final domains to include: hotelbahiasur.com
 
 
 Evaluated channel code: hotelmorabezadirect
@@ -21484,10 +21484,10 @@ Evaluated channel code: parccornichecondosuitehoteldirect
 --Referrers: https://www.trivago.com.br/forward/en-US
 --Domains: trivago.com.br
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.br
 ----Website set in DB: https://parccorniche.com/
 ----Website domain extracted: parccorniche.com
---Final domains to include: parccorniche.com, trivago.com.br
+--Final domains to include: parccorniche.com
 
 
 Evaluated channel code: carolineundjrgendonhausergnbr
@@ -21868,10 +21868,10 @@ Evaluated channel code: hotelamaugustinerplatzdirect
 --Referrers: https://www.trivago.it/forward/it
 --Domains: trivago.it
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.it
 ----Website set in DB: https://www.hotel-am-augustinerplatz.de/
 ----Website domain extracted: hotel-am-augustinerplatz.de
---Final domains to include: hotel-am-augustinerplatz.de, trivago.it
+--Final domains to include: hotel-am-augustinerplatz.de
 
 
 Evaluated channel code: ascotparkhoteldirect
@@ -21988,10 +21988,10 @@ Evaluated channel code: jogllandhotelprettenhoferdirect
 --Referrers: https://www.trivago.at/forward/de
 --Domains: trivago.at
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.at
 ----Website set in DB: https://www.jogllandhotel.at/
 ----Website domain extracted: jogllandhotel.at
---Final domains to include: jogllandhotel.at, trivago.at
+--Final domains to include: jogllandhotel.at
 
 
 Evaluated channel code: innrossiodirect
@@ -22036,10 +22036,10 @@ Evaluated channel code: hauslunadirect
 --Referrers: https://www.trivago.com.br/forward/pt-BR
 --Domains: trivago.com.br
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.br
 ----Website set in DB: http://www.schwangau-homes.com
 ----Website domain extracted: schwangau-homes.com
---Final domains to include: schwangau-homes.com, trivago.com.br
+--Final domains to include: schwangau-homes.com
 
 
 Evaluated channel code: estrellademardirect
@@ -22132,10 +22132,10 @@ Evaluated channel code: apartamentoscolónplayadirect
 --Referrers: https://www.trivago.es/
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: http://www.apartamentoscolonplaya.com
 ----Website domain extracted: apartamentoscolonplaya.com
---Final domains to include: apartamentoscolonplaya.com, trivago.es
+--Final domains to include: apartamentoscolonplaya.com
 
 
 Evaluated channel code: pensaoresidencialsetubalensedirect
@@ -22288,10 +22288,10 @@ Evaluated channel code: jesmonddenedirect
 --Referrers: https://www.trivago.com/, https://www.trivago.pt/forward/pt
 --Domains: trivago.com, trivago.pt
 ----Internal domains found: 
-----Domains to filter out: trivago.com
+----Domains to filter out: trivago.com, trivago.pt
 ----Website set in DB: https://www.stpancrashotelgroup.com/hotels/the-jesmond-dene.html
 ----Website domain extracted: stpancrashotelgroup.com
---Final domains to include: stpancrashotelgroup.com, trivago.pt
+--Final domains to include: stpancrashotelgroup.com
 
 
 Evaluated channel code: myhawaiihostel
@@ -22612,10 +22612,10 @@ Evaluated channel code: roomviewdirect
 --Referrers: https://www.trivago.pt/forward/pt-BR
 --Domains: trivago.pt
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.pt
 ----Website set in DB: http://aroomwithaviewbrighton.com
 ----Website domain extracted: aroomwithaviewbrighton.com
---Final domains to include: aroomwithaviewbrighton.com, trivago.pt
+--Final domains to include: aroomwithaviewbrighton.com
 
 
 Evaluated channel code: veladhiudonthanidirect
@@ -22636,10 +22636,10 @@ Evaluated channel code: hotellermita
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: http://www.hotelermita.com
 ----Website domain extracted: hotelermita.com
---Final domains to include: hotelermita.com, trivago.es
+--Final domains to include: hotelermita.com
 
 
 Evaluated channel code: doritisguesthousemaculusso-1
@@ -22888,10 +22888,10 @@ Evaluated channel code: emperatriziiihoteldirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://emperatrizhotel.com/hotel-emperatriz-iii.htm
 ----Website domain extracted: emperatrizhotel.com
---Final domains to include: emperatrizhotel.com, trivago.es
+--Final domains to include: emperatrizhotel.com
 
 
 Evaluated channel code: summitmotorlodgedirect
@@ -23092,10 +23092,10 @@ Evaluated channel code: hotelpompaelodirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: http://www.hotelpompaelo.com
 ----Website domain extracted: hotelpompaelo.com
---Final domains to include: hotelpompaelo.com, trivago.es
+--Final domains to include: hotelpompaelo.com
 
 
 Evaluated channel code: topazhoteldirect
@@ -23632,10 +23632,10 @@ Evaluated channel code: theoldorletoninn
 --Referrers: https://www.trivago.fr/forward/en-US
 --Domains: trivago.fr
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.fr
 ----Website set in DB: https://www.theoldorletoninn.co.uk/
 ----Website domain extracted: theoldorletoninn.co.uk
---Final domains to include: theoldorletoninn.co.uk, trivago.fr
+--Final domains to include: theoldorletoninn.co.uk
 
 
 Evaluated channel code: lanternmotel
@@ -23680,10 +23680,10 @@ Evaluated channel code: hostelportici
 --Referrers: https://www.trivago.it/forward/it
 --Domains: trivago.it
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.it
 ----Website set in DB: https://hostel-portici.mydirectstay.com/
 ----Website domain extracted: hostel-portici.mydirectstay.com
---Final domains to include: hostel-portici.mydirectstay.com, trivago.it
+--Final domains to include: hostel-portici.mydirectstay.com
 
 
 Evaluated channel code: honuwaikikibywthdirect
@@ -23824,10 +23824,10 @@ Evaluated channel code: hotellastablasdirect
 --Referrers: https://www.trivago.es/
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://www.hotellastablas.com/
 ----Website domain extracted: hotellastablas.com
---Final domains to include: hotellastablas.com, trivago.es
+--Final domains to include: hotellastablas.com
 
 
 Evaluated channel code: ecofunco
@@ -24160,10 +24160,10 @@ Evaluated channel code: abadiacaminodesantiagodirect
 --Referrers: https://www.trivago.es/, https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://hotelabadiaburgos.com/
 ----Website domain extracted: hotelabadiaburgos.com
---Final domains to include: hotelabadiaburgos.com, trivago.es
+--Final domains to include: hotelabadiaburgos.com
 
 
 Evaluated channel code: hhotel
@@ -24448,10 +24448,10 @@ Evaluated channel code: nautiluslanzarotedirect
 --Referrers: https://www.trivago.nl/
 --Domains: trivago.nl
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.nl
 ----Website set in DB: https://www.nautilus-lanzarote.com/
 ----Website domain extracted: nautilus-lanzarote.com
---Final domains to include: nautilus-lanzarote.com, trivago.nl
+--Final domains to include: nautilus-lanzarote.com
 
 
 Evaluated channel code: thefarmyarddirect
@@ -24520,10 +24520,10 @@ Evaluated channel code: apartamentoslasgacelas
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: 
 ----Website domain extracted: undefined
---Final domains to include: trivago.es
+--Final domains to include: 
 
 
 Evaluated channel code: heronslakeretreatdirect
@@ -24604,10 +24604,10 @@ Evaluated channel code: swissinnresorthurghadadirect
 --Referrers: https://www.trivago.ro/forward/ro
 --Domains: trivago.ro
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.ro
 ----Website set in DB: https://swissinn.net/hotels/index.php?lang=Hurghada
 ----Website domain extracted: swissinn.net
---Final domains to include: swissinn.net, trivago.ro
+--Final domains to include: swissinn.net
 
 
 Evaluated channel code: 82adalstonlaneterrace
@@ -24724,10 +24724,10 @@ Evaluated channel code: hotelbirsighofdirect
 --Referrers: https://www.trivago.ch/
 --Domains: trivago.ch
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.ch
 ----Website set in DB: https://www.birsighof.ch/
 ----Website domain extracted: birsighof.ch
---Final domains to include: birsighof.ch, trivago.ch
+--Final domains to include: birsighof.ch
 
 
 Evaluated channel code: dundeeresortgolfclubdirect
@@ -24832,10 +24832,10 @@ Evaluated channel code: kikerestudiosdirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://www.kikerestudios.com
 ----Website domain extracted: kikerestudios.com
---Final domains to include: kikerestudios.com, trivago.es
+--Final domains to include: kikerestudios.com
 
 
 Evaluated channel code: avekingofprussiadirect
@@ -24976,10 +24976,10 @@ Evaluated channel code: andamandirect
 --Referrers: https://www.trivago.fr/
 --Domains: trivago.fr
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.fr
 ----Website set in DB: http://www.andamanwhitebeach.com
 ----Website domain extracted: andamanwhitebeach.com
---Final domains to include: andamanwhitebeach.com, trivago.fr
+--Final domains to include: andamanwhitebeach.com
 
 
 Evaluated channel code: ashfordmotorlodgedirect
@@ -25540,10 +25540,10 @@ Evaluated channel code: phfndirect
 --Referrers: https://www.trivago.es/forward/es
 --Domains: trivago.es
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.es
 ----Website set in DB: https://www.fornnou-arta.com
 ----Website domain extracted: fornnou-arta.com
---Final domains to include: fornnou-arta.com, trivago.es
+--Final domains to include: fornnou-arta.com
 
 
 Evaluated channel code: tampahhillsdirect
@@ -27604,10 +27604,10 @@ Evaluated channel code: lostulesvillasdelsoldirect
 --Referrers: https://www.trivago.vn/
 --Domains: trivago.vn
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.vn
 ----Website set in DB: https://www.lostulesvds.com/
 ----Website domain extracted: lostulesvds.com
---Final domains to include: lostulesvds.com, trivago.vn
+--Final domains to include: lostulesvds.com
 
 
 Evaluated channel code: ceespray
@@ -28036,10 +28036,10 @@ Evaluated channel code: hotelvillamexicanadirect
 --Referrers: https://www.trivago.com.mx/forward/es
 --Domains: trivago.com.mx
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.mx
 ----Website set in DB: https://hotelvillamexicana.com.mx/zihuatanejo/
 ----Website domain extracted: hotelvillamexicana.com.mx
---Final domains to include: hotelvillamexicana.com.mx, trivago.com.mx
+--Final domains to include: hotelvillamexicana.com.mx
 
 
 Evaluated channel code: hillviewatmysticridgedirect
@@ -28192,10 +28192,10 @@ Evaluated channel code: presidentvillahotelmiamibeachdirect
 --Referrers: https://www.trivago.com.ar/forward/es-AR
 --Domains: trivago.com.ar
 ----Internal domains found: 
-----Domains to filter out: 
+----Domains to filter out: trivago.com.ar
 ----Website set in DB: https://www.presidentvillamiami.com/
 ----Website domain extracted: presidentvillamiami.com
---Final domains to include: presidentvillamiami.com, trivago.com.ar
+--Final domains to include: presidentvillamiami.com
 
 
 Evaluated channel code: suenostulumdirect
